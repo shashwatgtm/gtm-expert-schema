@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Fractional CMO & Marketing Leadership",
+  "name": "Fractional CMO & Marketing Leadership",
+  "alternateName": "Interim Marketing Leadership",
+  "description": "Provides senior B2B marketing leadership and strategic guidance on a fractional basis for Series A/B startups and mid-sized companies. Focuses on developing strategic marketing plans, building high-performing teams, optimizing processes and budgets, and driving key outcomes across product, sales, and marketing.",
+  "provider": {
+    "@type": "Person",
+    "name": "Shashwat Ghosh",
+    "url": "https://gtmexpert.com"
+  },
+  "areaServed": {
+    "@type": "Place",
+    "name": "Bengaluru, Gurgaon, Mumbai, Navi Mumbai, Delhi NCR, Hyderabad, Chennai, Pune, Ahmedabad, Singapore (Remote), Dubai (Remote), US (Remote), UK(Remote) and Global (Remote)"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Fractional Marketing Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Fractional Chief Marketing Officer"
+        }
+      }
+    ]
+  },
+  "keywords": "Fractional CMO, Interim CMO, Marketing Leadership, B2B Marketing Strategy, Startup Marketing, Marketing Consulting, Growth Marketing"
+}
+
