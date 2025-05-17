@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Shashwat Ghosh",
+  "url": "https://gtmexpert.com",
+  "image": "https://gtmexpert.com/path-to-your-professional-photo.jpg", // Replace with actual image URL
+  "jobTitle": "GTM Alpha Consultant, Top Product Marketer & AI Expert",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "GTMExpert (Self-Employed)" // Or actual company name if applicable
+  },
+  "alumniOf": [
+    // Add educational institutions if available and relevant
+  ],
+  "knowsAbout": [
+    "Go-to-Market Strategy (GTM)",
+    "Product Marketing",
+    "AI in Marketing & Sales",
+    "EPIC Framework",
+    "Fractional CMO",
+    "B2B Marketing",
+    "Lead Generation",
+    "Demand Generation",
+    "Account-Based Marketing (ABM)",
+    "Product-Led Growth (PLG)",
+    "Fintech Marketing",
+    "Logistics Tech Marketing",
+    "Cybersecurity Marketing",
+    "Telecommunications Marketing",
+    "IT Services Marketing"
+  ],
+  "description": "Shashwat Ghosh is a GTM Alpha Consultant in Bengaluru, India, a top-ranked Product Marketer (LinkedIn: #10 India, #52 Worldwide), and an expert in AI for Marketing & Sales. He helps B2B tech and ITES companies achieve market dominance with his EPIC model and fractional GTM leadership.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "addressCountry": "IN"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/shashwatghosh/",
+    "https://gtmexpert.com" // Add other relevant social media or professional profiles
+  ],
+  "award": [
+    "Top 10 Product Marketing Creator in India (LinkedIn)",
+    "Top 52 Product Marketing Creator Worldwide (LinkedIn)"
+  ],
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Go-to-Market Consultant",
+    "description": "Provides expert advice and strategies for businesses to bring products to market effectively.",
+    "skills": "Go-to-Market Strategy, Market Research, Sales Enablement, Brand Development, Demand Generation, ABM, PLG"
+  }
+}
+
