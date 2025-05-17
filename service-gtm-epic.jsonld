@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "GTM Alpha Consulting with EPIC Framework",
+  "name": "GTM Alpha Consulting with EPIC Framework",
+  "alternateName": "Go-to-Market Strategy Consulting",
+  "description": "Comprehensive Go-to-Market (GTM) audit and strategic roadmap development using the proprietary EPIC framework (Ecosystem & ABM, Product-Led Growth, Inbound & Outbound Demand Generation, Community-Led Planning) to optimize market approach for B2B tech and ITES companies.",
+  "provider": {
+    "@type": "Person",
+    "name": "Shashwat Ghosh",
+    "url": "https://gtmexpert.com"
+  },
+  "areaServed": {
+    "@type": "Place",
+    "name": "Bengaluru, Gurgaon, Mumbai, Navi Mumbai, Delhi NCR, Hyderabad, Chennai, Pune, Ahmedabad, Singapore (Remote), Dubai (Remote), US (Remote), UK(Remote) and Global (Remote)"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "GTM Consulting Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "EPIC GTM Audit & Implementation"
+        }
+      }
+    ]
+  },
+  "keywords": "GTM Consulting, EPIC Framework, Go-to-Market Strategy, ABM, Product-Led Growth, Demand Generation, B2B Marketing, Startup Consulting, ITeS Marketing"
+}
+
