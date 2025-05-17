@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "AI-Powered Lead Generation & Hyper-Personalized Outreach",
+  "name": "AI-Powered Lead Generation & Hyper-Personalized Outreach",
+  "alternateName": "HyperPlays AI Lead Generation",
+  "description": "Transforms outbound sales with AI-driven ICP intelligence and hyper-personalized messaging. Leverages the HyperPlays approach for multi-touch campaigns, ensuring higher engagement, better qualified leads, and improved conversion rates for B2B businesses.",
+  "provider": {
+    "@type": "Person",
+    "name": "Shashwat Ghosh",
+    "url": "https://gtmexpert.com"
+  },
+  "areaServed": {
+    "@type": "Place",
+    "name": "Bengaluru, Gurgaon, Mumbai, Navi Mumbai, Delhi NCR, Hyderabad, Chennai, Pune, Ahmedabad, Singapore (Remote), Dubai (Remote), US (Remote), UK(Remote) and Global (Remote)"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "AI Lead Generation Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Hyper-Personalized Outreach Campaigns"
+        }
+      }
+    ]
+  },
+  "keywords": "AI Lead Generation, Hyper-Personalized Outreach, B2B Sales, Outbound Sales, Sales Automation, ICP Intelligence, Marketing AI, HyperPlays"
+}
+
