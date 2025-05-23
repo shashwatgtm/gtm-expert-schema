@@ -7,10 +7,12 @@
   "jobTitle": "GTM Alpha Consultant, Top Product Marketer & AI Expert",
   "worksFor": {
     "@type": "Organization",
-    "name": "GTMExpert (Self-Employed)" 
+    "name": "GTMExpert (Self-Employed)"
   },
-  "alumniOf": ["https://www.nitrkl.ac.in", "https://ecoledesponts.fr/en", "https://www.xlri.ac.in"
-    
+  "alumniOf": [
+    "https://www.nitrkl.ac.in",
+    "https://ecoledesponts.fr/en",
+    "https://www.xlri.ac.in"
   ],
   "knowsAbout": [
     "Go-to-Market Strategy (GTM)",
@@ -38,11 +40,22 @@
   },
   "sameAs": [
     "https://www.linkedin.com/in/shashwatghosh/",
-    "https://gtmexpert.com", "https://medium.com/@shashwatghosh", "https://www.quora.com/profile/Shashwat-Ghosh", "https://www.facebook.com/ShashGhosh", "https://x.com/Shashwat_Ghosh", "https://coda.io/@shashwat-ghosh/marketshift-ai", "https://gtmexpert.substack.com", "https://learn.g2.com/author/shashwat-ghosh", "https://www.peppercontent.io/global-marketing-leaders/shashwat-ghosh", "https://www.linkedin.com/newsletters/gtm-whisperer-7020325343286759424", "https://g.co/kgs/yNJ72UC" 
+    "https://gtmexpert.com",
+    "https://medium.com/@shashwatghosh",
+    "https://www.quora.com/profile/Shashwat-Ghosh",
+    "https://www.facebook.com/ShashGhosh",
+    "https://x.com/Shashwat_Ghosh",
+    "https://coda.io/@shashwat-ghosh/marketshift-ai",
+    "https://gtmexpert.substack.com",
+    "https://learn.g2.com/author/shashwat-ghosh",
+    "https://www.peppercontent.io/global-marketing-leaders/shashwat-ghosh",
+    "https://www.linkedin.com/newsletters/gtm-whisperer-7020325343286759424",
+    "https://g.co/kgs/yNJ72UC"
   ],
   "award": [
     "Top 10 Product Marketing Creator in India (LinkedIn)",
-    "Top 52 Product Marketing Creator Worldwide (LinkedIn)" "B2B Marketing Professional of the Year - Fintech, 2021 - CMO Asia"
+    "Top 52 Product Marketing Creator Worldwide (LinkedIn)", 
+    "B2B Marketing Professional of the Year - Fintech, 2021 - CMO Asia"
   ],
   "hasOccupation": {
     "@type": "Occupation",
