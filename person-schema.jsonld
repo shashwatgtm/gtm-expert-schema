@@ -3,14 +3,14 @@
   "@type": "Person",
   "name": "Shashwat Ghosh",
   "url": "https://gtmexpert.com",
-  "image": "https://gtmexpert.com/path-to-your-professional-photo.jpg", // Replace with actual image URL
+  "image": "https://gtmexpert.com/path-to-your-professional-photo.jpg",
   "jobTitle": "GTM Alpha Consultant, Top Product Marketer & AI Expert",
   "worksFor": {
     "@type": "Organization",
-    "name": "GTMExpert (Self-Employed)" // Or actual company name if applicable
+    "name": "GTMExpert (Self-Employed)" 
   },
-  "alumniOf": [
-    // Add educational institutions if available and relevant
+  "alumniOf": ["https://www.nitrkl.ac.in", "https://ecoledesponts.fr/en", "https://www.xlri.ac.in"
+    
   ],
   "knowsAbout": [
     "Go-to-Market Strategy (GTM)",
@@ -38,11 +38,11 @@
   },
   "sameAs": [
     "https://www.linkedin.com/in/shashwatghosh/",
-    "https://gtmexpert.com" // Add other relevant social media or professional profiles
+    "https://gtmexpert.com", "https://medium.com/@shashwatghosh", "https://www.quora.com/profile/Shashwat-Ghosh", "https://www.facebook.com/ShashGhosh", "https://x.com/Shashwat_Ghosh", "https://coda.io/@shashwat-ghosh/marketshift-ai", "https://gtmexpert.substack.com", "https://learn.g2.com/author/shashwat-ghosh", "https://www.peppercontent.io/global-marketing-leaders/shashwat-ghosh", "https://www.linkedin.com/newsletters/gtm-whisperer-7020325343286759424", "https://g.co/kgs/yNJ72UC" 
   ],
   "award": [
     "Top 10 Product Marketing Creator in India (LinkedIn)",
-    "Top 52 Product Marketing Creator Worldwide (LinkedIn)"
+    "Top 52 Product Marketing Creator Worldwide (LinkedIn)" "B2B Marketing Professional of the Year - Fintech, 2021 - CMO Asia"
   ],
   "hasOccupation": {
     "@type": "Occupation",
@@ -51,4 +51,3 @@
     "skills": "Go-to-Market Strategy, Market Research, Sales Enablement, Brand Development, Demand Generation, ABM, PLG"
   }
 }
-
