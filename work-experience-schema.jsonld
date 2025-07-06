@@ -1,0 +1,296 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Shashwat Ghosh",
+  "url": "https://www.gtmexpert.com",
+  "jobTitle": "GTM Alpha Consultant, Fractional CMO & Top Product Marketing Voice",
+  "hasOccupation": [
+    {
+      "@type": "Role",
+      "roleName": "Co-Founder and GTM Alpha Consultant",
+      "startDate": "2016",
+      "endDate": "Present",
+      "organization": {
+        "@type": "Organization",
+        "name": "Helix GTM Consulting",
+        "url": "https://www.gtmexpert.com",
+        "description": "GTM Alpha consulting and Fractional CMO services"
+      },
+      "responsibilities": [
+        "Developed proprietary EPIC Framework for GTM optimization",
+        "Delivered 4X business growth results for clients",
+        "Achieved LinkedIn ranking #10 India, #52 Worldwide in Product Marketing",
+        "Served as Fractional CMO for multiple B2B SaaS and tech startups",
+        "Specialized in AI-powered marketing strategies and account-based marketing"
+      ],
+      "skills": [
+        "GTM Alpha Methodology",
+        "EPIC Framework",
+        "Fractional CMO Services",
+        "AI-Powered Marketing",
+        "Account-Based Marketing"
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "Chief Marketing Officer",
+      "startDate": "2023-04",
+      "endDate": "2024-09",
+      "organization": {
+        "@type": "Organization",
+        "name": "FieldAssist",
+        "description": "B2B SaaS platform for retail execution and trade marketing"
+      },
+      "responsibilities": [
+        "Led comprehensive marketing strategy for B2B SaaS platform",
+        "Implemented EPIC framework for demand generation and customer acquisition",
+        "Managed marketing team and budget optimization",
+        "Drove product marketing and competitive positioning strategies"
+      ],
+      "achievements": [
+        "Successful implementation of GTM Alpha methodology in SaaS environment",
+        "Enhanced brand positioning in retail tech market"
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "VP Global Performance Marketing",
+      "startDate": "2022-02",
+      "endDate": "2022-10",
+      "organization": {
+        "@type": "Organization",
+        "name": "Locus",
+        "description": "AI-powered logistics optimization platform"
+      },
+      "responsibilities": [
+        "Developed global performance marketing strategies",
+        "Led demand generation across multiple international markets",
+        "Implemented data-driven marketing automation and optimization",
+        "Managed marketing technology stack and performance analytics"
+      ],
+      "achievements": [
+        "Scaled marketing operations across global markets",
+        "Enhanced AI-powered marketing methodologies"
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "Vice President Marketing",
+      "startDate": "2019-11",
+      "endDate": "2022-01",
+      "organization": {
+        "@type": "Organization",
+        "name": "Happay",
+        "description": "Expense management and business payment solutions"
+      },
+      "responsibilities": [
+        "Led complete marketing function for fintech platform",
+        "Developed integrated marketing strategies for B2B and enterprise segments",
+        "Managed brand positioning and competitive differentiation",
+        "Implemented customer acquisition and retention strategies"
+      ],
+      "achievements": [
+        "Successful marketing transformation in fintech sector",
+        "Enhanced market positioning and customer engagement"
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "Director of Product Marketing",
+      "startDate": "2016-07",
+      "endDate": "2017-10",
+      "organization": {
+        "@type": "Organization",
+        "name": "Seclore",
+        "description": "Data security and information rights management solutions"
+      },
+      "responsibilities": [
+        "Led product marketing strategy for cybersecurity solutions",
+        "Developed go-to-market strategies for enterprise security products",
+        "Managed competitive analysis and market positioning",
+        "Created technical marketing content and sales enablement materials"
+      ],
+      "achievements": [
+        "Successful product launches in cybersecurity market",
+        "Enhanced technical marketing expertise"
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "Head - Customer Insights, Brand & New Projects",
+      "startDate": "2011-10",
+      "endDate": "2016-07",
+      "organization": {
+        "@type": "Organization",
+        "name": "HCL Infosystems Ltd.",
+        "description": "Technology and IT services company"
+      },
+      "responsibilities": [
+        "Led customer insights and brand strategy initiatives",
+        "Managed new project development and market research",
+        "Developed integrated marketing campaigns for technology products",
+        "Implemented customer-centric marketing approaches"
+      ],
+      "achievements": [
+        "Enhanced customer insights capabilities",
+        "Successful brand transformation initiatives",
+        "Developed expertise in technology marketing"
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "Senior Brand & Media Manager",
+      "startDate": "2007-06",
+      "endDate": "2011-10",
+      "organization": {
+        "@type": "Organization",
+        "name": "Bharti Airtel",
+        "description": "Leading telecommunications company"
+      },
+      "responsibilities": [
+        "Managed brand strategy and media planning for Data Centers & Managed Services",
+        "Led account-based marketing for existing enterprise customers",
+        "Executed marketing campaigns through technology events and IT publications",
+        "Developed comprehensive communication strategies for B2B segments"
+      ],
+      "achievements": [
+        "Delivered 4X business growth for DC & MS division in 3 years",
+        "Successful launch and scaling of enterprise data center services",
+        "Recognition from Kunwar B. Kishore Arora (Ex-Global COO, APCER): 'exceptional job in brand building and communication'"
+      ],
+      "testimonial": {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Kunwar B. Kishore Arora",
+          "jobTitle": "Ex-Global Chief Operating Officer",
+          "worksFor": "APCER Life Sciences"
+        },
+        "reviewBody": "When I was building the Data Center and Managed Services business from inception, Shashwat and his team did an exceptional job in brand building and communication. We grew the DC & MS business by 4X in 3 Years."
+      }
+    },
+    {
+      "@type": "Role",
+      "roleName": "National Marketing Manager - Broadband",
+      "startDate": "2004-01",
+      "endDate": "2007-05",
+      "organization": {
+        "@type": "Organization",
+        "name": "Reliance Communications",
+        "description": "Telecommunications and broadband services"
+      },
+      "responsibilities": [
+        "Led national marketing strategy for broadband services",
+        "Developed integrated marketing campaigns for consumer and enterprise segments",
+        "Managed product launches and market expansion initiatives",
+        "Coordinated with regional teams for nationwide marketing execution"
+      ],
+      "achievements": [
+        "Successful broadband market penetration strategies",
+        "Enhanced understanding of telecommunications marketing",
+        "Recognition from Rajendra Gupta (Current Chief Growth Officer, Rediffusion): 'strategically strong and very hard working'"
+      ],
+      "testimonial": {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Rajendra Gupta",
+          "jobTitle": "Chief Growth Officer",
+          "worksFor": "Rediffusion"
+        },
+        "reviewBody": "Shashwat and I worked together during the initial phase of Reliance Infocom. He is not only strategically strong, but also a very hard working guy."
+      }
+    },
+    {
+      "@type": "Role",
+      "roleName": "Account Manager",
+      "startDate": "2000-04",
+      "endDate": "2004-01",
+      "organization": {
+        "@type": "Organization",
+        "name": "Wunderman",
+        "description": "Global advertising and marketing agency"
+      },
+      "responsibilities": [
+        "Managed client relationships and marketing campaigns",
+        "Developed integrated marketing solutions for B2B and consumer brands",
+        "Coordinated between creative, strategy, and client servicing teams",
+        "Executed direct marketing and database marketing campaigns"
+      ],
+      "achievements": [
+        "Successful client relationship management across diverse industries",
+        "Foundation in integrated marketing communications",
+        "Recognition from agency leadership for client servicing excellence"
+      ],
+      "testimonial": {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Tuhin Chakraborty",
+          "jobTitle": "Chief Business Officer",
+          "worksFor": "POSSIBLE"
+        },
+        "reviewBody": "Shashwat is one of those quintessential client, that a agency guy would always look forward to meeting on the other side of the table...basically one who has straddled both the sides."
+      }
+    }
+  ],
+  "alumniOf": [
+    {
+      "@type": "EducationalOrganization",
+      "name": "National Institute of Technology (NIT) Rourkela",
+      "description": "Bachelor of Engineering in Metallurgy",
+      "startDate": "1990",
+      "endDate": "1994"
+    },
+    {
+      "@type": "EducationalOrganization", 
+      "name": "École des Ponts ParisTech",
+      "description": "MBA in Marketing",
+      "startDate": "1997",
+      "endDate": "1999"
+    },
+    {
+      "@type": "EducationalOrganization",
+      "name": "XLRI Jamshedpur",
+      "description": "Postgraduate Certificate in Management",
+      "startDate": "2002",
+      "endDate": "2004"
+    }
+  ],
+  "award": [
+    {
+      "@type": "Award",
+      "name": "LinkedIn Top Product Marketing Voice",
+      "description": "Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators",
+      "dateAwarded": "2024"
+    },
+    {
+      "@type": "Award", 
+      "name": "4X Business Growth Achievement",
+      "description": "Delivered 4X business growth for Airtel Data Centers & Managed Services in 3 years",
+      "dateAwarded": "2011"
+    }
+  ],
+  "knowsAbout": [
+    "GTM Alpha Methodology",
+    "EPIC Framework",
+    "Account-Based Marketing", 
+    "Fractional CMO Services",
+    "B2B SaaS Marketing",
+    "Fintech Marketing",
+    "Cybersecurity Marketing",
+    "Telecommunications Marketing",
+    "Technology Marketing",
+    "AI-Powered Marketing",
+    "Performance Marketing",
+    "Brand Strategy",
+    "Product Marketing",
+    "Demand Generation"
+  ],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.gtmexpert.com"
+  }
+}
+</script>
