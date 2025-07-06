@@ -2,65 +2,384 @@
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Shashwat Ghosh",
-  "url": "https://gtmexpert.com",
-  "image": "https://gtmexpert.com/path-to-your-professional-photo.jpg",
-  "jobTitle": "GTM Alpha Consultant, Top Product Marketer & AI Expert",
+  "url": "https://www.gtmexpert.com",
+  "email": "shashwat@gtmexpert.com",
+  "jobTitle": "GTM Alpha Consultant, Fractional CMO & Top Product Marketing Voice",
+  "alternateName": ["GTM Alpha Expert", "shashghosh", "shashwatgtm"],
   "worksFor": {
     "@type": "Organization",
-    "name": "GTMExpert (Self-Employed)"
+    "name": "Helix GTM Consulting",
+    "alternateName": "GTMExpert",
+    "description": "Fractional CMO and GTM consulting services",
+    "url": "https://www.gtmexpert.com"
   },
-  "alumniOf": [
-    "https://www.nitrkl.ac.in",
-    "https://ecoledesponts.fr/en",
-    "https://www.xlri.ac.in"
+  "foundedOrganizations": [
+    {
+      "@type": "Organization",
+      "name": "Helix GTM Consulting",
+      "foundingDate": "2022-10",
+      "description": "GTM consulting and EPIC framework optimization services"
+    },
+    {
+      "@type": "Organization",
+      "name": "Fractional Frontiers",
+      "foundingDate": "2024-11",
+      "description": "Fractional executive services platform"
+    },
+    {
+      "@type": "Organization", 
+      "name": "HyperPlays",
+      "description": "AI-powered hyper-personalized lead generation platform",
+      "url": "https://www.hyper-plays.com"
+    }
   ],
   "knowsAbout": [
+    "GTM Alpha Methodology",
+    "EPIC Framework (Ecosystem & ABM, Product-Led Growth, Inbound & Outbound Demand Generation, Community-Led Planning)",
     "Go-to-Market Strategy (GTM)",
     "Product Marketing",
     "AI in Marketing & Sales",
-    "EPIC Framework",
-    "Fractional CMO",
-    "B2B Marketing",
-    "Lead Generation",
-    "Demand Generation",
+    "Fractional CMO Services",
+    "B2B Tech Marketing",
     "Account-Based Marketing (ABM)",
     "Product-Led Growth (PLG)",
+    "Demand Generation",
+    "Sales Enablement",
+    "Marketing Strategy",
+    "SaaS Marketing",
     "Fintech Marketing",
     "Logistics Tech Marketing",
     "Cybersecurity Marketing",
     "Telecommunications Marketing",
-    "IT Services Marketing"
+    "IT Services Marketing",
+    "Startup Growth Strategy",
+    "Pipeline Marketing",
+    "Marketing Automation",
+    "Digital Twin Technology",
+    "CRM Optimization"
   ],
-  "description": "Shashwat Ghosh is a GTM Alpha Consultant in Bengaluru, India, a top-ranked Product Marketer (LinkedIn: #10 India, #52 Worldwide), and an expert in AI for Marketing & Sales. He helps B2B tech and ITES companies achieve market dominance with his EPIC model and fractional GTM leadership.",
+  "description": "Shashwat Ghosh is a GTM Alpha Consultant and Fractional CMO with 24+ years of B2B experience and 8+ years of senior fractional experience in B2B SaaS, vSaaS, and midsize ITeS. Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators. Alumni of NIT Rourkela, École des Ponts ParisTech, and XLRI Jamshedpur. He specializes in AI-powered marketing and the revolutionary EPIC framework, helping B2B tech startups achieve market dominance through data-driven strategies across India, APAC, MEA, US, and UK markets.",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Bengaluru",
     "addressRegion": "Karnataka",
     "addressCountry": "IN"
   },
+  "areaServed": [
+    {
+      "@type": "Country",
+      "name": "India"
+    },
+    {
+      "@type": "AdministrativeArea", 
+      "name": "APAC"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Middle East"
+    },
+    {
+      "@type": "Country",
+      "name": "United States"
+    },
+    {
+      "@type": "Country", 
+      "name": "United Kingdom"
+    }
+  ],
   "sameAs": [
     "https://www.linkedin.com/in/shashwatghosh/",
-    "https://gtmexpert.com",
-    "https://medium.com/@shashwatghosh",
-    "https://www.quora.com/profile/Shashwat-Ghosh",
-    "https://www.facebook.com/ShashGhosh",
+    "https://www.gtmexpert.com",
+    "https://github.com/shashwatgtm",
+    "https://apify.com/shashghosh",
     "https://x.com/Shashwat_Ghosh",
-    "https://coda.io/@shashwat-ghosh/marketshift-ai",
+    "https://coffeemug.ai/contact/shashwatghosh/",
+    "https://calendly.com/shashwat-gtmhelix/45min",
     "https://gtmexpert.substack.com",
-    "https://learn.g2.com/author/shashwat-ghosh",
-    "https://www.peppercontent.io/global-marketing-leaders/shashwat-ghosh",
-    "https://www.linkedin.com/newsletters/gtm-whisperer-7020325343286759424",
-    "https://g.co/kgs/yNJ72UC"
+    "https://www.hyper-plays.com"
   ],
   "award": [
+    "Top Product Marketing Voice on LinkedIn (Badge Holder)",
     "Top 10 Product Marketing Creator in India (LinkedIn)",
-    "Top 52 Product Marketing Creator Worldwide (LinkedIn)", 
-    "B2B Marketing Professional of the Year - Fintech, 2021 - CMO Asia"
+    "Top 52 Product Marketing Creator Worldwide (LinkedIn)",
+    "B2B Marketing Awards Jury Member"
   ],
-  "hasOccupation": {
-    "@type": "Occupation",
-    "name": "Go-to-Market Consultant",
-    "description": "Provides expert advice and strategies for businesses to bring products to market effectively.",
-    "skills": "Go-to-Market Strategy, Market Research, Sales Enablement, Brand Development, Demand Generation, ABM, PLG"
-  }
+  "hasOccupation": [
+    {
+      "@type": "Occupation",
+      "name": "GTM Alpha Consultant",
+      "description": "Provides expert GTM strategy consulting using proprietary GTM Alpha methodology and EPIC framework for B2B startups and growth companies.",
+      "skills": "GTM Alpha Methodology, EPIC Framework, Market Entry Strategy, Demand Generation, Pipeline Marketing"
+    },
+    {
+      "@type": "Occupation", 
+      "name": "Fractional CMO",
+      "description": "Provides senior B2B marketing leadership and strategic guidance on a fractional basis for Series A/B startups and mid-sized companies.",
+      "skills": "Marketing Strategy Development, Team Leadership, Budget Optimization, Marketing Technology Stack"
+    }
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Bachelor of Engineering, Metallurgy",
+      "educationalLevel": "Undergraduate",
+      "educationalCredentialAwarded": "Bachelor's Degree",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "National Institute of Technology, Rourkela"
+      },
+      "startDate": "1990",
+      "endDate": "1994"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Masters of Business Administration, Marketing",
+      "educationalLevel": "Graduate",
+      "educationalCredentialAwarded": "Master's Degree",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "École des Ponts ParisTech"
+      },
+      "startDate": "1997",
+      "endDate": "1999"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Postgraduate Certificate in Business Management",
+      "educationalLevel": "Postgraduate",
+      "educationalCredentialAwarded": "Certificate",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "XLRI Jamshedpur"
+      },
+      "startDate": "2002",
+      "endDate": "2004"
+    }
+  ],
+  "workHistory": [
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Co-Founder and Fractional CMO",
+      "startDate": "2022-10",
+      "endDate": "Present",
+      "organization": {
+        "@type": "Organization",
+        "name": "Helix GTM Consulting"
+      }
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "CMO",
+      "startDate": "2023-04",
+      "endDate": "2024-09",
+      "organization": {
+        "@type": "Organization",
+        "name": "FieldAssist"
+      }
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "VP Global Performance Marketing",
+      "startDate": "2022-02",
+      "endDate": "2022-10",
+      "organization": {
+        "@type": "Organization",
+        "name": "Locus"
+      }
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Vice President Marketing",
+      "startDate": "2019-11",
+      "endDate": "2022-01",
+      "organization": {
+        "@type": "Organization",
+        "name": "Happay - Expense Management Solution for Businesses"
+      }
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Director of Product Marketing",
+      "startDate": "2016-07",
+      "endDate": "2017-10",
+      "organization": {
+        "@type": "Organization",
+        "name": "Seclore"
+      }
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Head - Customer Insights, Brand & New Projects",
+      "startDate": "2011-10",
+      "endDate": "2016-07",
+      "organization": {
+        "@type": "Organization",
+        "name": "HCL Infosystems Ltd."
+      }
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Senior Brand & Media Manager",
+      "startDate": "2007-06",
+      "endDate": "2011-10",
+      "organization": {
+        "@type": "Organization",
+        "name": "Airtel"
+      }
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "National Marketing Manager - Broadband",
+      "startDate": "2004-01",
+      "endDate": "2007-05",
+      "organization": {
+        "@type": "Organization",
+        "name": "Reliance Communications"
+      }
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Account Manager",
+      "startDate": "2000-04",
+      "endDate": "2004-01",
+      "organization": {
+        "@type": "Organization",
+        "name": "Wunderman"
+      }
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "9",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "amit gaur"
+      },
+      "datePublished": "2023-01-31",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "Excellent GTM consulting services with deep expertise in B2B marketing strategies."
+    }
+  ],
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "B2B Marketing Awards Jury",
+      "description": "Jury member for B2B Marketing Awards by B2B World Summit"
+    },
+    {
+      "@type": "Organization",
+      "name": "LinkedIn Product Marketing Community",
+      "description": "Top Product Marketing Voice badge holder and community contributor"
+    }
+  ],
+  "alumniOf": [
+    {
+      "@type": "Organization",
+      "name": "National Institute of Technology, Rourkela",
+      "description": "Premier engineering institute in India"
+    },
+    {
+      "@type": "Organization",
+      "name": "École des Ponts ParisTech",
+      "description": "Leading French engineering school"
+    },
+    {
+      "@type": "Organization",
+      "name": "XLRI Jamshedpur",
+      "description": "Premier business school in India"
+    }
+  ],
+  "owns": [
+    {
+      "@type": "SoftwareApplication",
+      "name": "GTM Alpha Consultant Digital Twin",
+      "description": "AI-powered GTM strategy analysis tool using EPIC framework",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Web",
+      "url": "https://apify.com/shashghosh/gtm-alpha-consultant"
+    }
+  ],
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "GTM Alpha Consultation",
+        "description": "Strategic GTM consulting using EPIC framework and GTM Alpha methodology",
+        "provider": {
+          "@type": "Person", 
+          "name": "Shashwat Ghosh"
+        }
+      },
+      "availability": "https://schema.org/InStock"
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Fractional CMO Services", 
+        "description": "Part-time senior marketing leadership for startups and growth companies",
+        "provider": {
+          "@type": "Person",
+          "name": "Shashwat Ghosh"
+        }
+      },
+      "availability": "https://schema.org/InStock"
+    }
+  ],
+  "seeks": {
+    "@type": "ContactPoint",
+    "description": "Open to consulting with SaaS founders and B2B startup CXOs for GTM challenges and growth strategies"
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Business Consultation",
+      "telephone": "+919810603649",
+      "email": "shashwat@gtmexpert.com",
+      "url": "https://calendly.com/shashwat-gtmhelix/45min",
+      "availableLanguage": ["English", "Hindi"]
+    },
+    {
+      "@type": "ContactPoint", 
+      "contactType": "Social Media",
+      "url": "https://www.linkedin.com/in/shashwatghosh/"
+    }
+  ],
+  "interestIn": [
+    "B2B SaaS Growth",
+    "AI in Marketing",
+    "Startup Scaling",
+    "Product-Led Growth",
+    "Digital Photography",
+    "OTT Platforms",
+    "Social Impact Projects"
+  ],
+  "publishingPrinciples": "https://learn.g2.com/shashwat-ghosh-startup-gtm-problem",
+  "workExample": [
+    {
+      "@type": "Article",
+      "name": "FieldAssist's CMO Explains Why Your Startup Has a GTM Problem",
+      "url": "https://learn.g2.com/shashwat-ghosh-startup-gtm-problem",
+      "publisher": "G2",
+      "about": "EPIC Framework and GTM strategy for startups"
+    },
+    {
+      "@type": "Article", 
+      "name": "Go-to-Market in 2023 needs a reset!",
+      "url": "https://www.linkedin.com/pulse/go-to-market-2023-needs-reset-shashwat-ghosh",
+      "publisher": "LinkedIn",
+      "about": "Modern GTM strategies for B2B startups"
+    }
+  ]
 }
