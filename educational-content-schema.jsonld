@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "GTM Alpha Methodology Masterclass",
+  "description": "Comprehensive go-to-market strategy training based on 24+ years of B2B marketing excellence and proven 4X growth methodologies",
+  "provider": {
+    "@type": "Organization",
+    "name": "Helix GTM Consulting",
+    "url": "https://www.gtmexpert.com"
+  },
+  "instructor": {
+    "@type": "Person",
+    "name": "Shashwat Ghosh",
+    "jobTitle": "GTM Alpha Consultant & Fractional CMO",
+    "description": "LinkedIn #10 Product Marketing Voice India, 24+ years B2B marketing expert",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Helix GTM Consulting"
+    }
+  },
+  "courseCode": "GTM-ALPHA-101",
+  "coursePrerequisites": "Basic marketing knowledge, B2B business experience recommended",
+  "educationalLevel": "Professional Development",
+  "teaches": [
+    "Go-to-market strategy development",
+    "EPIC Framework implementation", 
+    "Account-based marketing tactics",
+    "Customer journey optimization",
+    "Fractional leadership principles",
+    "B2B SaaS growth strategies"
+  ],
+  "learningResourceType": [
+    "Masterclass",
+    "Workshop", 
+    "Strategy Session",
+    "Consultation"
+  ],
+  "courseWorkload": "PT8H",
+  "educationalCredentialAwarded": "GTM Alpha Certification",
+  "hasCourseInstance": [
+    {
+      "@type": "CourseInstance",
+      "courseMode": "Online",
+      "courseSchedule": {
+        "@type": "Schedule",
+        "description": "Flexible scheduling available"
+      },
+      "location": {
+        "@type": "VirtualLocation",
+        "url": "https://www.gtmexpert.com/contact"
+      }
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Go-to-Market Strategy",
+      "description": "Comprehensive framework for bringing products to market successfully"
+    },
+    {
+      "@type": "Thing", 
+      "name": "B2B Marketing",
+      "description": "Business-to-business marketing strategies and tactics"
+    },
+    {
+      "@type": "Thing",
+      "name": "Fractional Executive Leadership", 
+      "description": "Part-time senior executive guidance for growing companies"
+    }
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Kunwar B. Kishore Arora",
+        "jobTitle": "Ex-Global COO",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "APCER Life Sciences"
+        }
+      },
+      "reviewBody": "Shashwat's GTM Alpha methodology delivered exceptional results for our data centers division. His strategic approach and execution excellence helped us achieve 4X business growth. A true marketing visionary with deep B2B expertise.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      }
+    }
+  ]
+}
