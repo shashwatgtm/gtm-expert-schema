@@ -1,0 +1,90 @@
+{
+  "@context": "https://schema.org",
+  "@type": "KnowledgeBase",
+  "name": "GTM Alpha Consulting Knowledge Hub",
+  "description": "Comprehensive knowledge base for Go-To-Market strategy, fractional CMO services, and B2B marketing excellence by Shashwat Ghosh",
+  "url": "https://www.gtmexpert.com",
+  "dateModified": "2025-01-08",
+  "author": {
+    "@type": "Person",
+    "name": "Shashwat Ghosh",
+    "jobTitle": "GTM Alpha Consultant & Fractional CMO",
+    "description": "24+ years B2B marketing expert, #10 Product Marketing Voice India, 4X business growth achiever",
+    "sameAs": [
+      "https://www.linkedin.com/in/shashwatghosh/",
+      "https://twitter.com/gtmexpert"
+    ]
+  },
+  "mainEntity": [
+    {
+      "@type": "DefinedTerm",
+      "name": "GTM Alpha Strategy",
+      "description": "Proprietary go-to-market framework that delivers 4X business growth through strategic positioning, customer journey optimization, and data-driven execution",
+      "termCode": "GTM-ALPHA",
+      "inDefinedTermSet": {
+        "@type": "DefinedTermSet",
+        "name": "GTM Methodologies",
+        "hasDefinedTerm": [
+          {
+            "@type": "DefinedTerm",
+            "name": "EPIC Framework",
+            "description": "Evidence-based go-to-market methodology: Explore market opportunities, Position strategically, Implement systematically, Control and optimize performance"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Fractional CMO",
+      "description": "Part-time senior marketing executive providing strategic leadership for B2B companies without full-time CMO budget. Expertise in SaaS, fintech, and enterprise technology",
+      "termCode": "FCMO"
+    }
+  ],
+  "specialty": [
+    "Go-To-Market Strategy",
+    "Fractional CMO Services", 
+    "B2B SaaS Marketing",
+    "Account-Based Marketing",
+    "Product Marketing",
+    "Growth Marketing",
+    "Digital Transformation",
+    "AI Marketing Strategy"
+  ],
+  "serviceArea": {
+    "@type": "Place",
+    "name": "Global",
+    "description": "India, APAC, MEA, US, UK"
+  },
+  "award": [
+    {
+      "@type": "Award",
+      "name": "LinkedIn Top Product Marketing Voice",
+      "description": "#10 in India, #52 Worldwide"
+    },
+    {
+      "@type": "Award", 
+      "name": "4X Business Growth Achievement",
+      "description": "Delivered 4X business growth at Airtel Data Centers division"
+    }
+  ],
+  "credential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Engineering",
+      "educationalLevel": "Bachelor's Degree",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "National Institute of Technology Rourkela"
+      }
+    },
+    {
+      "@type": "EducationalOccupationalCredential", 
+      "credentialCategory": "Management",
+      "educationalLevel": "Executive Education",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "École des Ponts ParisTech, France"
+      }
+    }
+  ]
+}
