@@ -1,0 +1,525 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Shashwat Ghosh",
+  "url": "https://www.gtmexpert.com",
+  "email": "shashwat@gtmexpert.com",
+  "telephone": "+919810603649",
+  "jobTitle": "GTM Alpha Consultant, Fractional CMO & Top Product Marketing Voice",
+  "description": "Shashwat Ghosh is a GTM Alpha Consultant and Fractional CMO with 24+ years of B2B experience and 8+ years of senior fractional experience. Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators. Alumni of NIT Rourkela, École des Ponts ParisTech, and XLRI Jamshedpur. Known for 4X business growth achievements and exceptional brand building capabilities.",
+  "image": "https://www.gtmexpert.com/wp-content/uploads/2024/10/Shashwat-Ghosh-GTM-Expert-Professional-Photo.jpg",
+  "alternateName": ["GTM Alpha Expert", "shashghosh", "shashwatgtm"],
+  "sameAs": [
+    "https://www.linkedin.com/in/shashwat-ghosh-gtm-expert/",
+    "https://twitter.com/shashwatghosh",
+    "https://github.com/shashwatgtm",
+    "https://apify.com/shashghosh",
+    "https://calendly.com/shashwat-gtmhelix/45min",
+    "https://gtmexpert.substack.com",
+    "https://www.hyper-plays.com"
+  ],
+  "knowsAbout": [
+    "GTM Alpha Methodology",
+    "EPIC Framework (Ecosystem & ABM, Product-Led Growth, Inbound & Outbound Demand Generation, Community-Led Planning)",
+    "Go-to-Market Strategy",
+    "Product Marketing",
+    "Fractional CMO Services",
+    "B2B Marketing",
+    "Account-Based Marketing",
+    "Brand Building",
+    "Technology Marketing",
+    "Business Growth Strategy",
+    "Cross-functional Leadership",
+    "Marketing Operations",
+    "AI in Marketing & Sales",
+    "SaaS Marketing",
+    "Fintech Marketing",
+    "Logistics Tech Marketing",
+    "Cybersecurity Marketing",
+    "Telecommunications Marketing"
+  ],
+  "hasOccupation": [
+    {
+      "@type": "Occupation",
+      "name": "GTM Alpha Consultant",
+      "occupationLocation": {
+        "@type": "Place",
+        "name": "India"
+      },
+      "skills": [
+        "Account-Based Marketing",
+        "4X Business Growth",
+        "Brand Building",
+        "Technology Marketing",
+        "Strategic Planning",
+        "Cross-functional Leadership"
+      ]
+    },
+    {
+      "@type": "Occupation",
+      "name": "Fractional CMO",
+      "occupationLocation": {
+        "@type": "Place",
+        "name": "Global"
+      },
+      "skills": [
+        "Marketing Strategy",
+        "Team Leadership",
+        "Business Development",
+        "Revenue Growth",
+        "Marketing Operations"
+      ]
+    }
+  ],
+  "alumniOf": [
+    {
+      "@type": "EducationalOrganization",
+      "name": "National Institute of Technology (NIT) Rourkela",
+      "description": "Bachelor of Engineering in Metallurgy",
+      "startDate": "1990",
+      "endDate": "1994"
+    },
+    {
+      "@type": "EducationalOrganization", 
+      "name": "École des Ponts ParisTech",
+      "description": "MBA in Marketing",
+      "startDate": "1997",
+      "endDate": "1999"
+    },
+    {
+      "@type": "EducationalOrganization",
+      "name": "XLRI Jamshedpur",
+      "description": "Postgraduate Certificate in Management",
+      "startDate": "2002",
+      "endDate": "2004"
+    }
+  ],
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "Helix GTM Consulting",
+      "url": "https://www.gtmexpert.com",
+      "foundingDate": "2016",
+      "description": "GTM Alpha Consulting and Fractional CMO Services"
+    },
+    {
+      "@type": "Organization",
+      "name": "Fractional Frontiers",
+      "description": "Co-founder of Fractional Leadership Community",
+      "foundingDate": "2022"
+    }
+  ],
+  "foundedOrganizations": [
+    {
+      "@type": "Organization",
+      "name": "Helix GTM Consulting",
+      "foundingDate": "2016",
+      "description": "GTM consulting and EPIC framework optimization services"
+    },
+    {
+      "@type": "Organization",
+      "name": "Fractional Frontiers",
+      "foundingDate": "2022",
+      "description": "Fractional executive services platform"
+    },
+    {
+      "@type": "Organization", 
+      "name": "HyperPlays",
+      "description": "AI-powered hyper-personalized lead generation platform",
+      "url": "https://www.hyper-plays.com"
+    }
+  ],
+  "workHistory": [
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Co-Founder and Fractional CMO",
+      "startDate": "2022-10",
+      "endDate": "Present",
+      "organization": {
+        "@type": "Organization",
+        "name": "Helix GTM Consulting"
+      }
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "CMO",
+      "startDate": "2023-04",
+      "endDate": "2024-09",
+      "organization": {
+        "@type": "Organization",
+        "name": "FieldAssist"
+      }
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "VP Global Performance Marketing",
+      "startDate": "2022-02",
+      "endDate": "2022-10",
+      "organization": {
+        "@type": "Organization",
+        "name": "Locus"
+      }
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Vice President Marketing",
+      "startDate": "2019-11",
+      "endDate": "2022-01",
+      "organization": {
+        "@type": "Organization",
+        "name": "Happay - Expense Management Solution for Businesses"
+      }
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Director of Product Marketing",
+      "startDate": "2016-07",
+      "endDate": "2017-10",
+      "organization": {
+        "@type": "Organization",
+        "name": "Seclore"
+      }
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Head - Customer Insights, Brand & New Projects",
+      "startDate": "2011-10",
+      "endDate": "2016-07",
+      "organization": {
+        "@type": "Organization",
+        "name": "HCL Infosystems Ltd."
+      }
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Senior Brand & Media Manager",
+      "startDate": "2007-06",
+      "endDate": "2011-10",
+      "organization": {
+        "@type": "Organization",
+        "name": "Airtel"
+      }
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "National Marketing Manager - Broadband",
+      "startDate": "2004-01",
+      "endDate": "2007-05",
+      "organization": {
+        "@type": "Organization",
+        "name": "Reliance Communications"
+      }
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Account Manager",
+      "startDate": "2000-04",
+      "endDate": "2004-01",
+      "organization": {
+        "@type": "Organization",
+        "name": "Wunderman"
+      }
+    }
+  ],
+  "workExample": [
+    {
+      "@type": "CreativeWork",
+      "name": "4X Business Growth at Airtel Data Centers",
+      "description": "Led exceptional brand building and marketing strategy that grew the DC & MS business by 4X in 3 years through account-based marketing and technology events.",
+      "datePublished": "2016"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "LinkedIn Product Marketing Leadership",
+      "description": "Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators with consistent thought leadership content.",
+      "datePublished": "2024"
+    },
+    {
+      "@type": "Article",
+      "name": "FieldAssist's CMO Explains Why Your Startup Has a GTM Problem",
+      "url": "https://learn.g2.com/shashwat-ghosh-startup-gtm-problem",
+      "publisher": "G2",
+      "about": "EPIC Framework and GTM strategy for startups"
+    },
+    {
+      "@type": "Article", 
+      "name": "Go-to-Market in 2023 needs a reset!",
+      "url": "https://www.linkedin.com/pulse/go-to-market-2023-needs-reset-shashwat-ghosh",
+      "publisher": "LinkedIn",
+      "about": "Modern GTM strategies for B2B startups"
+    }
+  ],
+  "award": [
+    {
+      "@type": "Award",
+      "name": "LinkedIn Top Product Marketing Voice",
+      "description": "Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators",
+      "dateAwarded": "2024"
+    },
+    {
+      "@type": "Award", 
+      "name": "5.0 Star Google Reviews",
+      "description": "Perfect 5.0-star rating based on 9 client reviews for exceptional GTM consulting services",
+      "dateAwarded": "2024"
+    }
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "amit gaur"
+      },
+      "reviewBody": "Exceptional GTM consulting services with strategic insights and practical implementation guidance."
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "9",
+    "bestRating": "5"
+  },
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "LinkedIn Recognition",
+      "name": "Top Product Marketing Voice - LinkedIn",
+      "description": "Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators"
+    }
+  ],
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "LinkedIn Product Marketing Community",
+      "description": "Top-ranked thought leader in product marketing"
+    },
+    {
+      "@type": "Organization",
+      "name": "B2B Marketing Awards Jury",
+      "description": "Jury member for B2B Marketing Awards by B2B World Summit"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "addressCountry": "IN"
+  },
+  "areaServed": [
+    {
+      "@type": "Country",
+      "name": "India"
+    },
+    {
+      "@type": "AdministrativeArea", 
+      "name": "APAC"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Middle East"
+    },
+    {
+      "@type": "Country",
+      "name": "United States"
+    },
+    {
+      "@type": "Country", 
+      "name": "United Kingdom"
+    }
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+919810603649",
+      "contactType": "business",
+      "email": "shashwat@gtmexpert.com",
+      "url": "https://calendly.com/shashwat-gtmhelix/45min",
+      "availableLanguage": ["English", "Hindi"]
+    }
+  ],
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "GTM Alpha Consultation",
+        "description": "Strategic GTM consulting using EPIC framework and GTM Alpha methodology",
+        "provider": {
+          "@type": "Person", 
+          "name": "Shashwat Ghosh"
+        }
+      },
+      "availability": "https://schema.org/InStock"
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Fractional CMO Services", 
+        "description": "Part-time senior marketing leadership for startups and growth companies",
+        "provider": {
+          "@type": "Person",
+          "name": "Shashwat Ghosh"
+        }
+      },
+      "availability": "https://schema.org/InStock"
+    }
+  ],
+  "owns": [
+    {
+      "@type": "SoftwareApplication",
+      "name": "GTM Alpha Consultant Digital Twin",
+      "description": "AI-powered GTM strategy analysis tool using EPIC framework",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Web",
+      "url": "https://apify.com/shashghosh/gtm-alpha-consultant"
+    }
+  ],
+  "interestIn": [
+    "B2B SaaS Growth",
+    "AI in Marketing",
+    "Startup Scaling",
+    "Product-Led Growth",
+    "Digital Photography",
+    "OTT Platforms",
+    "Social Impact Projects"
+  ],
+  "publishingPrinciples": "https://learn.g2.com/shashwat-ghosh-startup-gtm-problem",
+  "testimonial": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Kunwar B. Kishore Arora",
+        "jobTitle": "Ex-Global Chief Operating Officer",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "APCER Life Sciences (Former)"
+        }
+      },
+      "reviewBody": "When I was building the Data Center and Managed Services business from inception, Shashwat and his team did an exceptional job in brand building and communication. He worked closely with my team and successfully executed the marketing plans. For existing Airtel Customers they launched account based marketing and for new customers it was through leading technology events and IT magazines. We grew the DC & MS business by 4X in 3 Years.",
+      "datePublished": "2016-05-23"
+    },
+    {
+      "@type": "Review", 
+      "author": {
+        "@type": "Person",
+        "name": "Suryadeep Verma",
+        "jobTitle": "Senior VP & Chief Marketing Officer",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Comviva Technologies"
+        }
+      },
+      "reviewBody": "Shashwat is an extremely astute and intelligent marketing professional. One of the rare breed to marketers that are able to strategically plan and execute programs with equal diligence. Has an extremely balanced and well-rounded perspective on any initiative. Always a great team person and colleague to depend on.",
+      "datePublished": "2017-10-09"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Debashish Duttagupta",
+        "jobTitle": "Senior Vice President - Strategic Partnerships & New Initiatives",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Ageas Federal Life Insurance"
+        }
+      },
+      "reviewBody": "Shashwat is Sharp, Analytical, Tenacious, Resilient, Confident, Intelligent, Creative and has tremendous amount of Common Sense to lead & manage People and Business!",
+      "datePublished": "2017-09-17"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Naveen Surapaneni", 
+        "jobTitle": "Head Of Strategy & Sales Enablement, Americas 2",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Wipro Limited"
+        }
+      },
+      "reviewBody": "Shashwat is a passionate marketing professional with a successful track record of nurturing and building strong B2B brands. His sharp insights, strong creative flair and understanding of technology landscape, has enabled him to conceptualize and launch impactful marketing programmes and campaigns. Shaswat displayed tremendous collaborative skills to build robust marketing ecosystem including diverse internal and external stakeholders. With his rounded experience of working both on agency as well as client side, he was able to get the best out of the agency partners.",
+      "datePublished": "2017-09-25"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Rajendra Gupta",
+        "jobTitle": "Chief Growth Officer",
+        "worksFor": {
+          "@type": "Organization", 
+          "name": "Rediffusion"
+        }
+      },
+      "reviewBody": "Shashwat and I worked together during the initial phase of Reliance Infocom. He is not only strategically strong, but also a very hard working guy. I wish him all the very best in his future endeavours.",
+      "datePublished": "2017-09-17"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Soumitra Agarwal",
+        "jobTitle": "Managing Partner, India",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "NGS Global"
+        }
+      },
+      "reviewBody": "Shashwat is a creative and result-oriented professional and I was impressed with the work he is doing at Reliance Infocomm. He has a good understanding of how a message needs to be conveyed via graphical and textual elements and delivers on time.",
+      "datePublished": "2012-09-09"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Tuhin Chakraborty",
+        "jobTitle": "Chief Business Officer", 
+        "worksFor": {
+          "@type": "Organization",
+          "name": "POSSIBLE"
+        }
+      },
+      "reviewBody": "Shashwat is one of those quintessential client, that a agency guy would always look forward to meeting on the other side of the table...basically one who has straddled both the sides. Honest, sincere, hard-working with a never-say-die attitude, always willing to share responsibilities and bring out the best.",
+      "datePublished": "2012-09-02"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Vineet Nigam",
+        "jobTitle": "Head - International Business & Strategy",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Reliance Jio Infocomm"
+        }
+      },
+      "reviewBody": "I have known Shashwat for over 4 years now and have developed a great admiration for his sheer marketing creativity, event management skills, supplier handling and his forever bouyant positive spirit. His positive atitude and delivering under pressure is remarkable. He is a great marketing guy and will give you the comfort levels under the most stressful circumstances.",
+      "datePublished": "2007-03-10"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Shyam Bhethanabotla",
+        "jobTitle": "Enterprise Agentic AI platforms and Solutions",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "NDL Platforms"
+        }
+      },
+      "reviewBody": "Shaswat is a sharp-shooter and fun to work with.",
+      "datePublished": "2007-02-28"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.gtmexpert.com"
+  }
+}
