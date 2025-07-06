@@ -1,0 +1,120 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Helix GTM Consulting - B2B Marketing Excellence",
+  "alternateName": ["GTM Expert", "GTMExpert"],
+  "description": "Premier go-to-market consulting and fractional CMO services for B2B companies. Specializing in SaaS, fintech, and enterprise technology with proven 4X growth methodology.",
+  "url": "https://www.gtmexpert.com",
+  "telephone": "+919810603649",
+  "email": "shashwat@gtmexpert.com",
+  "areaServed": [
+    {
+      "@type": "Country",
+      "name": "India"
+    },
+    {
+      "@type": "Place", 
+      "name": "Asia Pacific"
+    },
+    {
+      "@type": "Place",
+      "name": "Middle East & Africa"  
+    },
+    {
+      "@type": "Country",
+      "name": "United States"
+    },
+    {
+      "@type": "Country", 
+      "name": "United Kingdom"
+    }
+  ],
+  "serviceType": [
+    "Go-To-Market Strategy Consulting",
+    "Fractional CMO Services",
+    "B2B Marketing Strategy", 
+    "Account-Based Marketing",
+    "Product Marketing Consulting",
+    "SaaS Growth Marketing",
+    "Digital Marketing Strategy",
+    "Marketing Team Leadership"
+  ],
+  "provider": {
+    "@type": "Person",
+    "name": "Shashwat Ghosh",
+    "jobTitle": "GTM Alpha Consultant & Fractional CMO",
+    "description": "24+ years B2B marketing expert, LinkedIn #10 Product Marketing Voice India, proven 4X business growth achiever",
+    "hasOccupation": {
+      "@type": "Occupation",
+      "name": "Marketing Consultant",
+      "description": "Senior marketing strategist specializing in go-to-market planning and execution",
+      "skills": [
+        "Go-to-Market Strategy",
+        "B2B Marketing",
+        "Fractional Leadership", 
+        "Account-Based Marketing",
+        "Product Marketing",
+        "SaaS Marketing",
+        "Digital Strategy"
+      ],
+      "experienceRequirements": "24+ years in B2B marketing and strategy"
+    },
+    "alumniOf": [
+      {
+        "@type": "Organization",
+        "name": "National Institute of Technology Rourkela"
+      },
+      {
+        "@type": "Organization", 
+        "name": "École des Ponts ParisTech"
+      },
+      {
+        "@type": "Organization",
+        "name": "XLRI Jamshedpur"
+      }
+    ]
+  },
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "GTM Alpha Strategy Consulting",
+      "description": "Comprehensive go-to-market strategy development and implementation",
+      "price": "5000-50000",
+      "priceCurrency": "USD",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "minPrice": 5000,
+        "maxPrice": 50000,
+        "priceCurrency": "USD"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Fractional CMO Services", 
+      "description": "Part-time senior marketing leadership for growing B2B companies",
+      "price": "8000-15000",
+      "priceCurrency": "USD",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "minPrice": 8000,
+        "maxPrice": 15000,
+        "priceCurrency": "USD",
+        "unitText": "monthly"
+      }
+    }
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "LinkedIn Top Product Marketing Voice",
+      "description": "#10 in India, #52 Worldwide recognition for product marketing expertise"
+    }
+  ],
+  "award": [
+    {
+      "@type": "Award",
+      "name": "4X Business Growth Achievement", 
+      "description": "Delivered 4X business growth for Airtel Data Centers division through strategic GTM implementation"
+    }
+  ]
+}
