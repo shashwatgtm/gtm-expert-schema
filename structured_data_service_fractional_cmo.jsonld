@@ -3,30 +3,198 @@
   "@type": "Service",
   "serviceType": "Fractional CMO & Marketing Leadership",
   "name": "Fractional CMO & Marketing Leadership",
-  "alternateName": "Interim Marketing Leadership",
-  "description": "Provides senior B2B marketing leadership and strategic guidance on a fractional basis for Series A/B startups and mid-sized companies. Focuses on developing strategic marketing plans, building high-performing teams, optimizing processes and budgets, and driving key outcomes across product, sales, and marketing.",
+  "alternateName": ["Interim Marketing Leadership", "Part-time CMO Services", "Fractional Marketing Executive"],
+  "description": "Provides senior B2B marketing leadership and strategic guidance on a fractional basis for Series A/B startups and mid-sized companies. Led by award-winning B2B Marketer of the Year 2020 with proven track record: 161% ARR growth at Happay, $4.2Mn pipeline at Locus, 4X business growth at Airtel. Focuses on developing strategic marketing plans, building high-performing teams, optimizing processes and budgets, and driving key outcomes across product, sales, and marketing with 8+ years fractional experience.",
   "provider": {
     "@type": "Person",
     "name": "Shashwat Ghosh",
-    "url": "https://gtmexpert.com"
+    "url": "https://www.gtmexpert.com",
+    "jobTitle": "GTM Alpha Consultant, Fractional CMO & Top Product Marketing Voice",
+    "description": "8+ years fractional CMO experience with award-winning results across SaaS, fintech, and enterprise technology companies",
+    "hasCredential": [
+      {
+        "@type": "Award",
+        "name": "B2B Marketer of the Year 2020 in Fintech Category",
+        "awardingOrganization": "CMO Asia"
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "name": "LinkedIn Top Product Marketing Voice",
+        "description": "#10 India, #52 Worldwide among Product Marketing creators"
+      }
+    ],
+    "workHistory": [
+      {
+        "role": "CMO",
+        "company": "FieldAssist",
+        "period": "2023-2024",
+        "description": "B2B SaaS platform for retail execution"
+      },
+      {
+        "role": "VP Global Performance Marketing",
+        "company": "Locus",
+        "period": "2022",
+        "description": "$4.2Mn pipeline, 79% SAO achievement"
+      },
+      {
+        "role": "VP Marketing & Demand Generation",
+        "company": "Happay",
+        "period": "2019-2022",
+        "description": "161% ARR growth, 178% deal size increase"
+      }
+    ]
   },
-  "areaServed": {
-    "@type": "Place",
-    "name": "Bengaluru, Gurgaon, Mumbai, Navi Mumbai, Delhi NCR, Hyderabad, Chennai, Pune, Ahmedabad, Singapore (Remote), Dubai (Remote), US (Remote), UK(Remote) and Global (Remote)"
-  },
+  "areaServed": [
+    {
+      "@type": "Place",
+      "name": "India",
+      "description": "Bengaluru, Gurgaon, Mumbai, Navi Mumbai, Delhi NCR, Hyderabad, Chennai, Pune, Ahmedabad"
+    },
+    {
+      "@type": "Place",
+      "name": "Asia Pacific",
+      "description": "Singapore, Australia, Japan, Hong Kong (Remote)"
+    },
+    {
+      "@type": "Place",
+      "name": "Middle East & Africa",
+      "description": "Dubai, UAE, Saudi Arabia, South Africa (Remote)"
+    },
+    {
+      "@type": "Place",
+      "name": "North America", 
+      "description": "United States, Canada (Remote)"
+    },
+    {
+      "@type": "Place",
+      "name": "Europe",
+      "description": "United Kingdom, Germany, France, Netherlands (Remote)"
+    }
+  ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
-    "name": "Fractional Marketing Services",
+    "name": "Fractional CMO Services",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Fractional Chief Marketing Officer"
-        }
+          "name": "Fractional Chief Marketing Officer (3-6 months)",
+          "description": "Complete marketing leadership including strategy, team management, and execution with proven growth results"
+        },
+        "priceRange": "$12,000 - $18,000",
+        "priceCurrency": "USD",
+        "unitText": "monthly"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Marketing Strategy & Team Building (1-3 months)",
+          "description": "Strategic marketing foundation setup, team hiring, and process optimization"
+        },
+        "priceRange": "$8,000 - $15,000",
+        "priceCurrency": "USD",
+        "unitText": "monthly"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Growth Marketing Leadership (6-12 months)",
+          "description": "Long-term fractional leadership focused on sustainable growth and scale"
+        },
+        "priceRange": "$10,000 - $20,000",
+        "priceCurrency": "USD",
+        "unitText": "monthly"
       }
     ]
   },
-  "keywords": "Fractional CMO, Interim CMO, Marketing Leadership, B2B Marketing Strategy, Startup Marketing, Marketing Consulting, Growth Marketing"
+  "audience": {
+    "@type": "Audience",
+    "audienceType": [
+      "Series A Startups",
+      "Series B Companies",
+      "Mid-sized B2B Companies",
+      "SaaS Companies",
+      "Fintech Startups",
+      "Technology Companies",
+      "Companies $2M-$50M ARR",
+      "Venture-backed Startups"
+    ]
+  },
+  "serviceOutput": [
+    "Marketing Strategy & Roadmap",
+    "Team Hiring & Development",
+    "Budget Planning & Optimization",
+    "Marketing Technology Stack",
+    "Demand Generation Programs",
+    "Brand Positioning & Messaging",
+    "Sales & Marketing Alignment",
+    "Performance Measurement Framework",
+    "Competitive Intelligence",
+    "Board-level Marketing Reports"
+  ],
+  "responsibilities": [
+    "Develop comprehensive marketing strategy aligned with business objectives",
+    "Build and lead high-performing marketing teams",
+    "Optimize marketing budget and technology stack",
+    "Drive demand generation and pipeline growth",
+    "Establish brand positioning and competitive differentiation",
+    "Align sales and marketing for revenue growth",
+    "Implement data-driven marketing operations",
+    "Report marketing performance to board and executives",
+    "Scale marketing processes for business growth",
+    "Mentor and develop marketing talent"
+  ],
+  "performanceMetrics": [
+    "161% ARR Growth Achievement (Happay)",
+    "178% Enterprise Deal Size Increase (Happay)",
+    "2300% Inside Sales Deal Size Increase (Happay)",
+    "$4.2Mn Pipeline Generation (Locus)",
+    "79% Sales Accepted Opportunities Achievement (Locus)",
+    "203% Regional Achievement Rate (Locus SEA)",
+    "165% Revenue Growth Contribution (Seclore)",
+    "65-72% Sales Pipeline Contribution (Happay)",
+    "4X Business Growth (Airtel - Historical)",
+    "3x ROI on Marketing Budget (Happay)"
+  ],
+  "industryExpertise": [
+    "B2B SaaS & vSaaS",
+    "Fintech & Financial Services",
+    "Enterprise Technology",
+    "Cybersecurity",
+    "Logistics Technology",
+    "ITES & Professional Services",
+    "Telecommunications",
+    "Data Analytics & AI"
+  ],
+  "functionalExpertise": [
+    "Go-to-Market Strategy",
+    "Account-Based Marketing",
+    "Product Marketing",
+    "Demand Generation",
+    "Performance Marketing",
+    "Brand Strategy",
+    "Marketing Operations",
+    "Sales Enablement",
+    "Customer Success Marketing",
+    "Revenue Operations"
+  ],
+  "keywords": [
+    "Fractional CMO",
+    "Interim CMO",
+    "Marketing Leadership",
+    "B2B Marketing Strategy",
+    "Startup Marketing",
+    "Marketing Consulting",
+    "Growth Marketing",
+    "Revenue Growth",
+    "Team Building",
+    "Marketing Operations",
+    "SaaS Marketing",
+    "Fintech Marketing"
+  ],
+  "url": "https://www.gtmexpert.com",
+  "dateModified": "2025-01-08"
 }
-
