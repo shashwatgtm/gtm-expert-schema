@@ -3,17 +3,50 @@
   "@type": "Service",
   "serviceType": "AI-Powered Lead Generation & Hyper-Personalized Outreach",
   "name": "AI-Powered Lead Generation & Hyper-Personalized Outreach",
-  "alternateName": "HyperPlays AI Lead Generation",
-  "description": "Transforms outbound sales with AI-driven ICP intelligence and hyper-personalized messaging. Leverages the HyperPlays approach for multi-touch campaigns, ensuring higher engagement, better qualified leads, and improved conversion rates for B2B businesses.",
+  "alternateName": ["HyperPlays AI Lead Generation", "AI Marketing Automation", "Intelligent Outbound Sales"],
+  "description": "Transforms outbound sales with AI-driven ICP intelligence and hyper-personalized messaging using the proprietary HyperPlays methodology. Leverages advanced AI for multi-touch campaigns, ensuring higher engagement, better qualified leads, and improved conversion rates for B2B businesses. Proven results include $4.2Mn pipeline generation and 203% regional achievement rates.",
   "provider": {
     "@type": "Person",
     "name": "Shashwat Ghosh",
-    "url": "https://gtmexpert.com"
+    "url": "https://www.gtmexpert.com",
+    "jobTitle": "GTM Alpha Consultant, Fractional CMO & AI Marketing Expert",
+    "description": "Award-winning marketing leader with proven AI-powered marketing expertise: $4.2Mn pipeline at Locus, 161% ARR growth at Happay, B2B Marketer of the Year 2020",
+    "expertise": [
+      "AI-Powered Marketing Strategies",
+      "Hyper-Personalized Outreach",
+      "ICP Intelligence & Targeting",
+      "Multi-Touch Campaign Automation",
+      "B2B Sales Acceleration",
+      "Performance Marketing Optimization"
+    ]
   },
-  "areaServed": {
-    "@type": "Place",
-    "name": "Bengaluru, Gurgaon, Mumbai, Navi Mumbai, Delhi NCR, Hyderabad, Chennai, Pune, Ahmedabad, Singapore (Remote), Dubai (Remote), US (Remote), UK(Remote) and Global (Remote)"
-  },
+  "areaServed": [
+    {
+      "@type": "Place",
+      "name": "India",
+      "description": "Bengaluru, Gurgaon, Mumbai, Navi Mumbai, Delhi NCR, Hyderabad, Chennai, Pune, Ahmedabad"
+    },
+    {
+      "@type": "Place",
+      "name": "Asia Pacific",
+      "description": "Singapore, Australia, Japan, Hong Kong (Remote)"
+    },
+    {
+      "@type": "Place",
+      "name": "Middle East & Africa", 
+      "description": "Dubai, UAE, Saudi Arabia, South Africa (Remote)"
+    },
+    {
+      "@type": "Place",
+      "name": "North America",
+      "description": "United States, Canada (Remote)"
+    },
+    {
+      "@type": "Place",
+      "name": "Europe",
+      "description": "United Kingdom, Germany, France, Netherlands (Remote)"
+    }
+  ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
     "name": "AI Lead Generation Services",
@@ -22,11 +55,97 @@
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Hyper-Personalized Outreach Campaigns"
-        }
+          "name": "HyperPlays AI Setup & Implementation",
+          "description": "Complete AI-powered lead generation system setup with ICP intelligence and personalization engines"
+        },
+        "priceRange": "$8,000 - $20,000",
+        "priceCurrency": "USD"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Hyper-Personalized Outreach Campaigns",
+          "description": "Multi-touch AI-driven outreach campaigns with advanced personalization and engagement tracking"
+        },
+        "priceRange": "$5,000 - $15,000",
+        "priceCurrency": "USD"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "AI Marketing Automation Optimization",
+          "description": "Ongoing optimization of AI systems for improved conversion rates and pipeline generation"
+        },
+        "priceRange": "$3,000 - $10,000",
+        "priceCurrency": "USD"
       }
     ]
   },
-  "keywords": "AI Lead Generation, Hyper-Personalized Outreach, B2B Sales, Outbound Sales, Sales Automation, ICP Intelligence, Marketing AI, HyperPlays"
+  "audience": {
+    "@type": "Audience",
+    "audienceType": [
+      "B2B SaaS Companies",
+      "Enterprise Software Vendors",
+      "Fintech Startups",
+      "Technology Services Companies",
+      "Professional Services Firms",
+      "Sales Teams",
+      "Marketing Teams",
+      "Revenue Operations Teams"
+    ]
+  },
+  "serviceOutput": [
+    "AI-Powered Lead Scoring System",
+    "Hyper-Personalized Email Sequences", 
+    "ICP Intelligence Dashboard",
+    "Multi-Touch Campaign Framework",
+    "Conversion Optimization Reports",
+    "Sales Qualified Lead Pipeline",
+    "Engagement Analytics Dashboard",
+    "ROI Performance Metrics"
+  ],
+  "performanceMetrics": [
+    "$4.2Mn Pipeline Generated (Locus)",
+    "79% Sales Accepted Opportunities Achievement",
+    "203% Regional Target Achievement (SEA)",
+    "99 Priority Keywords Improvement (Q2 Performance)",
+    "161% ARR Growth Through Enhanced Targeting (Happay)",
+    "178% Enterprise Deal Size Increase",
+    "2300% Inside Sales Deal Size Increase",
+    "65-72% Sales Pipeline Contribution"
+  ],
+  "technologyStack": [
+    "AI/ML Personalization Engines",
+    "CRM Integration (Salesforce, HubSpot)",
+    "Marketing Automation Platforms",
+    "Intent Data Platforms",
+    "Email Deliverability Optimization",
+    "Analytics & Attribution Tools",
+    "ICP Scoring Algorithms",
+    "Multi-Channel Orchestration"
+  ],
+  "methodology": {
+    "@type": "DefinedTerm",
+    "name": "HyperPlays AI Methodology",
+    "description": "Proprietary approach combining AI-driven prospect intelligence, hyper-personalized messaging, multi-touch sequences, and performance optimization for maximum B2B sales impact"
+  },
+  "keywords": [
+    "AI Lead Generation",
+    "Hyper-Personalized Outreach",
+    "B2B Sales Automation",
+    "Outbound Sales Optimization",
+    "Sales Intelligence",
+    "ICP Targeting",
+    "Marketing AI",
+    "HyperPlays",
+    "Pipeline Generation",
+    "Sales Acceleration",
+    "Conversion Optimization",
+    "Revenue Growth"
+  ],
+  "url": "https://www.gtmexpert.com",
+  "relatedLink": "https://www.hyper-plays.com",
+  "dateModified": "2025-01-08"
 }
-
