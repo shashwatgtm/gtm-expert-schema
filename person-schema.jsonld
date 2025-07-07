@@ -4,6 +4,7 @@
   "name": "Shashwat Ghosh",
   "url": "https://www.gtmexpert.com",
   "email": "shashwat@gtmexpert.com",
+  "telephone": "+919810603649",
   "jobTitle": "GTM Alpha Consultant, Fractional CMO & Top Product Marketing Voice",
   "alternateName": ["GTM Alpha Expert", "shashghosh", "shashwatgtm"],
   "worksFor": {
@@ -17,13 +18,13 @@
     {
       "@type": "Organization",
       "name": "Helix GTM Consulting",
-      "foundingDate": "2022-10",
+      "foundingDate": "2016",
       "description": "GTM consulting and EPIC framework optimization services"
     },
     {
       "@type": "Organization",
       "name": "Fractional Frontiers",
-      "foundingDate": "2024-11",
+      "foundingDate": "2022",
       "description": "Fractional executive services platform"
     },
     {
@@ -55,10 +56,12 @@
     "Startup Growth Strategy",
     "Pipeline Marketing",
     "Marketing Automation",
-    "Digital Twin Technology",
-    "CRM Optimization"
+    "Revenue Growth",
+    "Enterprise GTM",
+    "Performance Marketing",
+    "Brand Strategy"
   ],
-  "description": "Shashwat Ghosh is a GTM Alpha Consultant and Fractional CMO with 24+ years of B2B experience and 8+ years of senior fractional experience in B2B SaaS, vSaaS, and midsize ITeS. Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators. Alumni of NIT Rourkela, École des Ponts ParisTech, and XLRI Jamshedpur. He specializes in AI-powered marketing and the revolutionary EPIC framework, helping B2B tech startups achieve market dominance through data-driven strategies across India, APAC, MEA, US, and UK markets.",
+  "description": "Shashwat Ghosh is a GTM Alpha Consultant and Fractional CMO with 24+ years of B2B experience and 8+ years of senior fractional experience in B2B SaaS, vSaaS, and midsize ITeS. Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators. Alumni of NIT Rourkela, École des Ponts ParisTech, and XLRI Jamshedpur. He specializes in AI-powered marketing and the revolutionary EPIC framework, helping B2B tech startups achieve market dominance through data-driven strategies across India, APAC, MEA, US, and UK markets. Award winner: B2B Marketer of the Year 2020 in Fintech Category.",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Bengaluru",
@@ -99,23 +102,37 @@
     "https://www.hyper-plays.com"
   ],
   "award": [
-    "Top Product Marketing Voice on LinkedIn (Badge Holder)",
-    "Top 10 Product Marketing Creator in India (LinkedIn)",
-    "Top 52 Product Marketing Creator Worldwide (LinkedIn)",
-    "B2B Marketing Awards Jury Member"
+    {
+      "@type": "Award",
+      "name": "B2B Marketer of the Year 2020 in Fintech Category",
+      "description": "Awarded by CMO Asia for exceptional B2B marketing excellence in fintech sector",
+      "dateAwarded": "2020"
+    },
+    {
+      "@type": "Award",
+      "name": "LinkedIn Top Product Marketing Voice",
+      "description": "Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators",
+      "dateAwarded": "2024"
+    },
+    {
+      "@type": "Award",
+      "name": "4X Business Growth Achievement",
+      "description": "Delivered 4X business growth for Airtel Data Centers & Managed Services",
+      "dateAwarded": "2011"
+    }
   ],
   "hasOccupation": [
     {
       "@type": "Occupation",
       "name": "GTM Alpha Consultant",
       "description": "Provides expert GTM strategy consulting using proprietary GTM Alpha methodology and EPIC framework for B2B startups and growth companies.",
-      "skills": "GTM Alpha Methodology, EPIC Framework, Market Entry Strategy, Demand Generation, Pipeline Marketing"
+      "skills": "GTM Alpha Methodology, EPIC Framework, Market Entry Strategy, Demand Generation, Pipeline Marketing, 4X Growth Achievement"
     },
     {
       "@type": "Occupation", 
       "name": "Fractional CMO",
       "description": "Provides senior B2B marketing leadership and strategic guidance on a fractional basis for Series A/B startups and mid-sized companies.",
-      "skills": "Marketing Strategy Development, Team Leadership, Budget Optimization, Marketing Technology Stack"
+      "skills": "Marketing Strategy Development, Team Leadership, Budget Optimization, Marketing Technology Stack, Revenue Growth"
     }
   ],
   "hasCredential": [
@@ -152,15 +169,15 @@
         "@type": "Organization",
         "name": "XLRI Jamshedpur"
       },
-      "startDate": "2002",
+      "startDate": "2003",
       "endDate": "2004"
     }
   ],
   "workHistory": [
     {
       "@type": "OrganizationRole",
-      "roleName": "Co-Founder and Fractional CMO",
-      "startDate": "2022-10",
+      "roleName": "Co-Founder and GTM Alpha Consultant",
+      "startDate": "2016",
       "endDate": "Present",
       "organization": {
         "@type": "Organization",
@@ -184,17 +201,27 @@
       "endDate": "2022-10",
       "organization": {
         "@type": "Organization",
-        "name": "Locus"
+        "name": "Locus (Mara Labs Inc.)"
       }
     },
     {
       "@type": "OrganizationRole",
-      "roleName": "Vice President Marketing",
+      "roleName": "Vice President Marketing & Demand Generation",
       "startDate": "2019-11",
       "endDate": "2022-01",
       "organization": {
         "@type": "Organization",
-        "name": "Happay - Expense Management Solution for Businesses"
+        "name": "Happay (VA Tech Ventures Ltd.)"
+      }
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Strategic Marketing Consultant",
+      "startDate": "2018-04",
+      "endDate": "2019-10",
+      "organization": {
+        "@type": "Organization",
+        "name": "Happay (VA Tech Ventures Ltd.)"
       }
     },
     {
@@ -204,7 +231,7 @@
       "endDate": "2017-10",
       "organization": {
         "@type": "Organization",
-        "name": "Seclore"
+        "name": "Seclore Technology Ltd."
       }
     },
     {
@@ -224,7 +251,7 @@
       "endDate": "2011-10",
       "organization": {
         "@type": "Organization",
-        "name": "Airtel"
+        "name": "Bharti Airtel Ltd."
       }
     },
     {
@@ -315,7 +342,7 @@
       "itemOffered": {
         "@type": "Service",
         "name": "GTM Alpha Consultation",
-        "description": "Strategic GTM consulting using EPIC framework and GTM Alpha methodology",
+        "description": "Strategic GTM consulting using EPIC framework and GTM Alpha methodology with proven 4X growth results",
         "provider": {
           "@type": "Person", 
           "name": "Shashwat Ghosh"
@@ -328,7 +355,7 @@
       "itemOffered": {
         "@type": "Service",
         "name": "Fractional CMO Services", 
-        "description": "Part-time senior marketing leadership for startups and growth companies",
+        "description": "Part-time senior marketing leadership for startups and growth companies with proven 161% ARR growth results",
         "provider": {
           "@type": "Person",
           "name": "Shashwat Ghosh"
@@ -380,6 +407,18 @@
       "url": "https://www.linkedin.com/pulse/go-to-market-2023-needs-reset-shashwat-ghosh",
       "publisher": "LinkedIn",
       "about": "Modern GTM strategies for B2B startups"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "4X Business Growth Achievement at Airtel",
+      "description": "Delivered exceptional 4X business growth for Airtel Data Centers & Managed Services division through strategic GTM and ABM implementation",
+      "datePublished": "2011"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "161% ARR Growth at Happay",
+      "description": "Pivoted business model from SMB to enterprise and grew ARR by 161% while increasing deal sizes by 178-2300%",
+      "datePublished": "2021"
     }
   ]
 }
