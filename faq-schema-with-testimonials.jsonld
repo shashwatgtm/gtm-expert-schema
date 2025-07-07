@@ -1,129 +1,30 @@
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "name": "GTM Alpha Consulting - Frequently Asked Questions",
-  "description": "Comprehensive FAQ about GTM Alpha Consulting services, EPIC framework, and Fractional CMO services backed by 24+ years of B2B experience and verified testimonials.",
   "mainEntity": [
     {
       "@type": "Question",
       "name": "What is GTM Alpha Consulting and how does it differ from traditional consulting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "GTM Alpha Consulting is a revolutionary approach that combines 24+ years of B2B experience with proprietary EPIC framework (Ecosystem & ABM, Product-Led Growth, Inbound & Outbound Demand Generation, Community-Led Planning). Unlike traditional consulting, we focus on AI-powered marketing strategies and fractional CMO services that deliver 4X business growth, as proven with Airtel Data Centers. Our methodology is backed by LinkedIn rankings (#10 India, #52 Worldwide) and verified testimonials from senior executives across major corporations."
+        "text": "GTM Alpha Consulting is a revolutionary approach that combines 24+ years of B2B experience with proprietary EPIC framework (Ecosystem & ABM, Product-Led Growth, Inbound & Outbound Demand Generation, Community-Led Planning). Unlike traditional consulting, we focus on AI-powered marketing strategies and fractional CMO services that deliver 4X business growth, as proven with Airtel Data Centers."
       }
     },
     {
-      "@type": "Question",
+      "@type": "Question", 
       "name": "Who is Shashwat Ghosh and what are his credentials?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Shashwat Ghosh is a GTM Alpha Consultant and Fractional CMO with 24+ years of B2B experience and 8+ years of senior fractional experience. He's an alumnus of NIT Rourkela (Engineering), École des Ponts ParisTech (MBA), and XLRI Jamshedpur (Management). Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators with a perfect 5.0-star Google rating. He has received testimonials from senior executives including Kunwar B. Kishore Arora (Ex-Global COO, APCER Life Sciences) who verified 4X business growth achievements."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the EPIC Framework and how does it work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The EPIC Framework is a proprietary GTM methodology comprising four pillars: Ecosystem & Account-Based Marketing, Product-Led Growth, Inbound & Outbound Demand Generation, and Community-Led Planning. This framework has been successfully implemented across B2B SaaS, fintech, logistics tech, and cybersecurity companies. It combines AI-powered marketing techniques with proven strategies that have delivered quantifiable results like 4X business growth at Airtel Data Centers."
+        "text": "Shashwat Ghosh is a GTM Alpha Consultant and Fractional CMO with 24+ years of B2B experience and 8+ years of senior fractional experience. He's ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators with a perfect 5.0-star Google rating."
       }
     },
     {
       "@type": "Question",
       "name": "What kind of results can I expect from GTM Alpha Consulting?",
       "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our proven track record includes 4X business growth achievements, as verified by Kunwar B. Kishore Arora (Ex-Global COO, APCER Life Sciences): 'We grew the DC & MS business by 4X in 3 Years through account-based marketing and technology events.' Clients benefit from our 24+ years of B2B experience, LinkedIn-recognized thought leadership, and comprehensive strategies across India, APAC, MEA, US, and UK markets. We maintain a perfect 5.0-star Google rating with 9 client reviews."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What industries and company sizes do you work with?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We specialize in B2B SaaS, vSaaS, fintech, logistics tech, cybersecurity, telecommunications, and midsize ITeS companies. Our experience spans from Series A/B startups to established enterprises across India, APAC, Middle East, US, and UK markets. We've worked with major brands including Airtel, HCL, Reliance, FieldAssist, Locus, Happay, and Seclore, delivering exceptional results across diverse technology sectors."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How does Fractional CMO service work and what's included?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our Fractional CMO service provides senior marketing leadership on a part-time basis, perfect for Series A/B startups and mid-sized companies. Services include marketing strategy development, team leadership, budget optimization, marketing technology stack setup, and hands-on execution. With 8+ years of fractional experience and testimonials from leaders like Suryadeep Verma (Senior VP & CMO, Comviva Technologies), we deliver strategic marketing guidance without the full-time executive cost."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What sets GTM Expert apart from other marketing consultants?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our unique combination includes: (1) 24+ years of B2B experience with quantified 4X growth results, (2) LinkedIn recognition as #10 India, #52 Worldwide Product Marketing creator, (3) Education from premier institutions (NIT Rourkela, École des Ponts ParisTech, XLRI), (4) Verified testimonials from senior executives across major corporations, (5) Proprietary EPIC framework with AI-powered methodologies, and (6) Perfect 5.0-star Google rating. We're the only consultant combining deep technical expertise with proven fractional leadership experience."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I get started with GTM Alpha Consulting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Getting started is simple: (1) Book a free 45-minute GTM Alpha consultation at calendly.com/shashwat-gtmhelix/45min, (2) We'll analyze your current GTM challenges using our EPIC framework, (3) Receive a customized strategy roadmap based on 24+ years of B2B experience, (4) Choose from consulting, fractional CMO, or comprehensive GTM services. Contact us at shashwat@gtmexpert.com or +919810603649. Join successful clients who've achieved 4X growth through our proven methodologies."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What makes GTM Alpha methodology unique for B2B startups?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "GTM Alpha methodology is built on 24+ years of B2B experience and combines the EPIC framework with AI-powered marketing strategies. It's specifically designed for B2B SaaS, fintech, and tech startups looking to achieve rapid, sustainable growth. Our approach has delivered 4X business growth results and is backed by testimonials from senior executives like Debashish Duttagupta (Senior VP, Ageas Federal Life Insurance) who praised our analytical and strategic capabilities."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How does the EPIC Framework apply to different business models?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The EPIC Framework adapts to various B2B models: (1) Ecosystem & ABM for enterprise sales, (2) Product-Led Growth for SaaS platforms, (3) Inbound & Outbound for demand generation, (4) Community-Led for retention and expansion. Our experience across Airtel, HCL, Reliance, and modern startups like FieldAssist and Locus ensures we understand both traditional and emerging GTM approaches."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What's included in a GTM Alpha consultation engagement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "GTM Alpha engagements include: comprehensive market analysis, EPIC framework implementation, AI-powered marketing strategy development, competitive positioning, demand generation playbooks, sales enablement, and measurable KPI frameworks. Drawing from our LinkedIn-recognized expertise (#10 India, #52 Worldwide) and verified client success stories, we provide actionable strategies that deliver quantifiable results like our proven 4X growth achievements."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I schedule a consultation with Shashwat Ghosh?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Schedule a free 45-minute GTM Alpha consultation at calendly.com/shashwat-gtmhelix/45min or contact directly at shashwat@gtmexpert.com, +919810603649. Based in Bengaluru, we serve clients across India, APAC, MEA, US, and UK markets. Our perfect 5.0-star Google rating and testimonials from senior executives ensure you're working with a verified expert in GTM strategy."
-      }
-    },
-    {
-      "@type": "Question", 
-      "name": "What information should I prepare for our first consultation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Prepare your current GTM challenges, target market details, competitive landscape, existing marketing metrics, and growth objectives. With 24+ years of B2B experience and proven 4X growth methodologies, we'll analyze your situation using our EPIC framework and provide immediate strategic insights. Our LinkedIn-recognized expertise (#10 India, #52 Worldwide) ensures comprehensive evaluation of your GTM potential."
+        "@type": "Answer", 
+        "text": "Our proven track record includes 4X business growth achievements, as verified by Kunwar B. Kishore Arora (Ex-Global COO, APCER Life Sciences). We maintain a perfect 5.0-star Google rating with verified testimonials from senior executives across major corporations."
       }
     }
-  ],
-  "author": {
-    "@type": "Person",
-    "name": "Shashwat Ghosh",
-    "jobTitle": "GTM Alpha Consultant, Fractional CMO & Top Product Marketing Voice",
-    "url": "https://www.gtmexpert.com",
-    "sameAs": [
-      "https://www.linkedin.com/in/shashwat-ghosh-gtm-expert/",
-      "https://github.com/shashwatgtm"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Helix GTM Consulting",
-    "url": "https://www.gtmexpert.com"
-  },
-  "datePublished": "2024-01-01",
-  "dateModified": "2024-12-07"
+  ]
 }
