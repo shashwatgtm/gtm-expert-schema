@@ -5,7 +5,7 @@
   "alternateName": ["GTM Expert", "GTMExpert", "Helix GTM"],
   "url": "https://www.gtmexpert.com",
   "logo": "https://www.gtmexpert.com/wp-content/uploads/2024/10/Shashwat-Ghosh-GTM-Expert-Professional-Photo.jpg",
-  "description": "Leading GTM Alpha consulting firm specializing in EPIC framework implementation, fractional CMO services, and AI-powered marketing strategies. Founded by Shashwat Ghosh, ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators with 24+ years of B2B experience.",
+  "description": "Leading GTM Alpha consulting firm specializing in EPIC framework implementation, fractional CMO services, and AI-powered marketing strategies. Founded by Shashwat Ghosh, ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators with 24+ years of B2B experience. Award winner: B2B Marketer of the Year 2020 in Fintech Category with proven track record of delivering 4X business growth and 161% ARR growth for clients.",
   "foundingDate": "2016",
   "founder": {
     "@type": "Person",
@@ -16,7 +16,7 @@
       "https://github.com/shashwatgtm"
     ],
     "jobTitle": "GTM Alpha Consultant, Fractional CMO & Top Product Marketing Voice",
-    "description": "Alumni of NIT Rourkela, École des Ponts ParisTech, and XLRI Jamshedpur with verified 4X business growth achievements"
+    "description": "Alumni of NIT Rourkela, École des Ponts ParisTech, and XLRI Jamshedpur with verified achievements: 4X business growth at Airtel, 161% ARR growth at Happay, $4.2Mn pipeline at Locus, and B2B Marketer of the Year 2020 award winner"
   },
   "address": {
     "@type": "PostalAddress",
@@ -71,7 +71,9 @@
     "AI-Powered Marketing",
     "B2B SaaS Marketing",
     "Fintech Marketing",
-    "Cybersecurity Marketing"
+    "Cybersecurity Marketing",
+    "Logistics Tech Marketing",
+    "Enterprise GTM Strategy"
   ],
   "expertise": [
     "GTM Alpha Methodology",
@@ -79,10 +81,19 @@
     "24+ Years B2B Experience",
     "8+ Years Fractional Leadership",
     "4X Business Growth Achievement",
+    "161% ARR Growth Achievement",
+    "$4.2Mn Pipeline Generation",
     "LinkedIn Top Product Marketing Voice",
-    "Premier Institution Alumni"
+    "Premier Institution Alumni",
+    "Award-Winning Marketing Excellence"
   ],
   "award": [
+    {
+      "@type": "Award",
+      "name": "B2B Marketer of the Year 2020 in Fintech Category",
+      "description": "Awarded by CMO Asia for exceptional B2B marketing excellence in fintech sector",
+      "dateAwarded": "2020"
+    },
     {
       "@type": "Award",
       "name": "LinkedIn Top Product Marketing Voice",
@@ -94,6 +105,12 @@
       "name": "4X Business Growth Achievement",
       "description": "Delivered 4X business growth for Airtel Data Centers & Managed Services",
       "dateAwarded": "2011"
+    },
+    {
+      "@type": "Award",
+      "name": "161% ARR Growth Achievement", 
+      "description": "Achieved 161% ARR growth by pivoting Happay from SMB to enterprise model",
+      "dateAwarded": "2021"
     }
   ],
   "review": [
@@ -178,7 +195,7 @@
         "itemOffered": {
           "@type": "Service",
           "name": "GTM Alpha Strategy Consultation",
-          "description": "Comprehensive GTM strategy development using proprietary EPIC framework with proven 4X growth results"
+          "description": "Comprehensive GTM strategy development using proprietary EPIC framework with proven 4X growth and 161% ARR growth results"
         },
         "priceRange": "$5,000 - $25,000",
         "priceCurrency": "USD",
@@ -189,7 +206,7 @@
         "itemOffered": {
           "@type": "Service",
           "name": "Fractional CMO Services",
-          "description": "Part-time senior marketing leadership backed by 8+ years fractional experience and LinkedIn recognition"
+          "description": "Part-time senior marketing leadership backed by 8+ years fractional experience, LinkedIn recognition, and award-winning results"
         },
         "priceRange": "$8,000 - $15,000",
         "priceCurrency": "USD",
@@ -200,7 +217,7 @@
         "itemOffered": {
           "@type": "Service",
           "name": "EPIC Framework Implementation",
-          "description": "Complete implementation of Ecosystem & ABM, Product-Led Growth, Inbound & Outbound, Community-Led strategies"
+          "description": "Complete implementation of Ecosystem & ABM, Product-Led Growth, Inbound & Outbound, Community-Led strategies with quantifiable results"
         },
         "priceRange": "$15,000 - $50,000",
         "priceCurrency": "USD",
@@ -213,16 +230,26 @@
     "EPIC Framework Implementation",
     "Account-Based Marketing Excellence", 
     "4X Business Growth Strategies",
+    "161% ARR Growth Achievement",
     "Fractional CMO Leadership",
     "B2B SaaS Marketing",
+    "Fintech Marketing Excellence",
     "AI-Powered Marketing",
-    "LinkedIn Top Voice Expertise"
+    "LinkedIn Top Voice Expertise",
+    "Enterprise GTM Strategy",
+    "Pipeline Generation",
+    "Performance Marketing"
   ],
   "memberOf": [
     {
       "@type": "Organization",
       "name": "LinkedIn Product Marketing Community",
       "description": "Top-ranked thought leader (#10 India, #52 Worldwide)"
+    },
+    {
+      "@type": "Organization",
+      "name": "B2B Marketing Awards Jury",
+      "description": "Jury member for B2B Marketing Awards by B2B World Summit"
     }
   ],
   "employee": [
