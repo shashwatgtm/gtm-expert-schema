@@ -91,5 +91,5 @@ node validate-schemas.js
 ---
 
 **Version**: 2.0.0
-**Last Updated**: January 8, 2025
+**Last Updated**: December 30, 2025
 **Author**: Shashwat Ghosh
