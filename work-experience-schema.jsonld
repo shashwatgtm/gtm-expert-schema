@@ -30,7 +30,7 @@
       ],
       "achievements": [
         "Created three proprietary frameworks: EPIC, IMPACT, CRAFT",
-        "Winner - Most Admired Marketing Leaders 2025 (WLC)",
+        "Winner - Most Admired Marketing Leaders 2025 (CMO Asia - World Leadership Congress)",
         "Ranked #10 India, #52 Worldwide LinkedIn Product Marketing Voice",
         "Founded HyperPlays AI lead generation service brand"
       ]
@@ -60,14 +60,29 @@
     },
     {
       "@type": "Role",
-      "roleName": "Advisor",
+      "roleName": "Strategic Advisor",
       "startDate": "2024",
       "endDate": "Present",
       "organization": {
         "@type": "Organization",
         "name": "Discovery Outcomes",
-        "url": "https://discoveryoutcomes.com"
+        "url": "https://discoveryoutcomes.com",
+        "description": "AI-powered GTM platform with human-like AI strategist for B2B marketing teams, delivering qualified sales-ready leads on autopilot"
       }
+    },
+    {
+      "@type": "Role",
+      "roleName": "Strategic Advisor",
+      "startDate": "2024",
+      "endDate": "Present",
+      "organization": {
+        "@type": "Organization",
+        "name": "QuantumStreet AI",
+        "description": "AI venture studio"
+      },
+      "achievements": [
+        "LED COMPLETE REBRAND from Equbot - developed new brand architecture, positioning, and entire messaging framework with Digitas Agency"
+      ]
     },
     {
       "@type": "Role",
@@ -77,26 +92,52 @@
       "organization": {
         "@type": "Organization",
         "name": "FieldAssist",
-        "description": "B2B SaaS platform - $10M ARR, 300+ employees, 12 countries"
+        "url": "https://fieldassist.com",
+        "description": "Top vertical SaaS platform transforming sales through integrated DMS and SFA. ~$10M ARR (FY 2025), 300+ employees, serving 600+ CPG brands across 12 countries (Southeast Asia, Middle East, India, Africa)"
       },
-      "achievements": ["Successful implementation of GTM Alpha methodology"]
+      "responsibilities": [
+        "FAi Launch GTM — positioning, launch plan & demand engine",
+        "DMS GTM Launch — 3-phase go-to-market strategy",
+        "Africa GTM — international expansion strategy",
+        "IST SOW, Lead Qualification, SDR process frameworks",
+        "LinkedIn Newsletter and DPDP eBook content programs",
+        "Revamped brand messaging using Hub-Spoke methodology"
+      ],
+      "achievements": [
+        "2.25× growth in mid-market & enterprise qualified leads",
+        "+30% organic website traffic (zero paid)",
+        "2× organic social growth (10.5K → 23K+ followers)",
+        "419 validated leads, 256 assigned (38 C/D/E + 28 B category)",
+        "60 enterprise accounts (28 mid + 32 large) — transformed broken processes",
+        "Revitalised Pathfinders program (Atomberg: 3.5K views record)",
+        "Uplifted 'What the F...MCG?' podcast",
+        "Big 4 roundtables (PwC, EY, Deloitte)",
+        "10+ events (Anufood, Gulfood, FA Elevate, 5 Webinars)",
+        "Case studies: Bonjour, Cello, Too Yumm, Pearl Dairy, ITC, Mars"
+      ]
     },
     {
       "@type": "Role",
       "roleName": "VP Global Performance Marketing",
       "startDate": "2022-02",
-      "endDate": "2022-10",
+      "endDate": "2023-03",
       "organization": {
         "@type": "Organization",
         "name": "Locus (Mara Labs Inc.)",
-        "description": "AI logistics platform - acquired by IKEA October 2025"
+        "url": "https://locus.sh",
+        "description": "AI-powered logistics technology company. Acquired by Ingka Group (largest IKEA retailer, ~90% of IKEA retail sales) in October 2025. Previously valued at $300M (2021 funding round). Remains operationally independent."
       },
       "responsibilities": [
         "Built ABM programs and expanded Martech stack",
         "Drove inbound acquisition through Google SEM/SEO and LinkedIn Ads",
-        "Managed team of 12 and $1.6M marketing budget"
+        "Managed team of 12 and $1.6M marketing budget",
+        "Key team member in Locus corporate rebrand (prior to IKEA acquisition)"
       ],
-      "achievements": ["$4.2M pipeline with 79% achievement of 108 SAOs", "Two Gartner mentions"]
+      "achievements": [
+        "$4.2M pipeline with 79% achievement of 108 SAOs",
+        "Two Gartner mentions",
+        "Optimized 1.5B+ deliveries, $320M+ logistics cost savings, 17M+ kg emissions avoided across 350+ deployments in 30+ countries"
+      ]
     },
     {
       "@type": "Role",
@@ -106,7 +147,8 @@
       "organization": {
         "@type": "Organization",
         "name": "Happay (VA Tech Ventures Ltd.)",
-        "description": "Fintech/Spend Management - acquired by CRED for $180M"
+        "url": "https://happay.com",
+        "description": "Fintech/Spend Management platform. 2X EXITS: First acquired by CRED for $180M (cash and stock) in December 2021. Then expense management brand, business and team acquired by MakeMyTrip in November 2024. Serves 59,000+ SMB clients and 450+ large enterprises."
       },
       "achievements": [
         "Pivoted from SMB to enterprise, grew ARR by 161%",
@@ -117,44 +159,91 @@
     {
       "@type": "Role",
       "roleName": "Director of Product Marketing",
-      "startDate": "2016-07",
-      "endDate": "2017-10",
+      "startDate": "2017-01",
+      "endDate": "2019-10",
       "organization": {
         "@type": "Organization",
         "name": "Seclore Technology Ltd",
-        "description": "Cybersecurity - $46M+ total funding"
+        "url": "https://seclore.com",
+        "description": "Data-centric security platform provider headquartered in Milpitas, California (founded 2005). Series C funded: $27M (May 2022), bringing total raised to $46M. Led by Origami Capital Partners and Oquirrh Ventures. Serves 2,000+ companies and government organizations in 29 countries."
       },
-      "achievements": ["Pivotal role in 165% revenue growth", "Built ABM model for 70+ enterprises"]
+      "achievements": [
+        "Pivotal role in 165% revenue growth",
+        "Built ABM model for 70+ enterprises",
+        "Notable customers: American Express, Applied Materials, ADM, Saudi Telecom, ICICI Group, Ford"
+      ]
     },
     {
       "@type": "Role",
       "roleName": "Head - Customer Insights, Brand & New Projects",
       "startDate": "2011-10",
       "endDate": "2016-07",
-      "organization": {"@type": "Organization", "name": "HCL Infosystems Ltd."}
+      "organization": {
+        "@type": "Organization",
+        "name": "HCL Infosystems Ltd."
+      },
+      "achievements": [
+        "Key team member in major corporate rebrand - HCL Infosystems restructured into HCL Services and 3 other companies"
+      ]
     },
     {
       "@type": "Role",
       "roleName": "Senior Brand & Media Manager",
       "startDate": "2007-06",
       "endDate": "2011-10",
-      "organization": {"@type": "Organization", "name": "Bharti Airtel Ltd."},
-      "achievements": ["4X business growth for DC & MS in 3 years"]
+      "organization": {
+        "@type": "Organization",
+        "name": "Bharti Airtel Ltd."
+      },
+      "responsibilities": [
+        "Brand building and communication for Data Center & Managed Services business",
+        "Account-based marketing for existing customers",
+        "Marketing through leading technology events and IT magazines"
+      ],
+      "achievements": [
+        "4X business growth for DC & MS in 3 years",
+        "Instrumental in 2X Airtel Business rebrands: First rebrand with Wolff Olins, second rebrand with JWT and Brand Union"
+      ]
     },
     {
       "@type": "Role",
       "roleName": "National Marketing Manager - Broadband",
       "startDate": "2004-01",
       "endDate": "2007-05",
-      "organization": {"@type": "Organization", "name": "Reliance Communications Ltd."}
+      "organization": {
+        "@type": "Organization",
+        "name": "Reliance Communications Ltd."
+      },
+      "achievements": [
+        "Key team member in Reliance Communications Enterprise rebrand executed with DDB Mudra and Grey agencies"
+      ]
     },
     {
       "@type": "Role",
       "roleName": "Account Manager",
       "startDate": "2000-04",
       "endDate": "2004-01",
-      "organization": {"@type": "Organization", "name": "Wunderman (Y&R-WPP)"}
+      "organization": {
+        "@type": "Organization",
+        "name": "Wunderman (Y&R-WPP)"
+      }
     }
+  ],
+  "knowsAbout": [
+    "GTM Alpha Methodology",
+    "EPIC Framework",
+    "IMPACT Framework",
+    "CRAFT Framework",
+    "Brand Strategy & Development",
+    "Corporate Rebranding",
+    "Brand Architecture",
+    "Hub-Spoke Messaging Methodology",
+    "Agency Management (Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra, Grey)",
+    "Account-Based Marketing",
+    "Demand Generation",
+    "Product-Led Growth",
+    "AI-Powered Marketing",
+    "MCP Server Development"
   ],
   "alumniOf": [
     {"@type": "EducationalOrganization", "name": "NIT Rourkela", "description": "B.E. Metallurgy"},
@@ -162,7 +251,7 @@
     {"@type": "EducationalOrganization", "name": "XLRI Jamshedpur", "description": "PG Certificate Management"}
   ],
   "award": [
-    {"@type": "Award", "name": "Most Admired Marketing Leaders 2025", "description": "CMO Asia - WLC"},
+    {"@type": "Award", "name": "Most Admired Marketing Leaders 2025", "description": "CMO Asia - World Leadership Congress"},
     {"@type": "Award", "name": "B2B Marketer of the Year 2020", "description": "CMO Asia - Fintech"},
     {"@type": "Award", "name": "LinkedIn Top Product Marketing Voice", "description": "#10 India, #52 Worldwide"}
   ],

@@ -6,7 +6,7 @@
   "alternateName": ["GTMExpert", "GTM Expert", "Helix GTM", "GTM Alpha"],
   "url": "https://www.gtmexpert.com",
   "logo": "https://www.gtmexpert.com/wp-content/uploads/2024/10/GTMExpert-Logo.png",
-  "description": "B2B GTM consulting firm offering Fractional CMO services, GTM strategy, and AI-powered marketing solutions. Creator of EPIC, IMPACT, and CRAFT frameworks. Parent company of HyperPlays (AI lead generation services).",
+  "description": "B2B GTM consulting firm offering Fractional CMO services, GTM strategy, and AI-powered marketing solutions. Creator of EPIC, IMPACT, and CRAFT frameworks. Parent company of HyperPlays (AI lead generation services). Led 6+ major corporate rebrands across telecom, technology, and SaaS sectors.",
   "foundingDate": "2016",
   "founder": {
     "@type": "Person",
@@ -37,7 +37,7 @@
       "@type": "Organization",
       "name": "Discovery Outcomes",
       "url": "https://discoveryoutcomes.com",
-      "description": "AI-powered lead generation product platform - Shashwat Ghosh serves as Advisor"
+      "description": "AI-powered GTM platform with human-like AI strategist for B2B marketing teams, delivering qualified sales-ready leads on autopilot - Shashwat Ghosh serves as Strategic Advisor"
     }
   ],
   "address": {
@@ -86,7 +86,11 @@
     "Product-Led Growth",
     "AI-Powered Marketing",
     "MCP Server Development",
-    "Multi-Agent Orchestration"
+    "Multi-Agent Orchestration",
+    "Brand Strategy & Development",
+    "Corporate Rebranding",
+    "Brand Architecture",
+    "Hub-Spoke Messaging Methodology"
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -115,6 +119,14 @@
           "name": "AI Lead Generation (via HyperPlays)",
           "description": "AI-powered hyper-personalized lead generation services through child brand HyperPlays",
           "url": "https://www.hyper-plays.com"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Brand Strategy & Rebranding",
+          "description": "Corporate rebranding, brand architecture, positioning, and messaging framework development. Led 6+ major rebrands with agencies including Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra, Grey."
         }
       }
     ]

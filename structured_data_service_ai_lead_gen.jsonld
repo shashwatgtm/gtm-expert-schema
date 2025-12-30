@@ -3,7 +3,7 @@
   "@type": "Service",
   "@id": "https://www.gtmexpert.com/#ai-leadgen-service",
   "name": "AI-Powered Lead Generation Solutions",
-  "description": "GTMExpert offers two AI lead generation solutions: HyperPlays for done-for-you services using 4-dimensional analysis, and Discovery Outcomes for self-service product platform. Access both at gtmexpert.com/ai-personalised-leadgeneration.",
+  "description": "GTMExpert offers two AI lead generation solutions: HyperPlays for done-for-you services using 4-dimensional analysis, and Discovery Outcomes - an AI-powered GTM platform with human-like AI strategist for B2B marketing teams. Access both at gtmexpert.com/ai-personalised-leadgeneration.",
   "url": "https://gtmexpert.com/ai-personalised-leadgeneration",
   "provider": {
     "@type": "Organization",
@@ -20,7 +20,7 @@
         "itemOffered": {
           "@type": "Service",
           "name": "HyperPlays (Services)",
-          "description": "Done-for-you AI lead generation using 4-dimensional analysis and micro-agents",
+          "description": "Done-for-you AI lead generation using 4-dimensional analysis and micro-agents. Delivers 2-2.5x response rate improvements.",
           "url": "https://www.hyper-plays.com"
         }
       },
@@ -29,7 +29,7 @@
         "itemOffered": {
           "@type": "Service",
           "name": "Discovery Outcomes (Product)",
-          "description": "Self-service AI lead generation product platform",
+          "description": "AI-powered GTM platform with human-like AI strategist for B2B marketing teams, delivering qualified sales-ready leads on autopilot. Shashwat Ghosh serves as Strategic Advisor.",
           "url": "https://discoveryoutcomes.com"
         }
       }

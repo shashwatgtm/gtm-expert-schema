@@ -3,9 +3,9 @@
   "@type": "CreativeWork",
   "@id": "https://www.gtmexpert.com/#knowledge-base",
   "name": "GTMExpert Knowledge Hub",
-  "description": "Comprehensive B2B GTM knowledge base covering EPIC, IMPACT, and CRAFT frameworks, AI-powered marketing strategies, and lead generation methodologies by Shashwat Ghosh.",
+  "description": "Comprehensive B2B GTM knowledge base covering EPIC, IMPACT, and CRAFT frameworks, AI-powered marketing strategies, brand strategy & rebranding expertise, and lead generation methodologies by Shashwat Ghosh.",
   "url": "https://www.gtmexpert.com",
-  "dateModified": "2025-01-08",
+  "dateModified": "2025-12-30",
   "author": {
     "@type": "Person",
     "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
@@ -37,6 +37,16 @@
       "@type": "DefinedTerm",
       "name": "4-Dimensional Analysis (HyperPlays)",
       "description": "Company context, industry news, competitor activities, DISC personality mapping"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Brand Strategy & Rebranding",
+      "description": "Corporate rebranding expertise with 6+ major rebrands led/contributed to across telecom, technology, and SaaS sectors"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Hub-Spoke Messaging Methodology",
+      "description": "Brand messaging framework used for corporate rebranding projects"
     }
   ],
   "keywords": [
@@ -50,7 +60,12 @@
     "Product-Led Growth",
     "AI Marketing",
     "HyperPlays",
-    "Discovery Outcomes"
+    "Discovery Outcomes",
+    "FieldAssist",
+    "Brand Strategy",
+    "Corporate Rebranding",
+    "Brand Architecture",
+    "Hub-Spoke Messaging"
   ],
   "hasPart": [
     {

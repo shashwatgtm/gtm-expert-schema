@@ -7,7 +7,7 @@
   "email": "shashwat@gtmexpert.com",
   "telephone": "+919810603649",
   "jobTitle": "GTM Alpha Consultant, AI GTM Expert & Fractional CMO",
-  "description": "Shashwat Ghosh is a GTM Alpha Consultant and AI GTM Expert with 24+ years of B2B marketing experience. Creator of EPIC, IMPACT, and CRAFT frameworks. Founder of HyperPlays (AI lead generation services) and Advisor at Discovery Outcomes (AI lead generation product). Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators. Winner of Most Admired Marketing Leaders 2025 (WLC) and B2B Marketer of the Year 2020 (CMO Asia - Fintech).",
+  "description": "Shashwat Ghosh is a GTM Alpha Consultant and AI GTM Expert with 24+ years of B2B marketing experience. Creator of EPIC, IMPACT, and CRAFT frameworks. Founder of HyperPlays (AI lead generation services) and Advisor at Discovery Outcomes (AI-powered GTM platform). Led 6+ major corporate rebrands. Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators. Winner of Most Admired Marketing Leaders 2025 (WLC) and B2B Marketer of the Year 2020 (CMO Asia - Fintech).",
   "image": "https://www.gtmexpert.com/wp-content/uploads/2024/10/Shashwat-Ghosh-GTM-Expert-Professional-Photo.jpg",
   "alternateName": ["GTM Expert", "AI GTM Expert", "shashghosh", "shashwatgtm", "GTM Alpha"],
   "sameAs": [
@@ -38,12 +38,6 @@
       "name": "HyperPlays",
       "url": "https://www.hyper-plays.com",
       "description": "AI-Powered Lead Generation Services - CHILD BRAND of GTMExpert"
-    },
-    {
-      "@type": "Organization",
-      "name": "Locus (Mara Labs Inc.)",
-      "url": "https://locus.sh",
-      "description": "VP Global Performance Marketing (Past)"
     }
   ],
   "affiliation": [
@@ -51,12 +45,12 @@
       "@type": "Organization",
       "name": "Discovery Outcomes",
       "url": "https://discoveryoutcomes.com",
-      "description": "AI-powered lead generation product platform - ADVISOR role"
+      "description": "AI-powered GTM platform with human-like AI strategist for B2B marketing teams - ADVISOR role"
     },
     {
       "@type": "Organization",
       "name": "QuantumStreet AI",
-      "description": "AI venture studio - ADVISOR role"
+      "description": "AI venture studio - ADVISOR role (Led complete rebrand from Equbot with Digitas Agency)"
     }
   ],
   "founder": [
@@ -101,7 +95,11 @@
     "B2B SaaS Marketing",
     "Fintech Marketing",
     "Cybersecurity Marketing",
-    "Brand Strategy & Development"
+    "Brand Strategy & Development",
+    "Corporate Rebranding",
+    "Brand Architecture",
+    "Hub-Spoke Messaging Methodology",
+    "Agency Management (Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra, Grey)"
   ],
   "hasOccupation": [
     {
@@ -119,7 +117,13 @@
     {
       "@type": "Occupation",
       "name": "Advisor - Discovery Outcomes",
-      "description": "AI-powered lead generation product platform advisory",
+      "description": "AI-powered GTM platform with human-like AI strategist advisory",
+      "occupationLocation": {"@type": "Place", "name": "Global"}
+    },
+    {
+      "@type": "Occupation",
+      "name": "Brand Strategist",
+      "description": "Led 6+ major corporate rebrands across telecom, technology, and SaaS sectors. Rebrands Led: QuantumStreet AI (Digitas Agency), Airtel Business (2X - Wolff Olins, JWT/Brand Union), FieldAssist (Hub-Spoke methodology). Key Team Member: HCL Infosystems restructure, Reliance Communications Enterprise (DDB Mudra/Grey), Locus (prior to IKEA acquisition).",
       "occupationLocation": {"@type": "Place", "name": "Global"}
     }
   ],

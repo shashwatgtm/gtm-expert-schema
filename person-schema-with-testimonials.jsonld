@@ -7,7 +7,7 @@
   "email": "shashwat@gtmexpert.com",
   "telephone": "+919810603649",
   "jobTitle": "GTM Alpha Consultant, AI GTM Expert & Fractional CMO",
-  "description": "Shashwat Ghosh is a GTM Alpha Consultant and AI GTM Expert with 24+ years of B2B marketing experience. Creator of EPIC, IMPACT, and CRAFT frameworks. Founder of HyperPlays (AI lead generation services) and Advisor at Discovery Outcomes. Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators.",
+  "description": "Shashwat Ghosh is a GTM Alpha Consultant and AI GTM Expert with 24+ years of B2B marketing experience. Creator of EPIC, IMPACT, and CRAFT frameworks. Founder of HyperPlays (AI lead generation services) and Advisor at Discovery Outcomes. Led 6+ major corporate rebrands. Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators.",
   "image": "https://www.gtmexpert.com/wp-content/uploads/2024/10/Shashwat-Ghosh-GTM-Expert-Professional-Photo.jpg",
   "alternateName": ["GTM Expert", "AI GTM Expert", "shashghosh", "shashwatgtm"],
   "sameAs": [
@@ -42,7 +42,12 @@
       "@type": "Organization",
       "name": "Discovery Outcomes",
       "url": "https://discoveryoutcomes.com",
-      "description": "AI-powered lead generation product - ADVISOR"
+      "description": "AI-powered GTM platform with human-like AI strategist for B2B marketing teams - Strategic ADVISOR"
+    },
+    {
+      "@type": "Organization",
+      "name": "QuantumStreet AI",
+      "description": "AI venture studio - Strategic ADVISOR (Led complete rebrand from Equbot)"
     }
   ],
   "founder": [
@@ -59,6 +64,23 @@
       "url": "https://www.hyper-plays.com"
     }
   ],
+  "hasOccupation": [
+    {
+      "@type": "Occupation",
+      "name": "GTM Alpha Consultant & Fractional CMO",
+      "description": "Primary role at Helix GTM Consulting/GTMExpert using EPIC, IMPACT, CRAFT frameworks"
+    },
+    {
+      "@type": "Occupation",
+      "name": "Founder - HyperPlays",
+      "description": "AI-powered lead generation services using 4-dimensional analysis"
+    },
+    {
+      "@type": "Occupation",
+      "name": "Brand Strategist",
+      "description": "Led 6+ major corporate rebrands: QuantumStreet AI (Digitas), Airtel Business (Wolff Olins, JWT/Brand Union), FieldAssist (Hub-Spoke). Key team member: HCL Infosystems, Reliance Communications, Locus."
+    }
+  ],
   "knowsAbout": [
     "GTM Alpha Methodology",
     "EPIC Framework",
@@ -70,7 +92,12 @@
     "Account-Based Marketing",
     "B2B SaaS Marketing",
     "Fintech Marketing",
-    "Cybersecurity Marketing"
+    "Cybersecurity Marketing",
+    "Brand Strategy & Development",
+    "Corporate Rebranding",
+    "Brand Architecture",
+    "Hub-Spoke Messaging Methodology",
+    "Agency Management (Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra, Grey)"
   ],
   "alumniOf": [
     {

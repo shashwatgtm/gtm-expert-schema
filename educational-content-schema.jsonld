@@ -3,7 +3,7 @@
   "@type": "Course",
   "@id": "https://www.gtmexpert.com/#course",
   "name": "GTM Alpha Consulting Program",
-  "description": "Comprehensive B2B GTM strategy program covering EPIC, IMPACT, and CRAFT frameworks. Learn from Shashwat Ghosh's 24+ years of experience driving growth at companies like Airtel, Happay, Seclore, and Locus.",
+  "description": "Comprehensive B2B GTM strategy program covering EPIC, IMPACT, and CRAFT frameworks, brand strategy and rebranding. Learn from Shashwat Ghosh's 24+ years of experience driving growth at companies like Airtel (4X growth), FieldAssist (2.25× qualified leads), Happay (161% ARR, 2X exits), Seclore (165% revenue), and Locus ($4.2M pipeline, acquired by IKEA).",
   "url": "https://www.gtmexpert.com",
   "provider": {
     "@type": "Organization",
@@ -24,7 +24,12 @@
     "Product-Led Growth tactics",
     "Demand generation optimization",
     "AI-powered marketing automation",
-    "4-Dimensional prospect analysis (via HyperPlays)"
+    "4-Dimensional prospect analysis (via HyperPlays)",
+    "Brand Strategy & Development",
+    "Corporate Rebranding",
+    "Brand Architecture",
+    "Hub-Spoke Messaging Methodology",
+    "Agency Management for rebranding projects"
   ],
   "educationalLevel": "Advanced Professional Development",
   "aggregateRating": {

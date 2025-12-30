@@ -3,7 +3,7 @@
   "@type": "Service",
   "@id": "https://www.gtmexpert.com/#epic-service",
   "name": "EPIC Framework GTM Consulting",
-  "description": "Comprehensive GTM strategy using the EPIC Framework: Ecosystem & ABM, Product-Led Growth, Inbound/Outbound, Community-Led. Developed by Shashwat Ghosh based on 24+ years of B2B marketing experience.",
+  "description": "Comprehensive GTM strategy using the EPIC Framework: Ecosystem & ABM, Product-Led Growth, Inbound/Outbound, Community-Led. Developed by Shashwat Ghosh based on 24+ years of B2B marketing experience. Proven results at Airtel (4X growth), FieldAssist (2.25× qualified leads), Happay (161% ARR), Locus ($4.2M pipeline), and Seclore (165% revenue).",
   "url": "https://www.gtmexpert.com",
   "provider": {
     "@type": "Organization",
@@ -50,6 +50,14 @@
           "@type": "Service",
           "name": "Community-Led Growth",
           "description": "Building engaged customer communities"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Brand Strategy & Rebranding",
+          "description": "Corporate rebranding, brand architecture, Hub-Spoke messaging methodology. 6+ major rebrands led with agencies including Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra, Grey."
         }
       }
     ]

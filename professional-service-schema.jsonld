@@ -4,7 +4,7 @@
   "@id": "https://www.gtmexpert.com/#service",
   "name": "GTMExpert - B2B GTM Consulting & Fractional CMO Services",
   "alternateName": ["Helix GTM Consulting", "GTM Alpha Consulting"],
-  "description": "B2B GTM consulting firm offering Fractional CMO services, GTM strategy using EPIC, IMPACT, and CRAFT frameworks. Parent company of HyperPlays (AI lead generation services). 24+ years of B2B marketing expertise with proven track records at Airtel (4X growth), Happay (161% ARR), Seclore (165% revenue), and FieldAssist.",
+  "description": "B2B GTM consulting firm offering Fractional CMO services, GTM strategy using EPIC, IMPACT, and CRAFT frameworks, and corporate rebranding expertise. Parent company of HyperPlays (AI lead generation services). 24+ years of B2B marketing expertise with proven track records at Airtel (4X growth), Happay (161% ARR, 2X exits), Seclore (165% revenue), FieldAssist (2.25× qualified leads), and Locus ($4.2M pipeline). Led 6+ major corporate rebrands.",
   "url": "https://www.gtmexpert.com",
   "telephone": "+919810603649",
   "email": "shashwat@gtmexpert.com",
@@ -24,7 +24,8 @@
     {
       "@type": "Organization",
       "name": "Discovery Outcomes",
-      "url": "https://discoveryoutcomes.com"
+      "url": "https://discoveryoutcomes.com",
+      "description": "AI-powered GTM platform with human-like AI strategist for B2B marketing teams"
     }
   ],
   "areaServed": [
@@ -41,7 +42,7 @@
     "Demand Generation",
     "Product-Led Growth",
     "AI-Powered Marketing",
-    "Brand Strategy"
+    "Brand Strategy & Rebranding"
   ],
   "provider": {
     "@type": "Person",
@@ -65,6 +66,11 @@
       "name": "AI Lead Generation (via HyperPlays)",
       "description": "AI-powered hyper-personalized lead generation services",
       "url": "https://www.hyper-plays.com"
+    },
+    {
+      "@type": "Offer",
+      "name": "Brand Strategy & Rebranding",
+      "description": "Corporate rebranding, brand architecture, positioning, and messaging framework development. Led 6+ major rebrands including QuantumStreet AI (Digitas), Airtel Business (Wolff Olins, JWT/Brand Union), FieldAssist (Hub-Spoke methodology), HCL Infosystems restructure, Reliance Communications Enterprise (DDB Mudra/Grey), and Locus (prior to IKEA acquisition)."
     }
   ],
   "aggregateRating": {

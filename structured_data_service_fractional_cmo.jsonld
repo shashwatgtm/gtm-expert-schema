@@ -3,7 +3,7 @@
   "@type": "Service",
   "@id": "https://www.gtmexpert.com/#fractional-cmo-service",
   "name": "Fractional CMO Services",
-  "description": "Strategic marketing leadership for B2B companies using EPIC, IMPACT, and CRAFT frameworks. Shashwat Ghosh provides part-time CMO services with 24+ years of experience and proven results including 4X growth, 161% ARR increase, and $180M+ exits.",
+  "description": "Strategic marketing leadership for B2B companies using EPIC, IMPACT, and CRAFT frameworks. Shashwat Ghosh provides part-time CMO services with 24+ years of experience and proven results including 4X growth (Airtel), 161% ARR (Happay - 2X exits: CRED $180M + MakeMyTrip), 2.25× qualified leads (FieldAssist), $4.2M pipeline (Locus - acquired by IKEA), and 165% revenue growth (Seclore). Also offers brand strategy with 6+ major rebrands led.",
   "url": "https://www.gtmexpert.com",
   "provider": {
     "@type": "Person",
@@ -25,7 +25,8 @@
     "Demand Generation Optimization",
     "Brand Positioning",
     "ABM Program Design",
-    "Marketing Technology Stack"
+    "Marketing Technology Stack",
+    "Brand Strategy & Rebranding"
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -53,6 +54,14 @@
           "@type": "Service",
           "name": "EPIC Framework Implementation",
           "description": "Full implementation of proprietary GTM methodology"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Brand Strategy & Rebranding",
+          "description": "Corporate rebranding, brand architecture, positioning, messaging framework. 6+ major rebrands led with agencies including Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra, Grey."
         }
       }
     ]

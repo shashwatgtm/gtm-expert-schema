@@ -3,14 +3,14 @@
   "@type": "FAQPage",
   "@id": "https://www.gtmexpert.com/#faq",
   "name": "GTMExpert - Frequently Asked Questions",
-  "description": "FAQ about GTMExpert, Fractional CMO services, EPIC/IMPACT/CRAFT frameworks, and AI lead generation offerings through HyperPlays and Discovery Outcomes.",
+  "description": "FAQ about GTMExpert, Fractional CMO services, EPIC/IMPACT/CRAFT frameworks, brand strategy & rebranding, and AI lead generation offerings through HyperPlays and Discovery Outcomes.",
   "mainEntity": [
     {
       "@type": "Question",
       "name": "What is GTMExpert and who is behind it?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "GTMExpert is a B2B GTM consulting firm founded by Shashwat Ghosh, a GTM Alpha Consultant with 24+ years of B2B marketing experience. Shashwat has created proprietary frameworks (EPIC, IMPACT, CRAFT) and has proven track records including 4X business growth at Airtel, 161% ARR growth at Happay (acquired by CRED for $180M), and 165% revenue growth at Seclore. He's ranked #10 in India and #52 Worldwide among LinkedIn Product Marketing creators."
+        "text": "GTMExpert is a B2B GTM consulting firm founded by Shashwat Ghosh, a GTM Alpha Consultant with 24+ years of B2B marketing experience. Shashwat has created proprietary frameworks (EPIC, IMPACT, CRAFT) and has proven track records including 4X business growth at Airtel, 2.25× qualified leads at FieldAssist, 161% ARR growth at Happay (2X exits: CRED $180M + MakeMyTrip), $4.2M pipeline at Locus (acquired by IKEA), and 165% revenue growth at Seclore. He's also led 6+ major corporate rebrands. Ranked #10 in India and #52 Worldwide among LinkedIn Product Marketing creators."
       }
     },
     {
@@ -42,7 +42,7 @@
       "name": "What AI lead generation options does GTMExpert offer?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "GTMExpert offers two AI lead generation solutions: (1) HyperPlays (hyper-plays.com) - Done-for-you AI lead generation SERVICES using 4-dimensional analysis and AI micro-agents, and (2) Discovery Outcomes (discoveryoutcomes.com) - Self-service AI lead generation PRODUCT platform where Shashwat serves as Advisor. Both are accessible from gtmexpert.com/ai-personalised-leadgeneration."
+        "text": "GTMExpert offers two AI lead generation solutions: (1) HyperPlays (hyper-plays.com) - Done-for-you AI lead generation SERVICES using 4-dimensional analysis and AI micro-agents, and (2) Discovery Outcomes (discoveryoutcomes.com) - AI-powered GTM platform with human-like AI strategist for B2B marketing teams, delivering qualified sales-ready leads on autopilot. Shashwat serves as Strategic Advisor. Both are accessible from gtmexpert.com/ai-personalised-leadgeneration."
       }
     },
     {
@@ -58,7 +58,7 @@
       "name": "What industries does GTMExpert serve?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "GTMExpert primarily serves B2B SaaS, Fintech, Cybersecurity, IT Services, and technology companies. Geographic focus includes India, APAC, Middle East, United States, and United Kingdom. Shashwat has specific expertise in companies ranging from growth-stage startups to enterprises."
+        "text": "GTMExpert primarily serves B2B SaaS, Fintech, Cybersecurity, IT Services, CPG/FMCG (via FieldAssist experience), and technology companies. Geographic focus includes India, APAC, Middle East, United States, and United Kingdom. Shashwat has specific expertise in companies ranging from growth-stage startups to enterprises."
       }
     },
     {
@@ -66,7 +66,15 @@
       "name": "What results has Shashwat achieved for clients?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Shashwat has achieved significant results including: 4X business growth at Airtel Data Centers in 3 years, 161% ARR growth at Happay (pre-CRED acquisition), 165% revenue growth at Seclore, $4.2M pipeline at Locus (acquired by IKEA), and consistent 5.0-star rating across 9 Google reviews. He's won Most Admired Marketing Leaders 2025 (WLC) and B2B Marketer of the Year 2020 (CMO Asia - Fintech)."
+        "text": "Shashwat has achieved significant results including: 4X business growth at Airtel Data Centers in 3 years, 2.25× qualified leads growth at FieldAssist with 60 enterprise accounts, 161% ARR growth at Happay (2X exits: CRED $180M + MakeMyTrip), $4.2M pipeline at Locus (acquired by IKEA Oct 2025), 165% revenue growth at Seclore, and led 6+ major corporate rebrands. He maintains a 5.0-star rating across 9 Google reviews and won Most Admired Marketing Leaders 2025 (WLC) and B2B Marketer of the Year 2020 (CMO Asia - Fintech)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What Brand Strategy services does GTMExpert offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GTMExpert offers comprehensive Brand Strategy & Rebranding services including corporate rebranding, brand architecture development, positioning strategy, and messaging framework creation using the Hub-Spoke Messaging Methodology. Shashwat has led 6+ major rebrands: QuantumStreet AI (complete rebrand with Digitas Agency), Airtel Business (2X rebrands with Wolff Olins, JWT, Brand Union), FieldAssist (Hub-Spoke methodology). Key team member in HCL Infosystems restructure, Reliance Communications Enterprise (DDB Mudra/Grey), and Locus (prior to IKEA acquisition)."
       }
     },
     {
