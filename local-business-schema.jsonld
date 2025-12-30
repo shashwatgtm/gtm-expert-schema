@@ -1,0 +1,133 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "https://www.gtmexpert.com/#local-business",
+  "name": "Helix GTM Consulting - GTM Expert",
+  "alternateName": ["GTMExpert", "GTM Expert", "Helix GTM"],
+  "url": "https://www.gtmexpert.com",
+  "logo": "https://www.gtmexpert.com/wp-content/uploads/2024/10/gtmexpert-logo.png",
+  "image": "https://www.gtmexpert.com/wp-content/uploads/2024/10/Shashwat-Ghosh-GTM-Expert-Professional-Photo.jpg",
+  "description": "B2B GTM consulting firm specializing in AI-powered marketing strategies, fractional CMO services, corporate branding, and go-to-market transformation. Creator of EPIC, IMPACT, and CRAFT frameworks. Led 6+ major corporate rebrands.",
+  "priceRange": "$$$$",
+  "telephone": "+919810603649",
+  "email": "shashwat@gtmexpert.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bengaluru",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560001",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.9716",
+    "longitude": "77.5946"
+  },
+  "areaServed": [
+    {"@type": "Country", "name": "India"},
+    {"@type": "AdministrativeArea", "name": "APAC"},
+    {"@type": "AdministrativeArea", "name": "Middle East"},
+    {"@type": "Country", "name": "United States"},
+    {"@type": "Country", "name": "United Kingdom"}
+  ],
+  "currenciesAccepted": "INR, USD",
+  "paymentAccepted": "Bank Transfer, PayPal, Credit Card",
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "opens": "09:00",
+    "closes": "18:00"
+  },
+  "founder": {
+    "@type": "Person",
+    "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
+    "name": "Shashwat Ghosh",
+    "jobTitle": "GTM Alpha Consultant, AI GTM Expert & Fractional CMO"
+  },
+  "knowsAbout": [
+    "AI GTM expertise delivered through MCP",
+    "EPIC GTM Alpha for traditional SaaS and ITeS",
+    "AI-based Lead Generation for Series A/B",
+    "Fractional CMO for Bootstrapped and AI companies",
+    "Branding for AI & Non-AI traditional companies",
+    "AI-powered deep research for SMB and MidMarket",
+    "Unique frameworks like CRAFT and IMPACT"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "GTM Expert Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "AI GTM expertise delivered through MCP"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "EPIC GTM Alpha for traditional SaaS and ITeS"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "AI-based Lead Generation for Series A/B"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Fractional CMO for Bootstrapped and AI companies"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Branding for AI & Non-AI traditional companies"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "AI-powered deep research for SMB and MidMarket"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Unique frameworks like CRAFT and IMPACT"
+        }
+      }
+    ]
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/",
+    "https://github.com/shashwatgtm",
+    "https://x.com/Shashwat_Ghosh",
+    "https://calendly.com/shashwat-gtmhelix/45min",
+    "https://gtmexpert.substack.com"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "9",
+    "bestRating": "5"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+919810603649",
+    "contactType": "sales",
+    "email": "shashwat@gtmexpert.com",
+    "url": "https://calendly.com/shashwat-gtmhelix/45min",
+    "availableLanguage": ["English", "Hindi"]
+  }
+}

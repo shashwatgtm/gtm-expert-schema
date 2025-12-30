@@ -1,41 +1,152 @@
 {
   "@context": "https://schema.org",
-  "@type": "Course",
-  "@id": "https://www.gtmexpert.com/#course",
-  "name": "GTM Alpha Consulting Program",
-  "description": "Comprehensive B2B GTM strategy program covering EPIC, IMPACT, and CRAFT frameworks, brand strategy and rebranding. Learn from Shashwat Ghosh's 24+ years of experience driving growth at companies like Airtel (4X growth), FieldAssist (2.25× qualified leads), Happay (161% ARR, 2X exits), Seclore (165% revenue), and Locus ($4.2M pipeline, acquired by IKEA).",
-  "url": "https://www.gtmexpert.com",
-  "provider": {
-    "@type": "Organization",
-    "@id": "https://www.gtmexpert.com/#organization",
-    "name": "Helix GTM Consulting"
-  },
-  "instructor": {
+  "@type": "ItemList",
+  "@id": "https://www.gtmexpert.com/#educational-content",
+  "name": "Shashwat Ghosh - Educational Content & Resources",
+  "description": "Educational resources, courses, and content created by Shashwat Ghosh for B2B marketing and GTM professionals",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Course",
+        "name": "EPIC Framework Masterclass",
+        "description": "Comprehensive training on the EPIC GTM methodology: Ecosystem & ABM, Product-Led Growth, Inbound/Outbound, and Community-Led strategies.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Helix GTM Consulting"
+        },
+        "instructor": {
+          "@type": "Person",
+          "name": "Shashwat Ghosh"
+        },
+        "courseCode": "EPIC-101",
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Course",
+        "name": "CRAFT AI Context Engineering",
+        "description": "Learn the CRAFT Framework for effective AI prompting and context management. Includes 50+ templates available on Notion Marketplace.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Helix GTM Consulting"
+        },
+        "instructor": {
+          "@type": "Person",
+          "name": "Shashwat Ghosh"
+        },
+        "courseCode": "CRAFT-101",
+        "educationalCredentialAwarded": "CRAFT Framework Certification"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Course",
+        "name": "IMPACT Strategic Positioning",
+        "description": "Master the IMPACT Framework for differentiated market positioning and competitive advantage.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Helix GTM Consulting"
+        },
+        "instructor": {
+          "@type": "Person",
+          "name": "Shashwat Ghosh"
+        },
+        "courseCode": "IMPACT-101"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Course",
+        "name": "AI-Powered Lead Generation",
+        "description": "Learn HyperPlays' 4-dimensional analysis methodology for hyper-personalized B2B lead generation using AI.",
+        "provider": {
+          "@type": "Organization",
+          "name": "HyperPlays",
+          "url": "https://www.hyper-plays.com"
+        },
+        "instructor": {
+          "@type": "Person",
+          "name": "Shashwat Ghosh"
+        },
+        "courseCode": "HYPERPLAYS-101"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Course",
+        "name": "Corporate Rebranding Masterclass",
+        "description": "Learn from 6+ major corporate rebrands. Covers brand architecture, positioning, messaging frameworks, and agency management with Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra, Grey.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Helix GTM Consulting"
+        },
+        "instructor": {
+          "@type": "Person",
+          "name": "Shashwat Ghosh"
+        },
+        "courseCode": "BRAND-101"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "Periodical",
+        "name": "Offbeat AI Watch Newsletter",
+        "description": "Weekly newsletter covering AI infrastructure, regulations, and developments for marketing professionals.",
+        "url": "https://shashwatgtm.github.io/ai-trendwatch/",
+        "publisher": {
+          "@type": "Person",
+          "name": "Shashwat Ghosh"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "Periodical",
+        "name": "GTM Whisperer Newsletter",
+        "description": "B2B GTM strategy newsletter with frameworks, case studies, and actionable insights.",
+        "url": "https://gtmexpert.substack.com",
+        "publisher": {
+          "@type": "Person",
+          "name": "Shashwat Ghosh"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "CreativeWork",
+        "name": "CRAFT Templates on Notion Marketplace",
+        "description": "50+ AI Context Engineering templates for effective AI prompting, featured on Notion Marketplace.",
+        "url": "https://www.notion.so/marketplace",
+        "creator": {
+          "@type": "Person",
+          "name": "Shashwat Ghosh"
+        }
+      }
+    }
+  ],
+  "creator": {
     "@type": "Person",
     "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
-    "name": "Shashwat Ghosh",
-    "sameAs": ["https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/"]
-  },
-  "teaches": [
-    "EPIC Framework implementation",
-    "IMPACT Framework positioning",
-    "CRAFT Framework AI context engineering",
-    "Account-Based Marketing strategies",
-    "Product-Led Growth tactics",
-    "Demand generation optimization",
-    "AI-powered marketing automation",
-    "4-Dimensional prospect analysis (via HyperPlays)",
-    "Brand Strategy & Development",
-    "Corporate Rebranding",
-    "Brand Architecture",
-    "Hub-Spoke Messaging Methodology",
-    "Agency Management for rebranding projects"
-  ],
-  "educationalLevel": "Advanced Professional Development",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5.0",
-    "reviewCount": "9",
-    "bestRating": "5"
+    "name": "Shashwat Ghosh"
   }
 }

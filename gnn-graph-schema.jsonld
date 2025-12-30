@@ -1,0 +1,316 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "gnn": "https://www.gtmexpert.com/ontology/gnn#",
+    "node": "gnn:node",
+    "edge": "gnn:edge",
+    "feature": "gnn:feature"
+  },
+  "@type": "Dataset",
+  "@id": "https://www.gtmexpert.com/#gnn-graph",
+  "name": "Shashwat Ghosh - GNN Graph Structure for Candidate Generation",
+  "description": "Graph Neural Network ready schema for candidate generation. Defines node types, edge types, and features for GNN model training and inference.",
+  "version": "2.1",
+  "dateCreated": "2025-12-30",
+  "creator": {
+    "@type": "Person",
+    "name": "Shashwat Ghosh"
+  },
+  "gnn:graphConstruction": {
+    "@type": "gnn:GraphSchema",
+    "name": "GTM Expert Entity Graph",
+    "description": "Heterogeneous graph with multiple node and edge types for GNN processing",
+    "gnn:nodeTypes": [
+      {
+        "@type": "gnn:NodeType",
+        "name": "Person",
+        "description": "Individual expert or professional",
+        "features": ["experience_years", "expertise_level", "awards_count", "skills_count", "exit_value_total", "rebrand_count"]
+      },
+      {
+        "@type": "gnn:NodeType",
+        "name": "Organization",
+        "description": "Company or institution",
+        "features": ["funding_stage", "exit_status", "employee_count", "revenue_range", "industry_code"]
+      },
+      {
+        "@type": "gnn:NodeType",
+        "name": "Skill",
+        "description": "Technical or business skill",
+        "features": ["skill_category", "proficiency_level", "recency_months", "implementation_count"]
+      },
+      {
+        "@type": "gnn:NodeType",
+        "name": "Framework",
+        "description": "Proprietary methodology or framework",
+        "features": ["components_count", "adoption_count", "documentation_quality"]
+      },
+      {
+        "@type": "gnn:NodeType",
+        "name": "Achievement",
+        "description": "Quantified accomplishment",
+        "features": ["metric_type", "metric_value", "timeframe_months", "verification_status"]
+      },
+      {
+        "@type": "gnn:NodeType",
+        "name": "Award",
+        "description": "Recognition or credential",
+        "features": ["prestige_level", "year_awarded", "category", "issuing_body_reputation"]
+      }
+    ],
+    "gnn:edgeTypes": [
+      {
+        "@type": "gnn:EdgeType",
+        "name": "WORKED_AT",
+        "source": "Person",
+        "target": "Organization",
+        "features": ["role_level", "tenure_months", "exit_type"],
+        "directed": true
+      },
+      {
+        "@type": "gnn:EdgeType",
+        "name": "HAS_SKILL",
+        "source": "Person",
+        "target": "Skill",
+        "features": ["proficiency_level", "years_experience", "last_used_months"],
+        "directed": true
+      },
+      {
+        "@type": "gnn:EdgeType",
+        "name": "CREATED_FRAMEWORK",
+        "source": "Person",
+        "target": "Framework",
+        "features": ["creation_year", "documentation_status"],
+        "directed": true
+      },
+      {
+        "@type": "gnn:EdgeType",
+        "name": "ACHIEVED",
+        "source": "Person",
+        "target": "Achievement",
+        "features": ["achievement_year", "organization_context"],
+        "directed": true
+      },
+      {
+        "@type": "gnn:EdgeType",
+        "name": "RECEIVED",
+        "source": "Person",
+        "target": "Award",
+        "features": ["award_year"],
+        "directed": true
+      },
+      {
+        "@type": "gnn:EdgeType",
+        "name": "LED_REBRAND",
+        "source": "Person",
+        "target": "Organization",
+        "features": ["rebrand_year", "agency_partners", "scope"],
+        "directed": true
+      },
+      {
+        "@type": "gnn:EdgeType",
+        "name": "EXIT_TO",
+        "source": "Organization",
+        "target": "Organization",
+        "features": ["exit_value_usd", "exit_type", "exit_year"],
+        "directed": true
+      }
+    ]
+  },
+  "gnn:nodes": [
+    {
+      "@type": "gnn:Node",
+      "@id": "node:person:shashwat-ghosh",
+      "nodeType": "Person",
+      "label": "Shashwat Ghosh",
+      "features": {
+        "experience_years": 24,
+        "expertise_level": 5,
+        "awards_count": 4,
+        "skills_count": 14,
+        "exit_value_total": 180000000,
+        "rebrand_count": 6
+      }
+    },
+    {
+      "@type": "gnn:Node",
+      "@id": "node:org:helix-gtm",
+      "nodeType": "Organization",
+      "label": "Helix GTM Consulting",
+      "features": {
+        "funding_stage": "bootstrapped",
+        "exit_status": "active",
+        "industry_code": "consulting"
+      }
+    },
+    {
+      "@type": "gnn:Node",
+      "@id": "node:org:hyperplays",
+      "nodeType": "Organization",
+      "label": "HyperPlays",
+      "features": {
+        "funding_stage": "bootstrapped",
+        "exit_status": "active",
+        "industry_code": "ai_leadgen"
+      }
+    },
+    {
+      "@type": "gnn:Node",
+      "@id": "node:org:fieldassist",
+      "nodeType": "Organization",
+      "label": "FieldAssist",
+      "features": {
+        "funding_stage": "bootstrapped",
+        "exit_status": "active",
+        "revenue_range": "5M+",
+        "industry_code": "b2b_saas"
+      }
+    },
+    {
+      "@type": "gnn:Node",
+      "@id": "node:org:locus",
+      "nodeType": "Organization",
+      "label": "Locus",
+      "features": {
+        "funding_stage": "series_c",
+        "exit_status": "acquired",
+        "exit_value_usd": 300000000,
+        "acquirer": "Ingka Group (IKEA)",
+        "industry_code": "logistics_ai"
+      }
+    },
+    {
+      "@type": "gnn:Node",
+      "@id": "node:org:happay",
+      "nodeType": "Organization",
+      "label": "Happay",
+      "features": {
+        "funding_stage": "series_b",
+        "exit_status": "acquired_2x",
+        "exit_value_usd": 180000000,
+        "industry_code": "fintech"
+      }
+    },
+    {
+      "@type": "gnn:Node",
+      "@id": "node:org:seclore",
+      "nodeType": "Organization",
+      "label": "Seclore",
+      "features": {
+        "funding_stage": "series_c",
+        "exit_status": "active",
+        "funding_total": 46000000,
+        "industry_code": "cybersecurity"
+      }
+    },
+    {
+      "@type": "gnn:Node",
+      "@id": "node:framework:epic",
+      "nodeType": "Framework",
+      "label": "EPIC Framework",
+      "features": {
+        "components_count": 4,
+        "adoption_count": 50,
+        "documentation_quality": "high"
+      }
+    },
+    {
+      "@type": "gnn:Node",
+      "@id": "node:framework:impact",
+      "nodeType": "Framework",
+      "label": "IMPACT Framework",
+      "features": {
+        "components_count": 6,
+        "adoption_count": 30,
+        "documentation_quality": "high"
+      }
+    },
+    {
+      "@type": "gnn:Node",
+      "@id": "node:framework:craft",
+      "nodeType": "Framework",
+      "label": "CRAFT Framework",
+      "features": {
+        "components_count": 50,
+        "adoption_count": 100,
+        "documentation_quality": "high",
+        "marketplace": "notion"
+      }
+    }
+  ],
+  "gnn:edges": [
+    {
+      "@type": "gnn:Edge",
+      "edgeType": "WORKED_AT",
+      "source": "node:person:shashwat-ghosh",
+      "target": "node:org:fieldassist",
+      "features": {"role_level": "fractional_cmo", "tenure_months": 18}
+    },
+    {
+      "@type": "gnn:Edge",
+      "edgeType": "WORKED_AT",
+      "source": "node:person:shashwat-ghosh",
+      "target": "node:org:locus",
+      "features": {"role_level": "vp", "tenure_months": 13, "exit_type": "acquisition"}
+    },
+    {
+      "@type": "gnn:Edge",
+      "edgeType": "WORKED_AT",
+      "source": "node:person:shashwat-ghosh",
+      "target": "node:org:happay",
+      "features": {"role_level": "vp", "tenure_months": 26, "exit_type": "acquisition_2x"}
+    },
+    {
+      "@type": "gnn:Edge",
+      "edgeType": "CREATED_FRAMEWORK",
+      "source": "node:person:shashwat-ghosh",
+      "target": "node:framework:epic",
+      "features": {"creation_year": 2020}
+    },
+    {
+      "@type": "gnn:Edge",
+      "edgeType": "CREATED_FRAMEWORK",
+      "source": "node:person:shashwat-ghosh",
+      "target": "node:framework:impact",
+      "features": {"creation_year": 2021}
+    },
+    {
+      "@type": "gnn:Edge",
+      "edgeType": "CREATED_FRAMEWORK",
+      "source": "node:person:shashwat-ghosh",
+      "target": "node:framework:craft",
+      "features": {"creation_year": 2024}
+    },
+    {
+      "@type": "gnn:Edge",
+      "edgeType": "EXIT_TO",
+      "source": "node:org:happay",
+      "target": "node:org:cred",
+      "features": {"exit_value_usd": 180000000, "exit_type": "acquisition", "exit_year": 2021}
+    },
+    {
+      "@type": "gnn:Edge",
+      "edgeType": "EXIT_TO",
+      "source": "node:org:locus",
+      "target": "node:org:ingka",
+      "features": {"exit_value_usd": 300000000, "exit_type": "acquisition", "exit_year": 2025}
+    }
+  ],
+  "gnn:recommendedModels": [
+    {
+      "@type": "gnn:Model",
+      "name": "R-GCN",
+      "description": "Relational Graph Convolutional Network for heterogeneous graphs"
+    },
+    {
+      "@type": "gnn:Model",
+      "name": "GraphSAGE",
+      "description": "Inductive representation learning on large graphs"
+    },
+    {
+      "@type": "gnn:Model",
+      "name": "GAT",
+      "description": "Graph Attention Networks for weighted aggregation"
+    }
+  ]
+}

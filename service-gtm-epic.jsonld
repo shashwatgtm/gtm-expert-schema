@@ -1,71 +1,95 @@
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "@id": "https://www.gtmexpert.com/#epic-service",
-  "name": "EPIC Framework GTM Consulting",
-  "description": "Comprehensive GTM strategy using the EPIC Framework: Ecosystem & ABM, Product-Led Growth, Inbound/Outbound, Community-Led. Developed by Shashwat Ghosh based on 24+ years of B2B marketing experience. Proven results at Airtel (4X growth), FieldAssist (2.25× qualified leads), Happay (161% ARR), Locus ($4.2M pipeline), and Seclore (165% revenue).",
-  "url": "https://www.gtmexpert.com",
+  "@id": "https://www.gtmexpert.com/#service-epic",
+  "name": "EPIC GTM Framework Consulting",
+  "alternateName": "EPIC GTM Alpha",
+  "description": "Comprehensive Go-To-Market consulting using the proprietary EPIC Framework: Ecosystem & ABM, Product-Led Growth, Inbound/Outbound, and Community-Led growth strategies.",
   "provider": {
     "@type": "Organization",
     "@id": "https://www.gtmexpert.com/#organization",
-    "name": "Helix GTM Consulting"
+    "name": "Helix GTM Consulting",
+    "url": "https://www.gtmexpert.com"
   },
-  "serviceType": "GTM Strategy Consulting",
-  "areaServed": [
-    {"@type": "Country", "name": "India"},
-    {"@type": "AdministrativeArea", "name": "APAC"},
-    {"@type": "Country", "name": "United States"}
-  ],
+  "serviceType": "GTM Consulting",
+  "areaServed": ["India", "APAC", "Middle East", "United States", "United Kingdom"],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
-    "name": "EPIC Framework Services",
+    "name": "EPIC Framework Components",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Ecosystem & ABM Strategy",
-          "description": "Account-Based Marketing and ecosystem development"
+          "name": "E - Ecosystem & ABM",
+          "description": "Account-Based Marketing strategy development, target account identification, personalized campaigns, and ecosystem partnership building."
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Product-Led Growth Implementation",
-          "description": "PLG strategies for B2B SaaS companies"
+          "name": "P - Product-Led Growth",
+          "description": "Product-led growth strategy, freemium models, trial optimization, in-product marketing, and user activation flows."
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Inbound/Outbound Optimization",
-          "description": "Demand generation across channels"
+          "name": "I - Inbound/Outbound",
+          "description": "Integrated inbound content strategy and outbound prospecting. SEO, content marketing, demand generation, and sales development."
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Community-Led Growth",
-          "description": "Building engaged customer communities"
-        }
-      },
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Brand Strategy & Rebranding",
-          "description": "Corporate rebranding, brand architecture, Hub-Spoke messaging methodology. 6+ major rebrands led with agencies including Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra, Grey."
+          "name": "C - Community-Led",
+          "description": "Community building, developer relations, user groups, events, and community-driven growth strategies."
         }
       }
     ]
+  },
+  "additionalType": [
+    {
+      "@type": "Service",
+      "name": "IMPACT Framework",
+      "description": "Strategic positioning methodology for differentiated market positioning and competitive advantage."
+    },
+    {
+      "@type": "Service",
+      "name": "CRAFT Framework",
+      "description": "AI Context Engineering methodology with 50+ templates on Notion Marketplace for effective AI prompting and context management."
+    },
+    {
+      "@type": "Service",
+      "name": "Hub-Spoke Messaging Methodology",
+      "description": "Brand messaging methodology for consistent multi-channel communication and cohesive brand narrative."
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "availability": "https://schema.org/InStock",
+    "priceSpecification": {
+      "@type": "PriceSpecification",
+      "priceCurrency": "USD",
+      "price": "Custom",
+      "description": "Pricing based on scope and engagement type"
+    }
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "5.0",
     "reviewCount": "9",
     "bestRating": "5"
-  }
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {"@type": "Person", "name": "Client Review"},
+      "reviewRating": {"@type": "Rating", "ratingValue": "5"},
+      "reviewBody": "The EPIC framework transformed our GTM approach. Clear methodology with measurable results."
+    }
+  ]
 }

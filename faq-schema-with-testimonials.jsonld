@@ -2,15 +2,61 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "@id": "https://www.gtmexpert.com/#faq",
-  "name": "GTMExpert - Frequently Asked Questions",
-  "description": "FAQ about GTMExpert, Fractional CMO services, EPIC/IMPACT/CRAFT frameworks, brand strategy & rebranding, and AI lead generation offerings through HyperPlays and Discovery Outcomes.",
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is GTMExpert and who is behind it?",
+      "name": "What is AI GTM expertise delivered through MCP?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "GTMExpert is a B2B GTM consulting firm founded by Shashwat Ghosh, a GTM Alpha Consultant with 24+ years of B2B marketing experience. Shashwat has created proprietary frameworks (EPIC, IMPACT, CRAFT) and has proven track records including 4X business growth at Airtel, 2.25× qualified leads at FieldAssist, 161% ARR growth at Happay (2X exits: CRED $180M + MakeMyTrip), $4.2M pipeline at Locus (acquired by IKEA), and 165% revenue growth at Seclore. He's also led 6+ major corporate rebrands. Ranked #10 in India and #52 Worldwide among LinkedIn Product Marketing creators."
+        "text": "AI GTM expertise delivered through MCP (Model Context Protocol) is Shashwat Ghosh's approach to providing Go-To-Market consulting through AI-powered tools. The GTM Alpha MCP Server (published on NPM) enables seamless integration with AI assistants like Claude, allowing real-time GTM strategy analysis, EPIC framework application, and personalized recommendations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is EPIC GTM Alpha for traditional SaaS and ITeS?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "EPIC GTM Alpha is a comprehensive Go-To-Market methodology specifically designed for traditional SaaS and IT services companies. EPIC stands for: Ecosystem & ABM (Account-Based Marketing), Product-Led Growth, Inbound/Outbound marketing strategies, and Community-Led growth. This framework provides a structured approach to GTM that has been proven across multiple successful B2B companies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does AI-based Lead Generation for Series A/B work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Through HyperPlays (www.hyper-plays.com), Shashwat offers AI-powered hyper-personalized lead generation specifically designed for Series A and Series B funded startups. The service uses 4-dimensional analysis combining: company context, industry news, competitor activities, and DISC personality mapping to create highly targeted, personalized outreach that generates qualified leads."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does Fractional CMO for Bootstrapped and AI companies include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fractional CMO services provide strategic marketing leadership without full-time commitment, specifically tailored for bootstrapped startups and AI-native companies. Services include GTM strategy development, demand generation, brand positioning, marketing team building, and AI implementation in marketing workflows. Shashwat has served as Fractional CMO for companies like FieldAssist, delivering 2.25× qualified lead growth."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Branding for AI & Non-AI traditional companies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shashwat provides corporate branding, rebranding, and brand architecture services for both AI-native companies and traditional non-AI businesses. With 6+ major corporate rebrands under his belt, he has worked with agencies including Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra, and Grey. His Hub-Spoke Messaging Methodology ensures consistent brand communication across all channels."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does AI-powered deep research for SMB and MidMarket help businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-powered deep research uses multi-agent systems and automated analysis to provide competitive intelligence, market research, and strategic insights for SMB and mid-market companies. This includes competitor tracking, market trend analysis, customer intelligence, and opportunity identification using AI tools like Apify actors and custom automation workflows."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the unique frameworks like CRAFT and IMPACT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shashwat has created three proprietary frameworks: 1) CRAFT Framework - AI Context Engineering methodology with 50+ templates available on Notion Marketplace, designed for effective AI prompting and context management. 2) IMPACT Framework - Strategic positioning methodology for differentiated market positioning. 3) EPIC Framework - GTM methodology covering Ecosystem & ABM, Product-Led Growth, Inbound/Outbound, and Community-Led strategies."
       }
     },
     {
@@ -18,7 +64,7 @@
       "name": "What is the EPIC Framework?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "EPIC is Shashwat's proprietary GTM methodology covering four pillars: (E) Ecosystem & Account-Based Marketing, (P) Product-Led Growth strategies, (I) Inbound/Outbound demand generation, and (C) Community-Led Growth. This framework has been successfully applied across B2B SaaS, Fintech, Cybersecurity, and IT Services sectors."
+        "text": "The EPIC Framework is Shashwat Ghosh's proprietary GTM methodology: E = Ecosystem & ABM (Account-Based Marketing), P = Product-Led Growth, I = Inbound/Outbound marketing strategies, C = Community-Led growth. This comprehensive framework provides a structured approach to go-to-market strategy that has been successfully applied across SaaS, fintech, and enterprise technology companies."
       }
     },
     {
@@ -26,7 +72,7 @@
       "name": "What is the IMPACT Framework?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "IMPACT is Shashwat's strategic positioning methodology designed to help B2B companies differentiate in crowded markets. It focuses on creating unique market positioning that resonates with target audiences and drives competitive advantage."
+        "text": "The IMPACT Framework is Shashwat's strategic positioning methodology designed to help companies achieve differentiated market positioning. It provides a systematic approach to identifying unique value propositions, competitive differentiation, and market messaging that resonates with target audiences."
       }
     },
     {
@@ -34,66 +80,48 @@
       "name": "What is the CRAFT Framework?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "CRAFT is Shashwat's AI context engineering methodology with 50+ templates available on Notion Marketplace. It helps marketers leverage AI tools effectively by providing structured approaches to prompt engineering and content creation."
+        "text": "CRAFT is Shashwat's AI Context Engineering methodology with 50+ templates featured on Notion Marketplace. It provides a structured approach to creating effective AI prompts and managing context for better AI interactions. The framework helps marketers and business professionals leverage AI tools more effectively for content creation, analysis, and automation."
       }
     },
     {
       "@type": "Question",
-      "name": "What AI lead generation options does GTMExpert offer?",
+      "name": "What is HyperPlays and how does it relate to GTMExpert?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "GTMExpert offers two AI lead generation solutions: (1) HyperPlays (hyper-plays.com) - Done-for-you AI lead generation SERVICES using 4-dimensional analysis and AI micro-agents, and (2) Discovery Outcomes (discoveryoutcomes.com) - AI-powered GTM platform with human-like AI strategist for B2B marketing teams, delivering qualified sales-ready leads on autopilot. Shashwat serves as Strategic Advisor. Both are accessible from gtmexpert.com/ai-personalised-leadgeneration."
+        "text": "HyperPlays (www.hyper-plays.com) is a child brand of Helix GTM Consulting (GTMExpert) focused specifically on AI-powered lead generation services. Founded in 2024, HyperPlays uses 4-dimensional analysis (company context, industry news, competitor activities, DISC personality mapping) to deliver hyper-personalized outreach and qualified leads for B2B companies."
       }
     },
     {
       "@type": "Question",
-      "name": "What is HyperPlays and how is it related to GTMExpert?",
+      "name": "What are Shashwat Ghosh's major awards and recognitions?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "HyperPlays is a child brand of GTMExpert/Helix GTM Consulting, specializing in AI-powered hyper-personalized lead generation SERVICES. It uses Shashwat's proprietary 4-dimensional analysis methodology (company context, industry news, competitor activities, DISC personality mapping) and AI micro-agents to deliver 2-2.5x response rate improvements for B2B startups."
+        "text": "Shashwat Ghosh has received several prestigious recognitions: 1) Most Admired Marketing Leaders 2025 from CMO Asia at World Leadership Congress, 2) B2B Marketer of the Year 2020 (Fintech category) from CMO Asia, 3) LinkedIn Top Product Marketing Voice - ranked #10 in India and #52 Worldwide, 4) Perfect 5.0-star Google Reviews from 9 clients."
       }
     },
     {
       "@type": "Question",
-      "name": "What industries does GTMExpert serve?",
+      "name": "What successful exits has Shashwat Ghosh been part of?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "GTMExpert primarily serves B2B SaaS, Fintech, Cybersecurity, IT Services, CPG/FMCG (via FieldAssist experience), and technology companies. Geographic focus includes India, APAC, Middle East, United States, and United Kingdom. Shashwat has specific expertise in companies ranging from growth-stage startups to enterprises."
+        "text": "Shashwat has been part of 3 successful exits: 1) Happay - 2X exits: First acquired by CRED for $180M (cash and stock) in December 2021, then expense management brand, business and team acquired by MakeMyTrip in November 2024. 2) Locus - Acquired by Ingka Group (largest IKEA retailer, ~90% of IKEA retail sales) in October 2025, previously valued at $300M."
       }
     },
     {
       "@type": "Question",
-      "name": "What results has Shashwat achieved for clients?",
+      "name": "What corporate rebrands has Shashwat Ghosh led?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Shashwat has achieved significant results including: 4X business growth at Airtel Data Centers in 3 years, 2.25× qualified leads growth at FieldAssist with 60 enterprise accounts, 161% ARR growth at Happay (2X exits: CRED $180M + MakeMyTrip), $4.2M pipeline at Locus (acquired by IKEA Oct 2025), 165% revenue growth at Seclore, and led 6+ major corporate rebrands. He maintains a 5.0-star rating across 9 Google reviews and won Most Admired Marketing Leaders 2025 (WLC) and B2B Marketer of the Year 2020 (CMO Asia - Fintech)."
+        "text": "Shashwat has led or been a key team member in 6+ major corporate rebrands: 1) QuantumStreet AI - Led complete rebrand from Equbot with Digitas Agency, 2) Airtel Business - 2X rebrands with Wolff Olins, JWT, Brand Union, 3) FieldAssist - Brand messaging using Hub-Spoke methodology, 4) HCL Infosystems - Restructure into HCL Services + 3 companies, 5) Reliance Communications Enterprise - With DDB Mudra and Grey, 6) Locus - Corporate rebrand prior to IKEA acquisition."
       }
     },
     {
       "@type": "Question",
-      "name": "What Brand Strategy services does GTMExpert offer?",
+      "name": "How can I book a consultation with Shashwat Ghosh?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "GTMExpert offers comprehensive Brand Strategy & Rebranding services including corporate rebranding, brand architecture development, positioning strategy, and messaging framework creation using the Hub-Spoke Messaging Methodology. Shashwat has led 6+ major rebrands: QuantumStreet AI (complete rebrand with Digitas Agency), Airtel Business (2X rebrands with Wolff Olins, JWT, Brand Union), FieldAssist (Hub-Spoke methodology). Key team member in HCL Infosystems restructure, Reliance Communications Enterprise (DDB Mudra/Grey), and Locus (prior to IKEA acquisition)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I book a consultation with Shashwat?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can book a consultation at calendly.com/shashwat-gtmhelix/45min or contact shashwat@gtmexpert.com. For AI lead generation services specifically, contact shashwat@hyperplays.in or visit hyper-plays.com."
+        "text": "You can book a consultation with Shashwat Ghosh through Calendly at https://calendly.com/shashwat-gtmhelix/45min for a 45-minute strategy session. You can also reach him via email at shashwat@gtmexpert.com or phone at +91-9810603649. Visit www.gtmexpert.com for more information about services."
       }
     }
-  ],
-  "author": {
-    "@type": "Person",
-    "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
-    "name": "Shashwat Ghosh"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "@id": "https://www.gtmexpert.com/#organization",
-    "name": "Helix GTM Consulting"
-  }
+  ]
 }

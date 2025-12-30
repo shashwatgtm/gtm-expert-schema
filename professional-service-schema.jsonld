@@ -1,33 +1,28 @@
 {
   "@context": "https://schema.org",
-  "@type": "ProfessionalService",
-  "@id": "https://www.gtmexpert.com/#service",
-  "name": "GTMExpert - B2B GTM Consulting & Fractional CMO Services",
-  "alternateName": ["Helix GTM Consulting", "GTM Alpha Consulting"],
-  "description": "B2B GTM consulting firm offering Fractional CMO services, GTM strategy using EPIC, IMPACT, and CRAFT frameworks, and corporate rebranding expertise. Parent company of HyperPlays (AI lead generation services). 24+ years of B2B marketing expertise with proven track records at Airtel (4X growth), Happay (161% ARR, 2X exits), Seclore (165% revenue), FieldAssist (2.25× qualified leads), and Locus ($4.2M pipeline). Led 6+ major corporate rebrands.",
+  "@type": ["ProfessionalService", "LocalBusiness"],
+  "@id": "https://www.gtmexpert.com/#professional-service",
+  "name": "Helix GTM Consulting - GTM Expert",
+  "alternateName": ["GTMExpert", "GTM Expert", "Helix GTM"],
   "url": "https://www.gtmexpert.com",
+  "logo": "https://www.gtmexpert.com/wp-content/uploads/2024/10/gtmexpert-logo.png",
+  "image": "https://www.gtmexpert.com/wp-content/uploads/2024/10/Shashwat-Ghosh-GTM-Expert-Professional-Photo.jpg",
+  "description": "B2B GTM consulting firm specializing in AI-powered marketing strategies, fractional CMO services, corporate branding, and go-to-market transformation. Creator of EPIC, IMPACT, and CRAFT frameworks.",
+  "priceRange": "$$$$",
   "telephone": "+919810603649",
   "email": "shashwat@gtmexpert.com",
-  "subOrganization": {
-    "@type": "Organization",
-    "@id": "https://www.hyper-plays.com/#organization",
-    "name": "HyperPlays",
-    "url": "https://www.hyper-plays.com",
-    "description": "AI-Powered Lead Generation Services"
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "postalCode": "560001",
+    "addressCountry": "IN"
   },
-  "isRelatedTo": [
-    {
-      "@type": "WebPage",
-      "url": "https://gtmexpert.com/ai-personalised-leadgeneration",
-      "name": "AI Lead Generation Hub"
-    },
-    {
-      "@type": "Organization",
-      "name": "Discovery Outcomes",
-      "url": "https://discoveryoutcomes.com",
-      "description": "AI-powered GTM platform with human-like AI strategist for B2B marketing teams"
-    }
-  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.9716",
+    "longitude": "77.5946"
+  },
   "areaServed": [
     {"@type": "Country", "name": "India"},
     {"@type": "AdministrativeArea", "name": "APAC"},
@@ -36,42 +31,101 @@
     {"@type": "Country", "name": "United Kingdom"}
   ],
   "serviceType": [
-    "Fractional CMO Services",
-    "GTM Strategy Consulting",
-    "Account-Based Marketing",
-    "Demand Generation",
-    "Product-Led Growth",
-    "AI-Powered Marketing",
+    "AI GTM expertise delivered through MCP",
+    "EPIC GTM Alpha for traditional SaaS and ITeS",
+    "AI-based Lead Generation for Series A/B",
+    "Fractional CMO for Bootstrapped and AI companies",
+    "Branding for AI & Non-AI traditional companies",
+    "AI-powered deep research for SMB and MidMarket",
+    "Unique frameworks like CRAFT and IMPACT",
     "Brand Strategy & Rebranding"
   ],
-  "provider": {
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "GTM Expert Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "AI GTM expertise delivered through MCP",
+          "description": "AI-powered Go-To-Market expertise delivered through Model Context Protocol servers for seamless AI assistant integration and GTM strategy analysis."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "EPIC GTM Alpha for traditional SaaS and ITeS",
+          "description": "Comprehensive GTM consulting using the EPIC framework (Ecosystem & ABM, Product-Led Growth, Inbound/Outbound, Community-Led) for traditional SaaS and IT services companies."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "AI-based Lead Generation for Series A/B",
+          "description": "HyperPlays AI-powered hyper-personalized lead generation using 4-dimensional analysis specifically designed for Series A and Series B funded startups."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Fractional CMO for Bootstrapped and AI companies",
+          "description": "Fractional Chief Marketing Officer services tailored for bootstrapped startups and AI-native companies requiring strategic marketing leadership."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Branding for AI & Non-AI traditional companies",
+          "description": "Corporate branding, rebranding, and brand architecture services for both AI-native companies and traditional businesses."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "AI-powered deep research for SMB and MidMarket",
+          "description": "AI-powered competitive intelligence, market research, and deep research services using multi-agent systems and automated analysis."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Unique frameworks like CRAFT and IMPACT",
+          "description": "Proprietary frameworks including CRAFT (AI Context Engineering with 50+ templates), IMPACT (Strategic Positioning), and EPIC (GTM Methodology)."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Brand Strategy & Rebranding",
+          "description": "Corporate rebranding, brand architecture, positioning, and messaging framework development. Led 6+ major rebrands with agencies including Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra, Grey. Expertise in Hub-Spoke Messaging Methodology."
+        }
+      }
+    ]
+  },
+  "founder": {
     "@type": "Person",
     "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
     "name": "Shashwat Ghosh",
-    "sameAs": ["https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/"]
+    "jobTitle": "GTM Alpha Consultant, AI GTM Expert & Fractional CMO"
   },
-  "makesOffer": [
-    {
-      "@type": "Offer",
-      "name": "Fractional CMO Services",
-      "description": "Strategic marketing leadership using EPIC, IMPACT, and CRAFT frameworks"
-    },
-    {
-      "@type": "Offer",
-      "name": "GTM Alpha Consulting",
-      "description": "Comprehensive go-to-market strategy and execution"
-    },
-    {
-      "@type": "Offer",
-      "name": "AI Lead Generation (via HyperPlays)",
-      "description": "AI-powered hyper-personalized lead generation services",
-      "url": "https://www.hyper-plays.com"
-    },
-    {
-      "@type": "Offer",
-      "name": "Brand Strategy & Rebranding",
-      "description": "Corporate rebranding, brand architecture, positioning, and messaging framework development. Led 6+ major rebrands including QuantumStreet AI (Digitas), Airtel Business (Wolff Olins, JWT/Brand Union), FieldAssist (Hub-Spoke methodology), HCL Infosystems restructure, Reliance Communications Enterprise (DDB Mudra/Grey), and Locus (prior to IKEA acquisition)."
-    }
+  "employee": {
+    "@type": "Person",
+    "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
+    "name": "Shashwat Ghosh"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/",
+    "https://github.com/shashwatgtm",
+    "https://x.com/Shashwat_Ghosh",
+    "https://calendly.com/shashwat-gtmhelix/45min"
   ],
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -79,15 +133,18 @@
     "reviewCount": "9",
     "bestRating": "5"
   },
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Bengaluru",
-    "addressRegion": "Karnataka",
-    "addressCountry": "IN"
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "opens": "09:00",
+    "closes": "18:00"
   },
-  "potentialAction": {
-    "@type": "ReserveAction",
-    "target": "https://calendly.com/shashwat-gtmhelix/45min",
-    "name": "Book GTM Consultation"
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+919810603649",
+    "contactType": "sales",
+    "email": "shashwat@gtmexpert.com",
+    "url": "https://calendly.com/shashwat-gtmhelix/45min",
+    "availableLanguage": ["English", "Hindi"]
   }
 }

@@ -80,6 +80,13 @@
     }
   ],
   "knowsAbout": [
+    "AI GTM expertise delivered through MCP",
+    "EPIC GTM Alpha for traditional SaaS and ITeS",
+    "AI-based Lead Generation for Series A/B",
+    "Fractional CMO for Bootstrapped and AI companies",
+    "Branding for AI & Non-AI traditional companies",
+    "AI-powered deep research for SMB and MidMarket",
+    "Unique frameworks like CRAFT and IMPACT",
     "GTM Alpha Methodology",
     "EPIC Framework (Ecosystem & ABM, Product-Led Growth, Inbound/Outbound, Community-Led)",
     "IMPACT Framework (Strategic Positioning)",
@@ -104,26 +111,44 @@
   "hasOccupation": [
     {
       "@type": "Occupation",
-      "name": "GTM Alpha Consultant & Fractional CMO",
-      "description": "Primary role at Helix GTM Consulting/GTMExpert using EPIC, IMPACT, CRAFT frameworks",
+      "name": "AI GTM expertise delivered through MCP",
+      "description": "Delivering AI-powered Go-To-Market expertise through Model Context Protocol servers, enabling seamless integration with AI assistants for GTM strategy analysis and recommendations.",
       "occupationLocation": {"@type": "Place", "name": "Global"}
     },
     {
       "@type": "Occupation",
-      "name": "Founder - HyperPlays",
-      "description": "AI-powered lead generation services using 4-dimensional analysis and micro-agents",
+      "name": "EPIC GTM Alpha for traditional SaaS and ITeS",
+      "description": "Comprehensive GTM consulting using the EPIC framework (Ecosystem & ABM, Product-Led Growth, Inbound/Outbound, Community-Led) for traditional SaaS and IT services companies.",
       "occupationLocation": {"@type": "Place", "name": "Global"}
     },
     {
       "@type": "Occupation",
-      "name": "Advisor - Discovery Outcomes",
-      "description": "AI-powered GTM platform with human-like AI strategist advisory",
+      "name": "AI-based Lead Generation for Series A/B",
+      "description": "AI-powered hyper-personalized lead generation services specifically designed for Series A and Series B funded startups through HyperPlays platform.",
       "occupationLocation": {"@type": "Place", "name": "Global"}
     },
     {
       "@type": "Occupation",
-      "name": "Brand Strategist",
-      "description": "Led 6+ major corporate rebrands across telecom, technology, and SaaS sectors. Rebrands Led: QuantumStreet AI (Digitas Agency), Airtel Business (2X - Wolff Olins, JWT/Brand Union), FieldAssist (Hub-Spoke methodology). Key Team Member: HCL Infosystems restructure, Reliance Communications Enterprise (DDB Mudra/Grey), Locus (prior to IKEA acquisition).",
+      "name": "Fractional CMO for Bootstrapped and AI companies",
+      "description": "Fractional Chief Marketing Officer services tailored for bootstrapped startups and AI-native companies requiring strategic marketing leadership without full-time commitment.",
+      "occupationLocation": {"@type": "Place", "name": "Global"}
+    },
+    {
+      "@type": "Occupation",
+      "name": "Branding for AI & Non-AI traditional companies",
+      "description": "Corporate branding, rebranding, and brand architecture services for both AI-native companies and traditional non-AI businesses. Led 6+ major rebrands with agencies including Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra, Grey.",
+      "occupationLocation": {"@type": "Place", "name": "Global"}
+    },
+    {
+      "@type": "Occupation",
+      "name": "AI-powered deep research for SMB and MidMarket",
+      "description": "AI-powered competitive intelligence, market research, and deep research services for SMB and mid-market companies using multi-agent systems and automated analysis.",
+      "occupationLocation": {"@type": "Place", "name": "Global"}
+    },
+    {
+      "@type": "Occupation",
+      "name": "Unique frameworks like CRAFT and IMPACT",
+      "description": "Creator of proprietary frameworks including CRAFT (AI Context Engineering with 50+ templates), IMPACT (Strategic Positioning), and EPIC (GTM Methodology) for systematic marketing excellence.",
       "occupationLocation": {"@type": "Place", "name": "Global"}
     }
   ],

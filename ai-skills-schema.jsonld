@@ -1,0 +1,193 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.gtmexpert.com/#shashwat-ghosh-ai-skills",
+  "name": "Shashwat Ghosh",
+  "description": "AI GTM Expert with 14 practical AI development skills acquired through 12-15 months of hands-on implementation",
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Hands-On AI Implementation Experience",
+      "credentialCategory": "Practical Skills",
+      "description": "12-15 months intensive AI skill acquisition through real-world project implementation"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Published NPM Package Author",
+      "credentialCategory": "Technical Achievement",
+      "description": "@shashwatgtmalpha/gtm-alpha-mcp-server - Production MCP server package"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Notion Marketplace Featured Creator",
+      "credentialCategory": "Platform Recognition",
+      "description": "CRAFT: 50 AI Context Engineering Templates featured by Notion"
+    }
+  ],
+  "knowsAbout": {
+    "@type": "ItemList",
+    "name": "AI Development Skills - 4 Tiers",
+    "description": "14 AI skills organized in 4 tiers from core development to content creation",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@type": "DefinedTerm",
+          "name": "MCP Server Development",
+          "termCode": "AI-MCP",
+          "description": "Model Context Protocol server development for AI integration. Published @shashwatgtmalpha/gtm-alpha-mcp-server on NPM. Enables AI assistants to access GTM expertise.",
+          "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "Tier 1 - Core Development"}
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "DefinedTerm",
+          "name": "Multi-Agent Orchestration",
+          "termCode": "AI-MULTIAGENT",
+          "description": "Design and deployment of 5-actor multi-agent systems for complex GTM workflows and autonomous task execution.",
+          "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "Tier 1 - Core Development"}
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@type": "DefinedTerm",
+          "name": "Agentic Workflow Design",
+          "termCode": "AI-AGENTIC",
+          "description": "Agent.ai platform expertise for building autonomous marketing and GTM workflows with decision-making capabilities.",
+          "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "Tier 1 - Core Development"}
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@type": "DefinedTerm",
+          "name": "Apify Actor Development",
+          "termCode": "AI-APIFY",
+          "description": "Web scraping and automation actors on Apify platform. Published actors at apify.com/shashghosh for GTM data collection.",
+          "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "Tier 1 - Core Development"}
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "item": {
+          "@type": "DefinedTerm",
+          "name": "Replit Agent Development",
+          "termCode": "AI-REPLIT",
+          "description": "Rapid prototyping and deployment of AI applications using Replit's agent development environment.",
+          "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "Tier 1 - Core Development"}
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "item": {
+          "@type": "DefinedTerm",
+          "name": "CustomGPT & AI Chatbot Design",
+          "termCode": "AI-CUSTOMGPT",
+          "description": "Design and implementation of custom GPT applications and AI chatbots for marketing and sales automation.",
+          "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "Tier 2 - AI Applications"}
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "item": {
+          "@type": "DefinedTerm",
+          "name": "Context Engineering (CRAFT Framework)",
+          "termCode": "AI-CRAFT",
+          "description": "Proprietary CRAFT Framework for AI context engineering. 50+ templates on Notion Marketplace for effective AI prompting.",
+          "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "Tier 2 - AI Applications"}
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "item": {
+          "@type": "DefinedTerm",
+          "name": "AI Consulting & Implementation",
+          "termCode": "AI-CONSULTING",
+          "description": "End-to-end AI implementation consulting for B2B marketing teams, from strategy to deployment.",
+          "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "Tier 2 - AI Applications"}
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 9,
+        "item": {
+          "@type": "DefinedTerm",
+          "name": "HubSpot AI Integration",
+          "termCode": "AI-HUBSPOT",
+          "description": "Integration of AI capabilities with HubSpot CRM for automated lead scoring, content personalization, and workflow optimization.",
+          "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "Tier 3 - Integrations"}
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 10,
+        "item": {
+          "@type": "DefinedTerm",
+          "name": "Notion AI Integration",
+          "termCode": "AI-NOTION",
+          "description": "Notion workspace automation and AI integration. CRAFT templates featured on Notion Marketplace.",
+          "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "Tier 3 - Integrations"}
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 11,
+        "item": {
+          "@type": "DefinedTerm",
+          "name": "NPM Package Development",
+          "termCode": "AI-NPM",
+          "description": "Node.js package development and publishing. @shashwatgtmalpha/gtm-alpha-mcp-server published on NPM registry.",
+          "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "Tier 3 - Integrations"}
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 12,
+        "item": {
+          "@type": "DefinedTerm",
+          "name": "Netlify Deployment & Functions",
+          "termCode": "AI-NETLIFY",
+          "description": "GTM Alpha platform deployment on Netlify with serverless functions, API connectors, and MCP server hosting.",
+          "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "Tier 3 - Integrations"}
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 13,
+        "item": {
+          "@type": "DefinedTerm",
+          "name": "Newsletter Creation (Offbeat AI Watch)",
+          "termCode": "AI-NEWSLETTER",
+          "description": "AI-assisted newsletter creation and curation. Offbeat AI Watch covers AI infrastructure and regulatory developments.",
+          "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "Tier 4 - Content & Research"}
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 14,
+        "item": {
+          "@type": "DefinedTerm",
+          "name": "Competitive Intelligence & AI Research",
+          "termCode": "AI-RESEARCH",
+          "description": "AI-powered competitive analysis, market research automation, and intelligence gathering using multi-agent systems.",
+          "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "Tier 4 - Content & Research"}
+        }
+      }
+    ]
+  },
+  "sameAs": [
+    "https://www.npmjs.com/package/@shashwatgtmalpha/gtm-alpha-mcp-server",
+    "https://apify.com/shashghosh",
+    "https://github.com/shashwatgtm"
+  ]
+}
