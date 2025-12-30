@@ -1,90 +1,72 @@
 {
   "@context": "https://schema.org",
-  "@type": "KnowledgeBase",
-  "name": "GTM Alpha Consulting Knowledge Hub",
-  "description": "Comprehensive knowledge base for Go-To-Market strategy, fractional CMO services, and B2B marketing excellence by Shashwat Ghosh",
+  "@type": "CreativeWork",
+  "@id": "https://www.gtmexpert.com/#knowledge-base",
+  "name": "GTMExpert Knowledge Hub",
+  "description": "Comprehensive B2B GTM knowledge base covering EPIC, IMPACT, and CRAFT frameworks, AI-powered marketing strategies, and lead generation methodologies by Shashwat Ghosh.",
   "url": "https://www.gtmexpert.com",
   "dateModified": "2025-01-08",
   "author": {
     "@type": "Person",
+    "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
     "name": "Shashwat Ghosh",
-    "jobTitle": "GTM Alpha Consultant & Fractional CMO",
-    "description": "24+ years B2B marketing expert, #10 Product Marketing Voice India, 4X business growth achiever",
-    "sameAs": [
-      "https://www.linkedin.com/in/shashwatghosh/",
-      "https://twitter.com/gtmexpert"
-    ]
+    "sameAs": ["https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/"]
   },
-  "mainEntity": [
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.gtmexpert.com/#organization",
+    "name": "Helix GTM Consulting"
+  },
+  "about": [
     {
       "@type": "DefinedTerm",
-      "name": "GTM Alpha Strategy",
-      "description": "Proprietary go-to-market framework that delivers 4X business growth through strategic positioning, customer journey optimization, and data-driven execution",
-      "termCode": "GTM-ALPHA",
-      "inDefinedTermSet": {
-        "@type": "DefinedTermSet",
-        "name": "GTM Methodologies",
-        "hasDefinedTerm": [
-          {
-            "@type": "DefinedTerm",
-            "name": "EPIC Framework",
-            "description": "Evidence-based go-to-market methodology: Explore market opportunities, Position strategically, Implement systematically, Control and optimize performance"
-          }
-        ]
-      }
+      "name": "EPIC Framework",
+      "description": "GTM methodology - Ecosystem & ABM, Product-Led Growth, Inbound/Outbound, Community-Led"
     },
     {
       "@type": "DefinedTerm",
-      "name": "Fractional CMO",
-      "description": "Part-time senior marketing executive providing strategic leadership for B2B companies without full-time CMO budget. Expertise in SaaS, fintech, and enterprise technology",
-      "termCode": "FCMO"
+      "name": "IMPACT Framework",
+      "description": "Strategic positioning methodology for B2B differentiation"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "CRAFT Framework",
+      "description": "AI context engineering with 50+ templates on Notion Marketplace"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "4-Dimensional Analysis (HyperPlays)",
+      "description": "Company context, industry news, competitor activities, DISC personality mapping"
     }
   ],
-  "specialty": [
-    "Go-To-Market Strategy",
-    "Fractional CMO Services", 
-    "B2B SaaS Marketing",
+  "keywords": [
+    "GTM Strategy",
+    "Fractional CMO",
+    "EPIC Framework",
+    "IMPACT Framework",
+    "CRAFT Framework",
+    "B2B Marketing",
     "Account-Based Marketing",
-    "Product Marketing",
-    "Growth Marketing",
-    "Digital Transformation",
-    "AI Marketing Strategy"
+    "Product-Led Growth",
+    "AI Marketing",
+    "HyperPlays",
+    "Discovery Outcomes"
   ],
-  "serviceArea": {
-    "@type": "Place",
-    "name": "Global",
-    "description": "India, APAC, MEA, US, UK"
-  },
-  "award": [
+  "hasPart": [
     {
-      "@type": "Award",
-      "name": "LinkedIn Top Product Marketing Voice",
-      "description": "#10 in India, #52 Worldwide"
+      "@type": "Periodical",
+      "name": "Offbeat AI Watch",
+      "url": "https://shashwatgtm.github.io/ai-trendwatch/"
     },
     {
-      "@type": "Award", 
-      "name": "4X Business Growth Achievement",
-      "description": "Delivered 4X business growth at Airtel Data Centers division"
-    }
-  ],
-  "credential": [
-    {
-      "@type": "EducationalOccupationalCredential",
-      "credentialCategory": "Engineering",
-      "educationalLevel": "Bachelor's Degree",
-      "recognizedBy": {
-        "@type": "Organization",
-        "name": "National Institute of Technology Rourkela"
-      }
+      "@type": "Periodical",
+      "name": "GTM Whisperer",
+      "url": "https://gtmexpert.substack.com"
     },
     {
-      "@type": "EducationalOccupationalCredential", 
-      "credentialCategory": "Management",
-      "educationalLevel": "Executive Education",
-      "recognizedBy": {
-        "@type": "Organization",
-        "name": "École des Ponts ParisTech, France"
-      }
+      "@type": "SoftwareApplication",
+      "name": "GTM Alpha MCP Server",
+      "url": "https://www.npmjs.com/package/@shashwatgtmalpha/gtm-alpha-mcp-server"
     }
   ]
 }

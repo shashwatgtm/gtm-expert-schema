@@ -1,46 +1,29 @@
 {
   "@context": "https://schema.org",
   "@type": "Person",
+  "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
   "name": "Shashwat Ghosh",
-  "jobTitle": "GTM Alpha Consultant & Strategic Marketing Leader",
-  "url": "https://gtmexpert.com",
-  "review": [
-    {
-      "@type": "Review",
-      "itemReviewed": {
-        "@type": "Service",
-        "name": "GTM Alpha Consulting Services",
-        "provider": {
-          "@type": "Person",
-          "name": "Shashwat Ghosh"
-        }
-      },
-      "author": {
-        "@type": "Person",
-        "name": "Kunwar B. Kishore Arora",
-        "jobTitle": "Ex-Global Chief Operating Officer",
-        "worksFor": {
-          "@type": "Organization",
-          "name": "APCER Life Sciences"
-        }
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": 5,
-        "bestRating": 5
-      },
-      "reviewBody": "When I was building the Data Center and Managed Services business from inception, Shashwat and his team did an exceptional job in brand building and communication. We grew the DC & MS business by 4X in 3 Years.",
-      "datePublished": "2016-05-23"
-    }
+  "url": "https://www.gtmexpert.com",
+  "email": "shashwat@gtmexpert.com",
+  "telephone": "+919810603649",
+  "jobTitle": "GTM Alpha Consultant, AI GTM Expert & Fractional CMO",
+  "description": "B2B GTM expert with 24+ years experience. Creator of EPIC, IMPACT, CRAFT frameworks. Founder of HyperPlays (AI lead gen services). Advisor at Discovery Outcomes.",
+  "image": "https://www.gtmexpert.com/wp-content/uploads/2024/10/Shashwat-Ghosh-GTM-Expert-Professional-Photo.jpg",
+  "sameAs": [
+    "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/",
+    "https://www.gtmexpert.com",
+    "https://www.hyper-plays.com",
+    "https://x.com/Shashwat_Ghosh"
   ],
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 5.0,
-    "reviewCount": 9,
-    "bestRating": 5,
-    "itemReviewed": {
-      "@type": "Service", 
-      "name": "GTM Alpha Consulting Services"
-    }
+    "ratingValue": "5.0",
+    "reviewCount": "9",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.gtmexpert.com"
   }
 }

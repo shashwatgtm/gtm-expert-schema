@@ -1,143 +1,63 @@
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "serviceType": "GTM Alpha Consulting with EPIC Framework",
-  "name": "GTM Alpha Consulting with EPIC Framework",
-  "alternateName": "Go-to-Market Strategy Consulting",
-  "description": "Comprehensive Go-to-Market (GTM) audit and strategic roadmap development using the proprietary EPIC framework (Ecosystem & ABM, Product-Led Growth, Inbound & Outbound Demand Generation, Community-Led Planning) to optimize market approach for B2B tech, SaaS, fintech, and ITES companies. Proven results: 4X business growth at Airtel, 161% ARR growth at Happay, $4.2Mn pipeline at Locus.",
+  "@id": "https://www.gtmexpert.com/#epic-service",
+  "name": "EPIC Framework GTM Consulting",
+  "description": "Comprehensive GTM strategy using the EPIC Framework: Ecosystem & ABM, Product-Led Growth, Inbound/Outbound, Community-Led. Developed by Shashwat Ghosh based on 24+ years of B2B marketing experience.",
+  "url": "https://www.gtmexpert.com",
   "provider": {
-    "@type": "Person",
-    "name": "Shashwat Ghosh",
-    "url": "https://www.gtmexpert.com",
-    "jobTitle": "GTM Alpha Consultant, Fractional CMO & Top Product Marketing Voice",
-    "description": "Award-winning B2B Marketer of the Year 2020, ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators with 24+ years B2B experience",
-    "hasCredential": [
-      {
-        "@type": "EducationalOccupationalCredential",
-        "name": "LinkedIn Top Product Marketing Voice",
-        "description": "#10 India, #52 Worldwide recognition"
-      },
-      {
-        "@type": "Award",
-        "name": "B2B Marketer of the Year 2020 in Fintech Category",
-        "awardingOrganization": "CMO Asia"
-      }
-    ]
+    "@type": "Organization",
+    "@id": "https://www.gtmexpert.com/#organization",
+    "name": "Helix GTM Consulting"
   },
+  "serviceType": "GTM Strategy Consulting",
   "areaServed": [
-    {
-      "@type": "Place",
-      "name": "India",
-      "description": "Bengaluru, Gurgaon, Mumbai, Navi Mumbai, Delhi NCR, Hyderabad, Chennai, Pune, Ahmedabad"
-    },
-    {
-      "@type": "Place",
-      "name": "Asia Pacific",
-      "description": "Singapore, Australia, Japan (Remote)"
-    },
-    {
-      "@type": "Place",
-      "name": "Middle East & Africa",
-      "description": "Dubai, UAE, Saudi Arabia (Remote)"
-    },
-    {
-      "@type": "Place",
-      "name": "North America",
-      "description": "United States, Canada (Remote)"
-    },
-    {
-      "@type": "Place",
-      "name": "Europe",
-      "description": "United Kingdom, Germany, France (Remote)"
-    }
+    {"@type": "Country", "name": "India"},
+    {"@type": "AdministrativeArea", "name": "APAC"},
+    {"@type": "Country", "name": "United States"}
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
-    "name": "GTM Alpha Consulting Services",
+    "name": "EPIC Framework Services",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "EPIC GTM Audit & Strategy Development",
-          "description": "Comprehensive GTM assessment and strategic roadmap using EPIC framework with proven 4X growth methodology"
-        },
-        "priceRange": "$5,000 - $25,000",
-        "priceCurrency": "USD"
-      },
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service", 
-          "name": "EPIC Framework Implementation",
-          "description": "Complete implementation of Ecosystem & ABM, Product-Led Growth, Inbound & Outbound, Community-Led strategies"
-        },
-        "priceRange": "$15,000 - $50,000",
-        "priceCurrency": "USD"
+          "name": "Ecosystem & ABM Strategy",
+          "description": "Account-Based Marketing and ecosystem development"
+        }
       },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "GTM Alpha Performance Optimization",
-          "description": "Ongoing optimization and performance enhancement with measurable KPIs and growth metrics"
-        },
-        "priceRange": "$8,000 - $20,000",
-        "priceCurrency": "USD"
+          "name": "Product-Led Growth Implementation",
+          "description": "PLG strategies for B2B SaaS companies"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Inbound/Outbound Optimization",
+          "description": "Demand generation across channels"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Community-Led Growth",
+          "description": "Building engaged customer communities"
+        }
       }
     ]
   },
-  "audience": {
-    "@type": "Audience",
-    "audienceType": [
-      "B2B SaaS Startups",
-      "Series A/B Companies", 
-      "Fintech Companies",
-      "Cybersecurity Companies",
-      "Logistics Tech Companies",
-      "Enterprise Technology Companies",
-      "ITES Companies",
-      "Mid-market B2B Companies"
-    ]
-  },
-  "serviceOutput": [
-    "GTM Strategy Roadmap",
-    "EPIC Framework Implementation Plan",
-    "Account-Based Marketing Strategy",
-    "Product-Led Growth Playbook", 
-    "Demand Generation Framework",
-    "Community-Led Growth Strategy",
-    "Performance Measurement Framework",
-    "Sales Enablement Materials"
-  ],
-  "performanceMetrics": [
-    "4X Business Growth Achievement (Airtel Data Centers)",
-    "161% ARR Growth (Happay Enterprise Pivot)",
-    "178% Enterprise Deal Size Increase (Happay)",
-    "2300% Inside Sales Deal Size Increase (Happay)", 
-    "$4.2Mn Pipeline Generation (Locus)",
-    "79% Sales Accepted Opportunities Achievement (Locus)",
-    "203% Regional Achievement (Locus SEA)",
-    "165% Revenue Growth Contribution (Seclore)",
-    "225+ Sales Meetings Arranged (Seclore)",
-    "₹2.35 Cr TCV in 6 months (Seclore ABM)"
-  ],
-  "keywords": [
-    "GTM Consulting",
-    "EPIC Framework", 
-    "Go-to-Market Strategy",
-    "Account-Based Marketing",
-    "Product-Led Growth",
-    "Demand Generation",
-    "B2B SaaS Marketing",
-    "Startup Consulting",
-    "Fintech Marketing",
-    "Enterprise GTM",
-    "Performance Marketing",
-    "Revenue Growth",
-    "Pipeline Generation",
-    "Sales Enablement"
-  ],
-  "url": "https://www.gtmexpert.com",
-  "dateModified": "2025-01-08"
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "9",
+    "bestRating": "5"
+  }
 }

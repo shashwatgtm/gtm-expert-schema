@@ -1,38 +1,73 @@
 {
   "@context": "https://schema.org",
   "@type": "Person",
+  "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
   "name": "Shashwat Ghosh",
   "url": "https://www.gtmexpert.com",
-  "email": "shashwat@gtmexpert.com",
-  "telephone": "+919810603649",
-  "jobTitle": "GTM Alpha Consultant, Fractional CMO & Top Product Marketing Voice",
+  "jobTitle": "GTM Alpha Consultant, AI GTM Expert & Fractional CMO",
+  "sameAs": ["https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/"],
   "hasOccupation": [
     {
       "@type": "Role",
-      "roleName": "Co-Founder and GTM Alpha Consultant",
+      "roleName": "GTM Alpha Consultant & Fractional CMO",
       "startDate": "2016",
       "endDate": "Present",
       "organization": {
         "@type": "Organization",
+        "@id": "https://www.gtmexpert.com/#organization",
         "name": "Helix GTM Consulting",
-        "url": "https://www.gtmexpert.com",
-        "description": "GTM Alpha consulting and Fractional CMO services"
+        "alternateName": "GTMExpert",
+        "url": "https://www.gtmexpert.com"
       },
       "responsibilities": [
-        "Developed proprietary EPIC Framework for GTM optimization",
-        "Delivered 4X business growth results for clients (verified at Airtel)",
-        "Achieved LinkedIn ranking #10 India, #52 Worldwide in Product Marketing",
-        "Served as Fractional CMO for multiple B2B SaaS and tech startups",
-        "Specialized in AI-powered marketing strategies and account-based marketing",
-        "Won B2B Marketer of the Year 2020 in Fintech Category by CMO Asia"
+        "Developed EPIC Framework (Ecosystem & ABM, Product-Led Growth, Inbound/Outbound, Community-Led)",
+        "Created IMPACT Framework for strategic positioning",
+        "Built CRAFT Framework for AI context engineering with 50+ templates",
+        "Provide Fractional CMO services to B2B SaaS companies",
+        "Founded HyperPlays for AI-powered lead generation services",
+        "Publish Offbeat AI Watch and GTM Whisperer newsletters",
+        "Developed and published GTM Alpha MCP Server on NPM"
       ],
-      "skills": [
-        "GTM Alpha Methodology",
-        "EPIC Framework",
-        "Fractional CMO Services",
-        "AI-Powered Marketing",
-        "Account-Based Marketing"
+      "achievements": [
+        "Created three proprietary frameworks: EPIC, IMPACT, CRAFT",
+        "Winner - Most Admired Marketing Leaders 2025 (WLC)",
+        "Ranked #10 India, #52 Worldwide LinkedIn Product Marketing Voice",
+        "Founded HyperPlays AI lead generation service brand"
       ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "Founder & AI Lead Generation Specialist",
+      "startDate": "2024",
+      "endDate": "Present",
+      "organization": {
+        "@type": "Organization",
+        "@id": "https://www.hyper-plays.com/#organization",
+        "name": "HyperPlays",
+        "url": "https://www.hyper-plays.com",
+        "parentOrganization": {
+          "@type": "Organization",
+          "name": "Helix GTM Consulting"
+        }
+      },
+      "responsibilities": [
+        "Developed 4-dimensional analysis methodology for lead generation",
+        "Created AI micro-agents for automated prospect research",
+        "Pioneered hyper-personalization delivering 2-2.5x response rate improvements",
+        "Built trigger-based prospecting systems",
+        "Limited elite program to 7 B2B companies per cohort"
+      ]
+    },
+    {
+      "@type": "Role",
+      "roleName": "Advisor",
+      "startDate": "2024",
+      "endDate": "Present",
+      "organization": {
+        "@type": "Organization",
+        "name": "Discovery Outcomes",
+        "url": "https://discoveryoutcomes.com"
+      }
     },
     {
       "@type": "Role",
@@ -42,19 +77,9 @@
       "organization": {
         "@type": "Organization",
         "name": "FieldAssist",
-        "description": "B2B SaaS platform for retail execution and trade marketing"
+        "description": "B2B SaaS platform - $10M ARR, 300+ employees, 12 countries"
       },
-      "responsibilities": [
-        "Led comprehensive marketing strategy for B2B SaaS platform",
-        "Implemented EPIC framework for demand generation and customer acquisition",
-        "Managed marketing team and budget optimization",
-        "Drove product marketing and competitive positioning strategies"
-      ],
-      "achievements": [
-        "Successful implementation of GTM Alpha methodology in SaaS environment",
-        "Enhanced brand positioning in retail tech market",
-        "Published thought leadership article on G2: 'Why Your Startup Has a GTM Problem'"
-      ]
+      "achievements": ["Successful implementation of GTM Alpha methodology"]
     },
     {
       "@type": "Role",
@@ -64,278 +89,82 @@
       "organization": {
         "@type": "Organization",
         "name": "Locus (Mara Labs Inc.)",
-        "description": "AI-powered logistics optimization platform"
+        "description": "AI logistics platform - acquired by IKEA October 2025"
       },
       "responsibilities": [
-        "Built best-in-class, data-driven ABM programs",
-        "Expanded Martech stack and drove inbound acquisition through Google SEM/SEO",
-        "Managed team of 12 people and $1.6 Mn marketing budget",
-        "Led innovative campaigns and LinkedIn Ads"
+        "Built ABM programs and expanded Martech stack",
+        "Drove inbound acquisition through Google SEM/SEO and LinkedIn Ads",
+        "Managed team of 12 and $1.6M marketing budget"
       ],
-      "achievements": [
-        "Generated $4.2 Mn pipeline with 79% achievement of 108 Sales Accepted Opportunities (SAOs)",
-        "SEA region achieved 203% of targets, North America at 64% ($1.9 Mn)",
-        "Secured two significant Gartner mentions for Locus",
-        "Achieved 99 priority keywords (P1 & P2) improvement in Q2",
-        "Streamlined Inbound SDR process with new ICP activity-based lead scoring"
-      ]
+      "achievements": ["$4.2M pipeline with 79% achievement of 108 SAOs", "Two Gartner mentions"]
     },
     {
       "@type": "Role",
-      "roleName": "Vice President Marketing & Demand Generation",
+      "roleName": "Vice President of Marketing",
       "startDate": "2019-11",
       "endDate": "2022-01",
       "organization": {
         "@type": "Organization",
         "name": "Happay (VA Tech Ventures Ltd.)",
-        "description": "Fintech/Spend Management platform (acquired by CRED)"
+        "description": "Fintech/Spend Management - acquired by CRED for $180M"
       },
-      "previousRole": {
-        "roleName": "Strategic Marketing Consultant",
-        "startDate": "2018-04",
-        "endDate": "2019-10"
-      },
-      "responsibilities": [
-        "Accelerated growth by building and executing enterprise marketing strategy",
-        "Managed pre-COVID team of 52 people: 18 Marketing, 22 Demand Generation, 9 Data Mining, 3 Inside Sales",
-        "Pivoted business model from SMB to enterprise",
-        "Built and managed complete marketing strategy"
-      ],
       "achievements": [
-        "Grew ARR by 161% through enterprise pivot",
-        "Increased average deal size by 178% (Enterprise) & 2300% (Inside Sales)",
-        "Generated 65-72% of sales pipeline and revenue",
-        "Achieved 3x ROI on multimillion-Rupees marketing budget",
-        "Drove 45% of target accounts to redesigned enterprise-focused website",
-        "Built press and analyst program resulting in Forrester coverage",
-        "Hired 8 key team members including Head of Content & Product Marketing"
+        "Pivoted from SMB to enterprise, grew ARR by 161%",
+        "Generated 65-72% of sales pipeline through marketing",
+        "Won B2B Marketer of the Year 2020 (CMO Asia - Fintech)"
       ]
     },
     {
       "@type": "Role",
-      "roleName": "Director of Product Marketing (India & Middle East)",
+      "roleName": "Director of Product Marketing",
       "startDate": "2016-07",
       "endDate": "2017-10",
       "organization": {
         "@type": "Organization",
-        "name": "Seclore Technology Ltd.",
-        "description": "Cybersecurity and information rights management solutions"
+        "name": "Seclore Technology Ltd",
+        "description": "Cybersecurity - $46M+ total funding"
       },
-      "responsibilities": [
-        "Led product marketing strategy for cybersecurity solutions",
-        "Built and managed marketing team of 7 with ₹1.5 Cr annual budget",
-        "Developed go-to-market strategies for enterprise security products",
-        "Managed competitive analysis and market positioning"
-      ],
-      "achievements": [
-        "Played pivotal role in company's revenue growth of 165%",
-        "Increased brand awareness from startup to leader status",
-        "Arranged 225+ meetings for Sales team in target accounts",
-        "Created demand generation engine generating 85% of regional sales pipeline",
-        "Built account-based marketing model for 70+ enterprises bringing ₹2.35 Cr TCV in 6 months",
-        "Revamped website with 74+ new content pieces (Use Cases, Blogs, White papers)",
-        "Built analyst program resulting in Gartner 'Market Guide' coverage and F&S Award"
-      ]
+      "achievements": ["Pivotal role in 165% revenue growth", "Built ABM model for 70+ enterprises"]
     },
     {
       "@type": "Role",
       "roleName": "Head - Customer Insights, Brand & New Projects",
       "startDate": "2011-10",
       "endDate": "2016-07",
-      "organization": {
-        "@type": "Organization",
-        "name": "HCL Infosystems Ltd.",
-        "description": "Technology and IT services company ($5B revenue)"
-      },
-      "previousRoles": [
-        {
-          "roleName": "Head - Strategy & Marketing (Office Automation)",
-          "period": "2011-10 to 2013-02"
-        }
-      ],
-      "responsibilities": [
-        "Led customer insights and brand strategy initiatives",
-        "Managed team of 14 people",
-        "Developed new project development and market research",
-        "Created GTM strategy for Office Automation business"
-      ],
-      "achievements": [
-        "Saved ₹1.2 Cr between Jan-June 2016 through Synergy Sales effort",
-        "Built Transformation microsite resulting in ₹54 Cr TCV impact over 2 years",
-        "LinkedIn Strategy for India, MEA & Singapore: 1550+ followers in 9 months (30% CXO-VP-Director level)",
-        "Developed market opportunity assessment model for Africa, CIS & MEA",
-        "Signed 45+ VAR partners in South & West India for Services Sales to SMEs",
-        "Defined GTM strategy for NokiaLife (Agriculture VAS Services)"
-      ]
+      "organization": {"@type": "Organization", "name": "HCL Infosystems Ltd."}
     },
     {
       "@type": "Role",
       "roleName": "Senior Brand & Media Manager",
       "startDate": "2007-06",
       "endDate": "2011-10",
-      "organization": {
-        "@type": "Organization",
-        "name": "Bharti Airtel Ltd.",
-        "description": "India's largest telecommunications company"
-      },
-      "growthPath": [
-        {
-          "role": "Senior Brand & Media Manager",
-          "period": "2010-03 to 2011-10"
-        },
-        {
-          "role": "Senior Product Marketing Manager - Data, Voice & VAS",
-          "period": "2008-03 to 2010-03"
-        },
-        {
-          "role": "Regional Marketing Head - West",
-          "period": "2007-06 to 2008-03"
-        }
-      ],
-      "responsibilities": [
-        "Managed brand strategy and media planning for Data Centers & Managed Services",
-        "Led account-based marketing for existing enterprise customers",
-        "Executed marketing campaigns through technology events and IT publications",
-        "Developed comprehensive communication strategies for B2B segments"
-      ],
-      "achievements": [
-        "Delivered 4X business growth for DC & MS division in 3 years",
-        "Successful launch and scaling of enterprise data center services",
-        "Developed & monitored Annual Marketing plan for three consecutive years",
-        "Built comprehensive repository of presentations, leaflets, case studies for Sales",
-        "Collaborated with Wolff Ollins in development of new brand identity"
-      ],
-      "testimonial": {
-        "@type": "Review",
-        "author": {
-          "@type": "Person",
-          "name": "Kunwar B. Kishore Arora",
-          "jobTitle": "Ex-Global Chief Operating Officer",
-          "worksFor": "APCER Life Sciences"
-        },
-        "reviewBody": "When I was building the Data Center and Managed Services business from inception, Shashwat and his team did an exceptional job in brand building and communication. We grew the DC & MS business by 4X in 3 Years."
-      }
+      "organization": {"@type": "Organization", "name": "Bharti Airtel Ltd."},
+      "achievements": ["4X business growth for DC & MS in 3 years"]
     },
     {
       "@type": "Role",
       "roleName": "National Marketing Manager - Broadband",
       "startDate": "2004-01",
       "endDate": "2007-05",
-      "organization": {
-        "@type": "Organization",
-        "name": "Reliance Communications Ltd.",
-        "description": "Telecommunications and broadband services"
-      },
-      "responsibilities": [
-        "Led national marketing strategy for broadband services",
-        "Developed integrated marketing campaigns for consumer and enterprise segments",
-        "Planned & launched Centrex, Business Internet, VPN, Audio & Video Conferencing",
-        "Coordinated nationwide marketing execution across regions"
-      ],
-      "achievements": [
-        "Successful broadband market penetration strategies",
-        "Launched Reliance NetConnect for Enterprises and Broadband for Residential",
-        "Launched Reliance IndiaCall in UK using Radio as prime media",
-        "Organized MPLS VPN, IPLC & Centrex road shows across India"
-      ]
+      "organization": {"@type": "Organization", "name": "Reliance Communications Ltd."}
     },
     {
       "@type": "Role",
       "roleName": "Account Manager",
       "startDate": "2000-04",
       "endDate": "2004-01",
-      "organization": {
-        "@type": "Organization",
-        "name": "Wunderman (Y&R-WPP agency)",
-        "description": "Global advertising and marketing agency"
-      },
-      "responsibilities": [
-        "Managed integrated communication for major clients",
-        "Handled clients: FedEx, ICICI Prudential, TATA Motors, HPCL, WNS & Shoppers Stop",
-        "Formulated and implemented loyalty programs",
-        "Managed strategic alliances"
-      ],
-      "achievements": [
-        "Launched 'The Trulife Club' - first insurance loyalty program in India",
-        "Launched 'FedEx Purple Loyalty Club' - first B2B loyalty program in India",
-        "Developed two major integrated campaigns for ICICI Prudential",
-        "Initiated 'My Customer First' program and 'Advisor Reward' program",
-        "Created promotional programs for Club HP and TATA Motors school contact program"
-      ]
+      "organization": {"@type": "Organization", "name": "Wunderman (Y&R-WPP)"}
     }
   ],
   "alumniOf": [
-    {
-      "@type": "EducationalOrganization",
-      "name": "National Institute of Technology (NIT) Rourkela",
-      "description": "Bachelor of Engineering in Metallurgy",
-      "startDate": "1990",
-      "endDate": "1994"
-    },
-    {
-      "@type": "EducationalOrganization", 
-      "name": "École des Ponts ParisTech (ENPC Paris)",
-      "description": "MBA in Marketing",
-      "startDate": "1997",
-      "endDate": "1999"
-    },
-    {
-      "@type": "EducationalOrganization",
-      "name": "XLRI Jamshedpur",
-      "description": "Postgraduate Certificate in Business Management (PGCBM), Working Managers Program",
-      "startDate": "2003",
-      "endDate": "2004"
-    }
+    {"@type": "EducationalOrganization", "name": "NIT Rourkela", "description": "B.E. Metallurgy"},
+    {"@type": "EducationalOrganization", "name": "École des Ponts ParisTech", "description": "MBA Marketing"},
+    {"@type": "EducationalOrganization", "name": "XLRI Jamshedpur", "description": "PG Certificate Management"}
   ],
   "award": [
-    {
-      "@type": "Award",
-      "name": "B2B Marketer of the Year 2020 in Fintech Category",
-      "description": "Awarded by CMO Asia for excellence in B2B fintech marketing",
-      "dateAwarded": "2020"
-    },
-    {
-      "@type": "Award",
-      "name": "LinkedIn Top Product Marketing Voice",
-      "description": "Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators",
-      "dateAwarded": "2024"
-    },
-    {
-      "@type": "Award", 
-      "name": "4X Business Growth Achievement",
-      "description": "Delivered 4X business growth for Airtel Data Centers & Managed Services in 3 years",
-      "dateAwarded": "2011"
-    }
+    {"@type": "Award", "name": "Most Admired Marketing Leaders 2025", "description": "CMO Asia - WLC"},
+    {"@type": "Award", "name": "B2B Marketer of the Year 2020", "description": "CMO Asia - Fintech"},
+    {"@type": "Award", "name": "LinkedIn Top Product Marketing Voice", "description": "#10 India, #52 Worldwide"}
   ],
-  "knowsAbout": [
-    "GTM Alpha Methodology",
-    "EPIC Framework",
-    "Account-Based Marketing", 
-    "Fractional CMO Services",
-    "B2B SaaS Marketing",
-    "Fintech Marketing",
-    "Cybersecurity Marketing",
-    "Telecommunications Marketing",
-    "Technology Marketing",
-    "AI-Powered Marketing",
-    "Performance Marketing",
-    "Brand Strategy",
-    "Product Marketing",
-    "Demand Generation",
-    "Pipeline Marketing",
-    "Revenue Growth",
-    "Enterprise GTM",
-    "Startup Scaling"
-  ],
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5.0",
-    "reviewCount": "9",
-    "bestRating": "5",
-    "worstRating": "1"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.gtmexpert.com"
-  }
+  "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.gtmexpert.com"}
 }

@@ -1,120 +1,87 @@
 {
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
-  "name": "Helix GTM Consulting - B2B Marketing Excellence",
-  "alternateName": ["GTM Expert", "GTMExpert"],
-  "description": "Premier go-to-market consulting and fractional CMO services for B2B companies. Specializing in SaaS, fintech, and enterprise technology with proven 4X growth methodology.",
+  "@id": "https://www.gtmexpert.com/#service",
+  "name": "GTMExpert - B2B GTM Consulting & Fractional CMO Services",
+  "alternateName": ["Helix GTM Consulting", "GTM Alpha Consulting"],
+  "description": "B2B GTM consulting firm offering Fractional CMO services, GTM strategy using EPIC, IMPACT, and CRAFT frameworks. Parent company of HyperPlays (AI lead generation services). 24+ years of B2B marketing expertise with proven track records at Airtel (4X growth), Happay (161% ARR), Seclore (165% revenue), and FieldAssist.",
   "url": "https://www.gtmexpert.com",
   "telephone": "+919810603649",
   "email": "shashwat@gtmexpert.com",
-  "areaServed": [
+  "subOrganization": {
+    "@type": "Organization",
+    "@id": "https://www.hyper-plays.com/#organization",
+    "name": "HyperPlays",
+    "url": "https://www.hyper-plays.com",
+    "description": "AI-Powered Lead Generation Services"
+  },
+  "isRelatedTo": [
     {
-      "@type": "Country",
-      "name": "India"
+      "@type": "WebPage",
+      "url": "https://gtmexpert.com/ai-personalised-leadgeneration",
+      "name": "AI Lead Generation Hub"
     },
     {
-      "@type": "Place", 
-      "name": "Asia Pacific"
-    },
-    {
-      "@type": "Place",
-      "name": "Middle East & Africa"  
-    },
-    {
-      "@type": "Country",
-      "name": "United States"
-    },
-    {
-      "@type": "Country", 
-      "name": "United Kingdom"
+      "@type": "Organization",
+      "name": "Discovery Outcomes",
+      "url": "https://discoveryoutcomes.com"
     }
   ],
+  "areaServed": [
+    {"@type": "Country", "name": "India"},
+    {"@type": "AdministrativeArea", "name": "APAC"},
+    {"@type": "AdministrativeArea", "name": "Middle East"},
+    {"@type": "Country", "name": "United States"},
+    {"@type": "Country", "name": "United Kingdom"}
+  ],
   "serviceType": [
-    "Go-To-Market Strategy Consulting",
     "Fractional CMO Services",
-    "B2B Marketing Strategy", 
+    "GTM Strategy Consulting",
     "Account-Based Marketing",
-    "Product Marketing Consulting",
-    "SaaS Growth Marketing",
-    "Digital Marketing Strategy",
-    "Marketing Team Leadership"
+    "Demand Generation",
+    "Product-Led Growth",
+    "AI-Powered Marketing",
+    "Brand Strategy"
   ],
   "provider": {
     "@type": "Person",
+    "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
     "name": "Shashwat Ghosh",
-    "jobTitle": "GTM Alpha Consultant & Fractional CMO",
-    "description": "24+ years B2B marketing expert, LinkedIn #10 Product Marketing Voice India, proven 4X business growth achiever",
-    "hasOccupation": {
-      "@type": "Occupation",
-      "name": "Marketing Consultant",
-      "description": "Senior marketing strategist specializing in go-to-market planning and execution",
-      "skills": [
-        "Go-to-Market Strategy",
-        "B2B Marketing",
-        "Fractional Leadership", 
-        "Account-Based Marketing",
-        "Product Marketing",
-        "SaaS Marketing",
-        "Digital Strategy"
-      ],
-      "experienceRequirements": "24+ years in B2B marketing and strategy"
-    },
-    "alumniOf": [
-      {
-        "@type": "Organization",
-        "name": "National Institute of Technology Rourkela"
-      },
-      {
-        "@type": "Organization", 
-        "name": "École des Ponts ParisTech"
-      },
-      {
-        "@type": "Organization",
-        "name": "XLRI Jamshedpur"
-      }
-    ]
+    "sameAs": ["https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/"]
   },
   "makesOffer": [
     {
       "@type": "Offer",
-      "name": "GTM Alpha Strategy Consulting",
-      "description": "Comprehensive go-to-market strategy development and implementation",
-      "price": "5000-50000",
-      "priceCurrency": "USD",
-      "priceSpecification": {
-        "@type": "PriceSpecification",
-        "minPrice": 5000,
-        "maxPrice": 50000,
-        "priceCurrency": "USD"
-      }
+      "name": "Fractional CMO Services",
+      "description": "Strategic marketing leadership using EPIC, IMPACT, and CRAFT frameworks"
     },
     {
       "@type": "Offer",
-      "name": "Fractional CMO Services", 
-      "description": "Part-time senior marketing leadership for growing B2B companies",
-      "price": "8000-15000",
-      "priceCurrency": "USD",
-      "priceSpecification": {
-        "@type": "PriceSpecification",
-        "minPrice": 8000,
-        "maxPrice": 15000,
-        "priceCurrency": "USD",
-        "unitText": "monthly"
-      }
+      "name": "GTM Alpha Consulting",
+      "description": "Comprehensive go-to-market strategy and execution"
+    },
+    {
+      "@type": "Offer",
+      "name": "AI Lead Generation (via HyperPlays)",
+      "description": "AI-powered hyper-personalized lead generation services",
+      "url": "https://www.hyper-plays.com"
     }
   ],
-  "hasCredential": [
-    {
-      "@type": "EducationalOccupationalCredential",
-      "name": "LinkedIn Top Product Marketing Voice",
-      "description": "#10 in India, #52 Worldwide recognition for product marketing expertise"
-    }
-  ],
-  "award": [
-    {
-      "@type": "Award",
-      "name": "4X Business Growth Achievement", 
-      "description": "Delivered 4X business growth for Airtel Data Centers division through strategic GTM implementation"
-    }
-  ]
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "9",
+    "bestRating": "5"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "addressCountry": "IN"
+  },
+  "potentialAction": {
+    "@type": "ReserveAction",
+    "target": "https://calendly.com/shashwat-gtmhelix/45min",
+    "name": "Book GTM Consultation"
+  }
 }

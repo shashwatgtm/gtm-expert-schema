@@ -1,23 +1,45 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
+  "@id": "https://www.gtmexpert.com/#organization",
   "name": "Helix GTM Consulting",
-  "alternateName": ["GTM Expert", "GTMExpert", "Helix GTM"],
+  "alternateName": ["GTMExpert", "GTM Expert", "Helix GTM", "GTM Alpha"],
   "url": "https://www.gtmexpert.com",
-  "logo": "https://www.gtmexpert.com/wp-content/uploads/2024/10/Shashwat-Ghosh-GTM-Expert-Professional-Photo.jpg",
-  "description": "Leading GTM Alpha consulting firm specializing in EPIC framework implementation, fractional CMO services, and AI-powered marketing strategies. Founded by Shashwat Ghosh, ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators with 24+ years of B2B experience. Award winner: B2B Marketer of the Year 2020 in Fintech Category with proven track record of delivering 4X business growth and 161% ARR growth for clients.",
+  "logo": "https://www.gtmexpert.com/wp-content/uploads/2024/10/GTMExpert-Logo.png",
+  "description": "B2B GTM consulting firm offering Fractional CMO services, GTM strategy, and AI-powered marketing solutions. Creator of EPIC, IMPACT, and CRAFT frameworks. Parent company of HyperPlays (AI lead generation services).",
   "foundingDate": "2016",
   "founder": {
     "@type": "Person",
+    "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
     "name": "Shashwat Ghosh",
-    "url": "https://www.gtmexpert.com",
+    "jobTitle": "GTM Alpha Consultant, AI GTM Expert & Fractional CMO",
     "sameAs": [
-      "https://www.linkedin.com/in/shashwat-ghosh-gtm-expert/",
-      "https://github.com/shashwatgtm"
-    ],
-    "jobTitle": "GTM Alpha Consultant, Fractional CMO & Top Product Marketing Voice",
-    "description": "Alumni of NIT Rourkela, École des Ponts ParisTech, and XLRI Jamshedpur with verified achievements: 4X business growth at Airtel, 161% ARR growth at Happay, $4.2Mn pipeline at Locus, and B2B Marketer of the Year 2020 award winner"
+      "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/",
+      "https://x.com/Shashwat_Ghosh"
+    ]
   },
+  "subOrganization": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.hyper-plays.com/#organization",
+      "name": "HyperPlays",
+      "url": "https://www.hyper-plays.com",
+      "description": "AI-Powered Lead Generation Services - Child brand specializing in 4-dimensional analysis and AI micro-agents"
+    }
+  ],
+  "isRelatedTo": [
+    {
+      "@type": "WebPage",
+      "name": "AI Personalised Lead Generation Hub",
+      "url": "https://gtmexpert.com/ai-personalised-leadgeneration"
+    },
+    {
+      "@type": "Organization",
+      "name": "Discovery Outcomes",
+      "url": "https://discoveryoutcomes.com",
+      "description": "AI-powered lead generation product platform - Shashwat Ghosh serves as Advisor"
+    }
+  ],
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Bengaluru",
@@ -27,158 +49,76 @@
   "contactPoint": [
     {
       "@type": "ContactPoint",
-      "telephone": "+919810603649",
-      "contactType": "business",
+      "contactType": "sales",
       "email": "shashwat@gtmexpert.com",
+      "telephone": "+919810603649",
+      "url": "https://calendly.com/shashwat-gtmhelix/45min",
       "availableLanguage": ["English", "Hindi"]
     }
   ],
   "sameAs": [
-    "https://www.linkedin.com/in/shashwat-ghosh-gtm-expert/",
-    "https://github.com/shashwatgtm",
+    "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/",
+    "https://www.hyper-plays.com",
     "https://gtmexpert.substack.com",
-    "https://calendly.com/shashwat-gtmhelix/45min"
+    "https://shashwatgtm.github.io/ai-trendwatch/",
+    "https://github.com/shashwatgtm",
+    "https://apify.com/shashghosh",
+    "https://x.com/Shashwat_Ghosh"
   ],
   "areaServed": [
-    {
-      "@type": "Country",
-      "name": "India"
-    },
-    {
-      "@type": "AdministrativeArea",
-      "name": "APAC"
-    },
-    {
-      "@type": "AdministrativeArea",
-      "name": "Middle East"
-    },
-    {
-      "@type": "Country",
-      "name": "United States"
-    },
-    {
-      "@type": "Country",
-      "name": "United Kingdom"
-    }
+    {"@type": "Country", "name": "India"},
+    {"@type": "AdministrativeArea", "name": "APAC"},
+    {"@type": "AdministrativeArea", "name": "Middle East"},
+    {"@type": "Country", "name": "United States"},
+    {"@type": "Country", "name": "United Kingdom"},
+    {"@type": "Country", "name": "Canada"},
+    {"@type": "Country", "name": "Australia"}
   ],
-  "serviceType": [
-    "GTM Alpha Consulting",
-    "Fractional CMO Services", 
-    "EPIC Framework Implementation",
-    "Account-Based Marketing",
-    "Product-Led Growth Strategy",
-    "Demand Generation",
-    "AI-Powered Marketing",
-    "B2B SaaS Marketing",
-    "Fintech Marketing",
-    "Cybersecurity Marketing",
-    "Logistics Tech Marketing",
-    "Enterprise GTM Strategy"
-  ],
-  "expertise": [
+  "knowsAbout": [
     "GTM Alpha Methodology",
-    "EPIC Framework",
-    "24+ Years B2B Experience",
-    "8+ Years Fractional Leadership",
-    "4X Business Growth Achievement",
-    "161% ARR Growth Achievement",
-    "$4.2Mn Pipeline Generation",
-    "LinkedIn Top Product Marketing Voice",
-    "Premier Institution Alumni",
-    "Award-Winning Marketing Excellence"
+    "EPIC Framework (Ecosystem & ABM, Product-Led Growth, Inbound/Outbound, Community-Led)",
+    "IMPACT Framework (Strategic Positioning)",
+    "CRAFT Framework (AI Context Engineering)",
+    "Fractional CMO Services",
+    "B2B SaaS Marketing",
+    "Account-Based Marketing",
+    "Demand Generation",
+    "Product-Led Growth",
+    "AI-Powered Marketing",
+    "MCP Server Development",
+    "Multi-Agent Orchestration"
   ],
-  "award": [
-    {
-      "@type": "Award",
-      "name": "B2B Marketer of the Year 2020 in Fintech Category",
-      "description": "Awarded by CMO Asia for exceptional B2B marketing excellence in fintech sector",
-      "dateAwarded": "2020"
-    },
-    {
-      "@type": "Award",
-      "name": "LinkedIn Top Product Marketing Voice",
-      "description": "Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators",
-      "dateAwarded": "2024"
-    },
-    {
-      "@type": "Award",
-      "name": "4X Business Growth Achievement",
-      "description": "Delivered 4X business growth for Airtel Data Centers & Managed Services",
-      "dateAwarded": "2011"
-    },
-    {
-      "@type": "Award",
-      "name": "161% ARR Growth Achievement", 
-      "description": "Achieved 161% ARR growth by pivoting Happay from SMB to enterprise model",
-      "dateAwarded": "2021"
-    }
-  ],
-  "review": [
-    {
-      "@type": "Review",
-      "author": {
-        "@type": "Person",
-        "name": "Kunwar B. Kishore Arora",
-        "jobTitle": "Ex-Global Chief Operating Officer",
-        "worksFor": "APCER Life Sciences"
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "GTMExpert Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Fractional CMO Services",
+          "description": "Strategic marketing leadership using EPIC, IMPACT, and CRAFT frameworks"
+        }
       },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5",
-        "bestRating": "5"
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "GTM Alpha Consulting",
+          "description": "Comprehensive go-to-market strategy and execution"
+        }
       },
-      "reviewBody": "When I was building the Data Center and Managed Services business from inception, Shashwat and his team did an exceptional job in brand building and communication. He worked closely with my team and successfully executed the marketing plans. For existing Airtel Customers they launched account based marketing and for new customers it was through leading technology events and IT magazines. We grew the DC & MS business by 4X in 3 Years.",
-      "datePublished": "2016-05-23"
-    },
-    {
-      "@type": "Review",
-      "author": {
-        "@type": "Person",
-        "name": "Suryadeep Verma",
-        "jobTitle": "Senior VP & Chief Marketing Officer",
-        "worksFor": "Comviva Technologies"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5",
-        "bestRating": "5"
-      },
-      "reviewBody": "Shashwat is an extremely astute and intelligent marketing professional. One of the rare breed to marketers that are able to strategically plan and execute programs with equal diligence. Has an extremely balanced and well-rounded perspective on any initiative. Always a great team person and colleague to depend on.",
-      "datePublished": "2017-10-09"
-    },
-    {
-      "@type": "Review",
-      "author": {
-        "@type": "Person",
-        "name": "Debashish Duttagupta",
-        "jobTitle": "Senior Vice President - Strategic Partnerships & New Initiatives",
-        "worksFor": "Ageas Federal Life Insurance"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5",
-        "bestRating": "5"
-      },
-      "reviewBody": "Shashwat is Sharp, Analytical, Tenacious, Resilient, Confident, Intelligent, Creative and has tremendous amount of Common Sense to lead & manage People and Business!",
-      "datePublished": "2017-09-17"
-    },
-    {
-      "@type": "Review",
-      "author": {
-        "@type": "Person",
-        "name": "Naveen Surapaneni",
-        "jobTitle": "Head Of Strategy & Sales Enablement, Americas 2",
-        "worksFor": "Wipro Limited"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5",
-        "bestRating": "5"
-      },
-      "reviewBody": "Shashwat is a passionate marketing professional with a successful track record of nurturing and building strong B2B brands. His sharp insights, strong creative flair and understanding of technology landscape, has enabled him to conceptualize and launch impactful marketing programmes and campaigns.",
-      "datePublished": "2017-09-25"
-    }
-  ],
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "AI Lead Generation (via HyperPlays)",
+          "description": "AI-powered hyper-personalized lead generation services through child brand HyperPlays",
+          "url": "https://www.hyper-plays.com"
+        }
+      }
+    ]
+  },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "5.0",
@@ -186,85 +126,59 @@
     "bestRating": "5",
     "worstRating": "1"
   },
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "GTM Alpha Consulting Services",
-    "itemListElement": [
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "GTM Alpha Strategy Consultation",
-          "description": "Comprehensive GTM strategy development using proprietary EPIC framework with proven 4X growth and 161% ARR growth results"
-        },
-        "priceRange": "$5,000 - $25,000",
-        "priceCurrency": "USD",
-        "availability": "https://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Fractional CMO Services",
-          "description": "Part-time senior marketing leadership backed by 8+ years fractional experience, LinkedIn recognition, and award-winning results"
-        },
-        "priceRange": "$8,000 - $15,000",
-        "priceCurrency": "USD",
-        "availability": "https://schema.org/InStock"
-      },
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "EPIC Framework Implementation",
-          "description": "Complete implementation of Ecosystem & ABM, Product-Led Growth, Inbound & Outbound, Community-Led strategies with quantifiable results"
-        },
-        "priceRange": "$15,000 - $50,000",
-        "priceCurrency": "USD",
-        "availability": "https://schema.org/InStock"
-      }
-    ]
-  },
-  "knowsAbout": [
-    "GTM Alpha Methodology",
-    "EPIC Framework Implementation",
-    "Account-Based Marketing Excellence", 
-    "4X Business Growth Strategies",
-    "161% ARR Growth Achievement",
-    "Fractional CMO Leadership",
-    "B2B SaaS Marketing",
-    "Fintech Marketing Excellence",
-    "AI-Powered Marketing",
-    "LinkedIn Top Voice Expertise",
-    "Enterprise GTM Strategy",
-    "Pipeline Generation",
-    "Performance Marketing"
-  ],
-  "memberOf": [
+  "review": [
     {
-      "@type": "Organization",
-      "name": "LinkedIn Product Marketing Community",
-      "description": "Top-ranked thought leader (#10 India, #52 Worldwide)"
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Kunwar B. Kishore Arora",
+        "jobTitle": "Ex-Global Chief Operating Officer",
+        "worksFor": {"@type": "Organization", "name": "APCER Life Sciences"}
+      },
+      "reviewBody": "When I was building the Data Center and Managed Services business from inception, Shashwat and his team did an exceptional job in brand building and communication. We grew the DC & MS business by 4X in 3 Years.",
+      "datePublished": "2016-05-23"
     },
     {
-      "@type": "Organization",
-      "name": "B2B Marketing Awards Jury",
-      "description": "Jury member for B2B Marketing Awards by B2B World Summit"
-    }
-  ],
-  "employee": [
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Suryadeep Verma",
+        "jobTitle": "Senior VP & Chief Marketing Officer",
+        "worksFor": {"@type": "Organization", "name": "Comviva Technologies"}
+      },
+      "reviewBody": "Shashwat is an extremely astute and intelligent marketing professional. One of the rare breed to marketers that are able to strategically plan and execute programs with equal diligence.",
+      "datePublished": "2017-10-09"
+    },
     {
-      "@type": "Person",
-      "name": "Shashwat Ghosh",
-      "jobTitle": "Founder & GTM Alpha Consultant",
-      "worksFor": {
-        "@type": "Organization",
-        "name": "Helix GTM Consulting"
-      }
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Debashish Duttagupta",
+        "jobTitle": "Senior Vice President - Strategic Partnerships",
+        "worksFor": {"@type": "Organization", "name": "Ageas Federal Life Insurance"}
+      },
+      "reviewBody": "Shashwat is Sharp, Analytical, Tenacious, Resilient, Confident, Intelligent, Creative and has tremendous amount of Common Sense to lead & manage People and Business!",
+      "datePublished": "2017-09-17"
     }
   ],
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.gtmexpert.com"
+  "potentialAction": {
+    "@type": "ReserveAction",
+    "target": "https://calendly.com/shashwat-gtmhelix/45min",
+    "name": "Book GTM Consultation"
   }
 }

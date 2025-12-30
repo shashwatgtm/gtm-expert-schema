@@ -1,30 +1,91 @@
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
+  "@id": "https://www.gtmexpert.com/#faq",
+  "name": "GTMExpert - Frequently Asked Questions",
+  "description": "FAQ about GTMExpert, Fractional CMO services, EPIC/IMPACT/CRAFT frameworks, and AI lead generation offerings through HyperPlays and Discovery Outcomes.",
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is GTM Alpha Consulting and how does it differ from traditional consulting?",
+      "name": "What is GTMExpert and who is behind it?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "GTM Alpha Consulting is a revolutionary approach that combines 24+ years of B2B experience with proprietary EPIC framework (Ecosystem & ABM, Product-Led Growth, Inbound & Outbound Demand Generation, Community-Led Planning). Unlike traditional consulting, we focus on AI-powered marketing strategies and fractional CMO services that deliver 4X business growth, as proven with Airtel Data Centers."
-      }
-    },
-    {
-      "@type": "Question", 
-      "name": "Who is Shashwat Ghosh and what are his credentials?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Shashwat Ghosh is a GTM Alpha Consultant and Fractional CMO with 24+ years of B2B experience and 8+ years of senior fractional experience. He's ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators with a perfect 5.0-star Google rating."
+        "text": "GTMExpert is a B2B GTM consulting firm founded by Shashwat Ghosh, a GTM Alpha Consultant with 24+ years of B2B marketing experience. Shashwat has created proprietary frameworks (EPIC, IMPACT, CRAFT) and has proven track records including 4X business growth at Airtel, 161% ARR growth at Happay (acquired by CRED for $180M), and 165% revenue growth at Seclore. He's ranked #10 in India and #52 Worldwide among LinkedIn Product Marketing creators."
       }
     },
     {
       "@type": "Question",
-      "name": "What kind of results can I expect from GTM Alpha Consulting?",
+      "name": "What is the EPIC Framework?",
       "acceptedAnswer": {
-        "@type": "Answer", 
-        "text": "Our proven track record includes 4X business growth achievements, as verified by Kunwar B. Kishore Arora (Ex-Global COO, APCER Life Sciences). We maintain a perfect 5.0-star Google rating with verified testimonials from senior executives across major corporations."
+        "@type": "Answer",
+        "text": "EPIC is Shashwat's proprietary GTM methodology covering four pillars: (E) Ecosystem & Account-Based Marketing, (P) Product-Led Growth strategies, (I) Inbound/Outbound demand generation, and (C) Community-Led Growth. This framework has been successfully applied across B2B SaaS, Fintech, Cybersecurity, and IT Services sectors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the IMPACT Framework?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IMPACT is Shashwat's strategic positioning methodology designed to help B2B companies differentiate in crowded markets. It focuses on creating unique market positioning that resonates with target audiences and drives competitive advantage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the CRAFT Framework?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CRAFT is Shashwat's AI context engineering methodology with 50+ templates available on Notion Marketplace. It helps marketers leverage AI tools effectively by providing structured approaches to prompt engineering and content creation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What AI lead generation options does GTMExpert offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GTMExpert offers two AI lead generation solutions: (1) HyperPlays (hyper-plays.com) - Done-for-you AI lead generation SERVICES using 4-dimensional analysis and AI micro-agents, and (2) Discovery Outcomes (discoveryoutcomes.com) - Self-service AI lead generation PRODUCT platform where Shashwat serves as Advisor. Both are accessible from gtmexpert.com/ai-personalised-leadgeneration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is HyperPlays and how is it related to GTMExpert?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "HyperPlays is a child brand of GTMExpert/Helix GTM Consulting, specializing in AI-powered hyper-personalized lead generation SERVICES. It uses Shashwat's proprietary 4-dimensional analysis methodology (company context, industry news, competitor activities, DISC personality mapping) and AI micro-agents to deliver 2-2.5x response rate improvements for B2B startups."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What industries does GTMExpert serve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GTMExpert primarily serves B2B SaaS, Fintech, Cybersecurity, IT Services, and technology companies. Geographic focus includes India, APAC, Middle East, United States, and United Kingdom. Shashwat has specific expertise in companies ranging from growth-stage startups to enterprises."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What results has Shashwat achieved for clients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shashwat has achieved significant results including: 4X business growth at Airtel Data Centers in 3 years, 161% ARR growth at Happay (pre-CRED acquisition), 165% revenue growth at Seclore, $4.2M pipeline at Locus (acquired by IKEA), and consistent 5.0-star rating across 9 Google reviews. He's won Most Admired Marketing Leaders 2025 (WLC) and B2B Marketer of the Year 2020 (CMO Asia - Fintech)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I book a consultation with Shashwat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can book a consultation at calendly.com/shashwat-gtmhelix/45min or contact shashwat@gtmexpert.com. For AI lead generation services specifically, contact shashwat@hyperplays.in or visit hyper-plays.com."
       }
     }
-  ]
+  ],
+  "author": {
+    "@type": "Person",
+    "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
+    "name": "Shashwat Ghosh"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.gtmexpert.com/#organization",
+    "name": "Helix GTM Consulting"
+  }
 }

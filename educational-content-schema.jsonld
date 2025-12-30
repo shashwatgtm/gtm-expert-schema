@@ -1,91 +1,36 @@
 {
   "@context": "https://schema.org",
   "@type": "Course",
-  "name": "GTM Alpha Methodology Masterclass",
-  "description": "Comprehensive go-to-market strategy training based on 24+ years of B2B marketing excellence and proven 4X growth methodologies",
+  "@id": "https://www.gtmexpert.com/#course",
+  "name": "GTM Alpha Consulting Program",
+  "description": "Comprehensive B2B GTM strategy program covering EPIC, IMPACT, and CRAFT frameworks. Learn from Shashwat Ghosh's 24+ years of experience driving growth at companies like Airtel, Happay, Seclore, and Locus.",
+  "url": "https://www.gtmexpert.com",
   "provider": {
     "@type": "Organization",
-    "name": "Helix GTM Consulting",
-    "url": "https://www.gtmexpert.com"
+    "@id": "https://www.gtmexpert.com/#organization",
+    "name": "Helix GTM Consulting"
   },
   "instructor": {
     "@type": "Person",
+    "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
     "name": "Shashwat Ghosh",
-    "jobTitle": "GTM Alpha Consultant & Fractional CMO",
-    "description": "LinkedIn #10 Product Marketing Voice India, 24+ years B2B marketing expert",
-    "worksFor": {
-      "@type": "Organization",
-      "name": "Helix GTM Consulting"
-    }
+    "sameAs": ["https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/"]
   },
-  "courseCode": "GTM-ALPHA-101",
-  "coursePrerequisites": "Basic marketing knowledge, B2B business experience recommended",
-  "educationalLevel": "Professional Development",
   "teaches": [
-    "Go-to-market strategy development",
-    "EPIC Framework implementation", 
-    "Account-based marketing tactics",
-    "Customer journey optimization",
-    "Fractional leadership principles",
-    "B2B SaaS growth strategies"
+    "EPIC Framework implementation",
+    "IMPACT Framework positioning",
+    "CRAFT Framework AI context engineering",
+    "Account-Based Marketing strategies",
+    "Product-Led Growth tactics",
+    "Demand generation optimization",
+    "AI-powered marketing automation",
+    "4-Dimensional prospect analysis (via HyperPlays)"
   ],
-  "learningResourceType": [
-    "Masterclass",
-    "Workshop", 
-    "Strategy Session",
-    "Consultation"
-  ],
-  "courseWorkload": "PT8H",
-  "educationalCredentialAwarded": "GTM Alpha Certification",
-  "hasCourseInstance": [
-    {
-      "@type": "CourseInstance",
-      "courseMode": "Online",
-      "courseSchedule": {
-        "@type": "Schedule",
-        "description": "Flexible scheduling available"
-      },
-      "location": {
-        "@type": "VirtualLocation",
-        "url": "https://www.gtmexpert.com/contact"
-      }
-    }
-  ],
-  "about": [
-    {
-      "@type": "Thing",
-      "name": "Go-to-Market Strategy",
-      "description": "Comprehensive framework for bringing products to market successfully"
-    },
-    {
-      "@type": "Thing", 
-      "name": "B2B Marketing",
-      "description": "Business-to-business marketing strategies and tactics"
-    },
-    {
-      "@type": "Thing",
-      "name": "Fractional Executive Leadership", 
-      "description": "Part-time senior executive guidance for growing companies"
-    }
-  ],
-  "review": [
-    {
-      "@type": "Review",
-      "author": {
-        "@type": "Person",
-        "name": "Kunwar B. Kishore Arora",
-        "jobTitle": "Ex-Global COO",
-        "worksFor": {
-          "@type": "Organization",
-          "name": "APCER Life Sciences"
-        }
-      },
-      "reviewBody": "Shashwat's GTM Alpha methodology delivered exceptional results for our data centers division. His strategic approach and execution excellence helped us achieve 4X business growth. A true marketing visionary with deep B2B expertise.",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": 5,
-        "bestRating": 5
-      }
-    }
-  ]
+  "educationalLevel": "Advanced Professional Development",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "9",
+    "bestRating": "5"
+  }
 }
