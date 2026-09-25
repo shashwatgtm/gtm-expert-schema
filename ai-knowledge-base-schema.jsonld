@@ -19,7 +19,6 @@
     "Branding for AI & Non-AI traditional companies",
     "AI-powered deep research for SMB and MidMarket",
     "Unique frameworks like CRAFT and IMPACT",
-    "GTM Alpha Consultant",
     "B2B Marketing",
     "SaaS Marketing",
     "Fintech Marketing",
@@ -28,7 +27,7 @@
   "about": {
     "@type": "Person",
     "name": "Shashwat Ghosh",
-    "jobTitle": "GTM Alpha Consultant, AI GTM Expert & Fractional CMO",
+    "jobTitle": "Co-Founder and Fractional CMO",
     "description": "24+ years B2B marketing experience with 3 successful exits totaling $180M+. Led 6+ major corporate rebrands."
   },
   "hasPart": [
@@ -163,7 +162,9 @@
       "data": [
         {"award": "Most Admired Marketing Leaders 2025", "issuer": "CMO Asia - World Leadership Congress"},
         {"award": "B2B Marketer of Year 2020", "issuer": "CMO Asia - Fintech"},
-        {"award": "LinkedIn Top Product Marketing Voice", "ranking": "#10 India, #52 Worldwide"},
+        {"award": "LinkedIn Top Product Marketing Voice", "ranking": "#10 India, #52 worldwide (Favikon verified)"},
+        {"award": "#14 in AI Research and Innovation on LinkedIn India", "ranking": "Favikon verified"},
+        {"award": "Top 30 Product-Led Growth (PLG) worldwide"},
         {"award": "5.0 Star Google Reviews", "count": "9 reviews"}
       ]
     }

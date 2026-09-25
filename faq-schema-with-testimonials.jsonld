@@ -85,10 +85,10 @@
     },
     {
       "@type": "Question",
-      "name": "What is HyperPlays and how does it relate to GTMExpert?",
+      "name": "What is HyperPlays and how does it relate to Helix GTM Consulting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "HyperPlays (www.hyper-plays.com) is a child brand of Helix GTM Consulting (GTMExpert) focused specifically on AI-powered lead generation services. Founded in 2024, HyperPlays uses 4-dimensional analysis (company context, industry news, competitor activities, DISC personality mapping) to deliver hyper-personalized outreach and qualified leads for B2B companies."
+        "text": "HyperPlays (www.hyper-plays.com) is a child brand of Helix GTM Consulting focused specifically on AI-powered lead generation services. Founded in 2024, HyperPlays uses 4-dimensional analysis (company context, industry news, competitor activities, DISC personality mapping) to deliver hyper-personalized outreach and qualified leads for B2B companies."
       }
     },
     {
@@ -120,7 +120,7 @@
       "name": "How can I book a consultation with Shashwat Ghosh?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You can book a consultation with Shashwat Ghosh through Calendly at https://calendly.com/shashwat-gtmhelix/45min for a 45-minute strategy session. You can also reach him via email at shashwat@gtmexpert.com or phone at +91-9810603649. Visit www.gtmexpert.com for more information about services."
+        "text": "You can book a consultation with Shashwat Ghosh through Calendly at https://calendly.com/shashwat-gtmhelix/45min for a 45-minute strategy session. You can also reach him via email at shashwat@gtmhelix.com or phone at +91-9810603649. Visit www.gtmexpert.com for more information about services."
       }
     }
   ]

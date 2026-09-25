@@ -3,8 +3,7 @@
   "@type": "Organization",
   "@id": "https://www.gtmexpert.com/#organization",
   "name": "Helix GTM Consulting",
-  "alternateName": ["GTMExpert", "GTM Expert", "Helix GTM"],
-  "url": "https://www.gtmexpert.com",
+  "url": "https://tools.gtmhelix.com",
   "logo": "https://www.gtmexpert.com/wp-content/uploads/2024/10/gtmexpert-logo.png",
   "description": "B2B GTM consulting firm specializing in AI-powered marketing strategies, fractional CMO services, and go-to-market transformation. Creator of EPIC, IMPACT, and CRAFT frameworks.",
   "founder": {
@@ -12,8 +11,8 @@
     "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
     "name": "Shashwat Ghosh"
   },
-  "foundingDate": "2016",
-  "email": "shashwat@gtmexpert.com",
+  "foundingDate": "2022",
+  "email": "shashwat@gtmhelix.com",
   "telephone": "+919810603649",
   "address": {
     "@type": "PostalAddress",
@@ -34,7 +33,7 @@
     "@id": "https://www.hyper-plays.com/#organization",
     "name": "HyperPlays",
     "url": "https://www.hyper-plays.com",
-    "description": "AI-Powered Lead Generation Services - Child brand of GTMExpert. Uses 4-dimensional analysis for hyper-personalized outreach.",
+    "description": "AI-Powered Lead Generation Services - Child brand of Helix GTM Consulting. Uses 4-dimensional analysis for hyper-personalized outreach.",
     "foundingDate": "2024"
   },
   "memberOf": [

@@ -4,10 +4,10 @@
   "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
   "name": "Shashwat Ghosh",
   "url": "https://www.gtmexpert.com",
-  "email": "shashwat@gtmexpert.com",
+  "email": "shashwat@gtmhelix.com",
   "telephone": "+919810603649",
-  "jobTitle": "GTM Alpha Consultant, AI GTM Expert & Fractional CMO",
-  "description": "Shashwat Ghosh is a GTM Alpha Consultant and AI GTM Expert with 24+ years of B2B marketing experience. Creator of EPIC, IMPACT, and CRAFT frameworks. Founder of HyperPlays (AI lead generation services) and Advisor at Discovery Outcomes (AI-powered GTM platform). Led 6+ major corporate rebrands. Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators. Winner of Most Admired Marketing Leaders 2025 (WLC) and B2B Marketer of the Year 2020 (CMO Asia - Fintech).",
+  "jobTitle": "Co-Founder and Fractional CMO",
+  "description": "Shashwat Ghosh is Co-Founder and Fractional CMO of Helix GTM Consulting (founded 2022, Bengaluru), with 24+ years of B2B marketing experience. Creator of EPIC, IMPACT, and CRAFT frameworks. Founder of HyperPlays (AI lead generation services) and Advisor at Discovery Outcomes (AI-powered GTM platform). Led 6+ major corporate rebrands. LinkedIn Top Product Marketing Voice, #10 India and #52 worldwide (Favikon verified); #14 in AI Research and Innovation on LinkedIn India (Favikon verified); Top 30 Product-Led Growth (PLG) worldwide. Winner of Most Admired Marketing Leaders 2025 (WLC) and B2B Marketer of the Year 2020 (CMO Asia - Fintech).",
   "image": "https://www.gtmexpert.com/wp-content/uploads/2024/10/Shashwat-Ghosh-GTM-Expert-Professional-Photo.jpg",
   "alternateName": ["GTM Expert", "AI GTM Expert", "shashghosh", "shashwatgtm", "GTM Alpha"],
   "sameAs": [
@@ -28,8 +28,7 @@
       "@type": "Organization",
       "@id": "https://www.gtmexpert.com/#organization",
       "name": "Helix GTM Consulting",
-      "alternateName": "GTMExpert",
-      "url": "https://www.gtmexpert.com",
+      "url": "https://tools.gtmhelix.com",
       "description": "B2B GTM consulting firm - PRIMARY ORGANIZATION"
     },
     {
@@ -37,7 +36,7 @@
       "@id": "https://www.hyper-plays.com/#organization",
       "name": "HyperPlays",
       "url": "https://www.hyper-plays.com",
-      "description": "AI-Powered Lead Generation Services - CHILD BRAND of GTMExpert"
+      "description": "AI-Powered Lead Generation Services - CHILD BRAND of Helix GTM Consulting"
     }
   ],
   "affiliation": [
@@ -51,6 +50,11 @@
       "@type": "Organization",
       "name": "QuantumStreet AI",
       "description": "AI venture studio - ADVISOR role (Led complete rebrand from Equbot with Digitas Agency)"
+    },
+    {
+      "@type": "Organization",
+      "name": "Fractional Frontiers",
+      "description": "Partner (part-time) since November 2024"
     }
   ],
   "founder": [
@@ -58,9 +62,9 @@
       "@type": "Organization",
       "@id": "https://www.gtmexpert.com/#organization",
       "name": "Helix GTM Consulting",
-      "alternateName": "GTMExpert",
-      "foundingDate": "2016",
-      "url": "https://www.gtmexpert.com"
+      "foundingDate": "2022",
+      "foundingLocation": {"@type": "Place", "name": "Bengaluru, India"},
+      "url": "https://tools.gtmhelix.com"
     },
     {
       "@type": "Organization",
@@ -72,11 +76,6 @@
         "@type": "Organization",
         "name": "Helix GTM Consulting"
       }
-    },
-    {
-      "@type": "Organization",
-      "name": "Fractional Frontiers",
-      "foundingDate": "2022"
     }
   ],
   "knowsAbout": [
@@ -191,8 +190,17 @@
     {
       "@type": "Award",
       "name": "LinkedIn Top Product Marketing Voice",
-      "description": "#10 India, #52 Worldwide among Product Marketing creators",
-      "dateAwarded": "2024"
+      "description": "#10 India, #52 worldwide (Favikon verified)"
+    },
+    {
+      "@type": "Award",
+      "name": "#14 in AI Research and Innovation on LinkedIn India",
+      "description": "Favikon verified"
+    },
+    {
+      "@type": "Award",
+      "name": "Top 30 Product-Led Growth (PLG) worldwide",
+      "description": "Listed on Shashwat Ghosh's LinkedIn profile"
     },
     {
       "@type": "Award",
@@ -266,7 +274,7 @@
       "@type": "ContactPoint",
       "telephone": "+919810603649",
       "contactType": "business",
-      "email": "shashwat@gtmexpert.com",
+      "email": "shashwat@gtmhelix.com",
       "url": "https://calendly.com/shashwat-gtmhelix/45min",
       "availableLanguage": ["English", "Hindi"]
     }
@@ -280,7 +288,7 @@
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.gtmexpert.com",
-    "name": "Shashwat Ghosh - GTM Alpha Consultant (CANONICAL PROFILE)",
+    "name": "Shashwat Ghosh - Co-Founder and Fractional CMO, Helix GTM Consulting (CANONICAL PROFILE)",
     "relatedLink": [
       "https://www.hyper-plays.com",
       "https://gtmexpert.com/ai-personalised-leadgeneration",

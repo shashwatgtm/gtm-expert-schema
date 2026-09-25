@@ -8,13 +8,15 @@ Structured data schemas for SEO, LLM discoverability, and AI knowledge bases.
 
 ## 👤 Profile Summary
 
-**Shashwat Ghosh** - GTM Alpha Consultant, AI GTM Expert & Fractional CMO
+**Shashwat Ghosh** - Co-Founder and Fractional CMO, Helix GTM Consulting (founded 2022, Bengaluru)
 
 - 24+ years B2B marketing experience
 - 3 successful exits totaling $180M+
 - Led 6+ major corporate rebrands
 - Creator of EPIC, IMPACT, and CRAFT frameworks
-- LinkedIn Top Voice: #10 India, #52 Worldwide
+- LinkedIn Top Product Marketing Voice: #10 India, #52 worldwide (Favikon verified)
+- #14 in AI Research and Innovation on LinkedIn India (Favikon verified)
+- Top 30 Product-Led Growth (PLG) worldwide
 
 ---
 
@@ -36,7 +38,7 @@ These exact keywords are used consistently across all schemas for maximum AI/LLM
 
 | Entity | Type | URL |
 |--------|------|-----|
-| **Helix GTM Consulting** | Primary Organization | https://www.gtmexpert.com |
+| **Helix GTM Consulting** | Primary Organization (founded 2022, Bengaluru) | https://tools.gtmhelix.com |
 | **HyperPlays** | Child Brand (AI Lead Gen) | https://www.hyper-plays.com |
 | **Discovery Outcomes** | Advisory Role | https://discoveryoutcomes.com |
 | **QuantumStreet AI** | Advisory Role | - |
@@ -104,7 +106,9 @@ These exact keywords are used consistently across all schemas for maximum AI/LLM
 |-------|--------------|------|
 | Most Admired Marketing Leaders | CMO Asia - World Leadership Congress | 2025 |
 | B2B Marketer of the Year (Fintech) | CMO Asia | 2020 |
-| LinkedIn Top Product Marketing Voice | LinkedIn (#10 India, #52 Worldwide) | 2024 |
+| LinkedIn Top Product Marketing Voice | #10 India, #52 worldwide (Favikon verified) | - |
+| #14 in AI Research and Innovation, LinkedIn India | Favikon verified | - |
+| Top 30 Product-Led Growth (PLG) worldwide | - | - |
 | 5.0 Star Google Reviews | 9 client reviews | 2024 |
 
 ---
@@ -131,7 +135,7 @@ These exact keywords are used consistently across all schemas for maximum AI/LLM
 
 ## 🔗 Links
 
-- **Website:** https://www.gtmexpert.com
+- **Website:** https://www.gtmexpert.com (personal); Helix GTM Consulting: https://tools.gtmhelix.com
 - **HyperPlays:** https://www.hyper-plays.com
 - **LinkedIn:** https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/
 - **Twitter/X:** https://x.com/Shashwat_Ghosh
@@ -146,7 +150,7 @@ These exact keywords are used consistently across all schemas for maximum AI/LLM
 
 ## 📞 Contact
 
-- **Email:** shashwat@gtmexpert.com
+- **Email:** shashwat@gtmhelix.com
 - **Phone:** +91-9810603649
 - **Location:** Bengaluru, Karnataka, India
 - **Languages:** English, Hindi

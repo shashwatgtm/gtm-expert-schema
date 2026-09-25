@@ -7,16 +7,15 @@
   "hasOccupation": [
     {
       "@type": "OrganizationRole",
-      "roleName": "Founder & GTM Alpha Consultant",
-      "startDate": "2016",
+      "roleName": "Co-Founder and Fractional CMO",
+      "startDate": "2022-10",
       "memberOf": {
         "@type": "Organization",
         "name": "Helix GTM Consulting",
-        "alternateName": "GTMExpert",
-        "url": "https://www.gtmexpert.com",
+        "url": "https://tools.gtmhelix.com",
         "description": "B2B GTM consulting firm specializing in AI-powered marketing strategies"
       },
-      "description": "Founded Helix GTM Consulting (GTMExpert) providing fractional CMO services and AI-powered GTM consulting. Creator of EPIC, IMPACT, and CRAFT frameworks. Launched HyperPlays (AI lead generation) as child brand."
+      "description": "Co-founded Helix GTM Consulting in October 2022: a business consulting and services firm in Bengaluru, delivering fractional CMO and AI-powered GTM consulting. Creator of EPIC, IMPACT, and CRAFT frameworks. Launched HyperPlays (AI lead generation) as child brand."
     },
     {
       "@type": "OrganizationRole",
@@ -26,13 +25,23 @@
         "@type": "Organization",
         "name": "HyperPlays",
         "url": "https://www.hyper-plays.com",
-        "description": "AI-Powered Lead Generation Services - Child brand of GTMExpert",
+        "description": "AI-Powered Lead Generation Services - Child brand of Helix GTM Consulting",
         "parentOrganization": {
           "@type": "Organization",
           "name": "Helix GTM Consulting"
         }
       },
       "description": "Founded HyperPlays offering AI-powered hyper-personalized lead generation using 4-dimensional analysis (company context, industry news, competitor activities, DISC personality mapping)."
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Partner (part-time)",
+      "startDate": "2024-11",
+      "memberOf": {
+        "@type": "Organization",
+        "name": "Fractional Frontiers"
+      },
+      "description": "Part-time partner at Fractional Frontiers (LinkedIn: Nov 2024 - Present)."
     },
     {
       "@type": "OrganizationRole",
