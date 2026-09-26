@@ -11,7 +11,8 @@ Structured data schemas for SEO, LLM discoverability, and AI knowledge bases.
 **Shashwat Ghosh** - Co-Founder and Fractional CMO, Helix GTM Consulting (founded 2022, Bengaluru)
 
 - 24+ years B2B marketing experience
-- 3 successful exits totaling $180M+
+- VP Marketing, Happay: 161% ARR growth. 2x exit: CRED ($180M), then MakeMyTrip.
+- VP Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025.
 - Led 6+ major corporate rebrands
 - Creator of EPIC, IMPACT, and CRAFT frameworks
 - LinkedIn Top Product Marketing Voice: #10 India, #52 worldwide (Favikon verified)
@@ -51,8 +52,8 @@ These exact keywords are used consistently across all schemas for maximum AI/LLM
 
 | Company | Exit Details | Role |
 |---------|--------------|------|
-| **Happay** | 2X EXITS: CRED $180M (Dec 2021) + MakeMyTrip (Nov 2024) | VP Marketing |
-| **Locus** | Acquired by Ingka Group (IKEA) Oct 2025, $300M valuation | VP Global Performance Marketing |
+| **Happay** | VP Marketing, Happay: 161% ARR growth. 2x exit: CRED ($180M), then MakeMyTrip. | VP Marketing |
+| **Locus** | VP Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025. | VP Global Performance Marketing |
 
 ### FieldAssist CMO (2023-04 to 2024-09) - Case Study
 
@@ -142,7 +143,7 @@ These exact keywords are used consistently across all schemas for maximum AI/LLM
 - **GitHub:** https://github.com/shashwatgtm
 - **NPM Package:** https://www.npmjs.com/package/@shashwatgtmalpha/gtm-alpha-mcp-server
 - **Apify:** https://apify.com/shashghosh
-- **Newsletter (AI):** https://shashwatgtm.github.io/ai-trendwatch/
+- **Newsletter (AI):** https://gtmhelix.com/ai-trendwatch/
 - **Newsletter (GTM):** https://gtmexpert.substack.com
 - **Calendly:** https://calendly.com/shashwat-gtmhelix/45min
 

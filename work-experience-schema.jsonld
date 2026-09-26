@@ -3,7 +3,7 @@
   "@type": "Person",
   "@id": "https://www.gtmexpert.com/#shashwat-ghosh-work-experience",
   "name": "Shashwat Ghosh",
-  "description": "24+ years B2B marketing experience with 3 successful exits totaling $180M+. Led 6+ major corporate rebrands.",
+  "description": "24+ years B2B marketing experience. VP Marketing, Happay: 161% ARR growth. 2x exit: CRED ($180M), then MakeMyTrip. VP Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025. Led 6+ major corporate rebrands.",
   "hasOccupation": [
     {
       "@type": "OrganizationRole",
@@ -139,12 +139,12 @@
         "description": "Expense management platform. 2X EXITS: First acquired by CRED for $180M (cash and stock) in December 2021. Then expense management brand, business and team acquired by MakeMyTrip in November 2024. Serves 59,000+ SMB clients and 450+ large enterprises.",
         "funding": "Series B - $17M raised"
       },
-      "description": "Led marketing through 2X successful exits. Built marketing engine that drove company valuation from Series B to $180M acquisition.",
+      "description": "VP Marketing, Happay: 161% ARR growth. 2x exit: CRED ($180M), then MakeMyTrip.",
       "achievements": [
         "161% ARR growth",
         "+178% Enterprise deal size increase",
         "65-72% Marketing-sourced pipeline",
-        "Part of leadership team through CRED acquisition ($180M)",
+        "VP Marketing, Happay: 161% ARR growth. 2x exit: CRED ($180M), then MakeMyTrip.",
         "B2B Marketer of the Year 2020 (CMO Asia - Fintech)"
       ]
     },
@@ -238,7 +238,7 @@
         "@type": "ListItem",
         "position": 1,
         "name": "3 Successful Exits",
-        "description": "Happay 2X exits (CRED $180M, MakeMyTrip Nov 2024), Locus (IKEA/Ingka Oct 2025)"
+        "description": "VP Marketing, Happay: 161% ARR growth. 2x exit: CRED ($180M), then MakeMyTrip. VP Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025."
       },
       {
         "@type": "ListItem",

@@ -28,7 +28,7 @@
     "@type": "Person",
     "name": "Shashwat Ghosh",
     "jobTitle": "Co-Founder and Fractional CMO",
-    "description": "24+ years B2B marketing experience with 3 successful exits totaling $180M+. Led 6+ major corporate rebrands."
+    "description": "24+ years B2B marketing experience. VP Marketing, Happay: 161% ARR growth. 2x exit: CRED ($180M), then MakeMyTrip. VP Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025. Led 6+ major corporate rebrands."
   },
   "hasPart": [
     {
@@ -83,13 +83,13 @@
       "data": [
         {
           "company": "Happay",
-          "achievement": "2X exits - CRED $180M (2021), MakeMyTrip (2024)",
+          "achievement": "VP Marketing, Happay: 161% ARR growth. 2x exit: CRED ($180M), then MakeMyTrip.",
           "role": "VP Marketing",
           "metrics": ["161% ARR growth", "178% Enterprise deal size", "65-72% Marketing-sourced pipeline"]
         },
         {
           "company": "Locus",
-          "achievement": "Acquired by Ingka Group (IKEA) Oct 2025",
+          "achievement": "VP Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025.",
           "role": "VP Global Performance Marketing",
           "metrics": ["$4.2M pipeline", "203% SEA achievement"]
         },
