@@ -33,7 +33,7 @@ const expected = build(facts);
 for (const [name, content] of Object.entries(expected)) {
   const p = path.join(DIR, name);
   if (!fs.existsSync(p)) fail('missing generated file ' + name);
-  else if (fs.readFileSync(p, 'utf8') !== content) fail(`${name} differs from the facts file (run: node build-from-facts.js)`);
+  else if (fs.readFileSync(p, 'utf8').replace(/\r\n/g, '\n') !== content) fail(`${name} differs from the facts file (run: node build-from-facts.js)`);
 }
 for (const f of files) if (!(f in expected)) fail('file not generated from facts: ' + f);
 if (errors === before) ok('every file equals the facts file output');

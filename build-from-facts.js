@@ -197,7 +197,7 @@ if (require.main === module) {
   for (const [name, content] of Object.entries(out)) {
     const p = path.join(DIR, name);
     if (check) {
-      if (!fs.existsSync(p) || fs.readFileSync(p, 'utf8') !== content) { console.log('DIFFERS: ' + name); bad++; }
+      if (!fs.existsSync(p) || fs.readFileSync(p, 'utf8').replace(/\r\n/g, '\n') !== content) { console.log('DIFFERS: ' + name); bad++; }
     } else {
       fs.writeFileSync(p, content);
       console.log('wrote ' + name);
