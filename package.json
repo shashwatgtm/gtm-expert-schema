@@ -2,7 +2,7 @@
   "name": "gtm-expert-schema",
   "version": "3.0.0",
   "description": "Schema.org JSON-LD for Shashwat Ghosh and Helix GTM Consulting, generated from one facts file (facts/shashwat-ghosh.json).",
-  "author": "Shashwat Ghosh <shashwat@gtmexpert.com>",
+  "author": "Shashwat Ghosh <shashwat@gtmhelix.com>",
   "license": "UNLICENSED",
   "private": true,
   "keywords": [

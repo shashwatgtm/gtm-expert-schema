@@ -7,11 +7,10 @@
       "name": "Shashwat Ghosh",
       "url": "https://www.gtmexpert.com",
       "jobTitle": "Co-Founder and Fractional CMO",
-      "description": "Co-Founder and Fractional CMO of Helix GTM Consulting, founded in 2022 in Bengaluru. 24+ years in B2B and 10+ years of fractional experience. He created the EPIC, IMPACT and CRAFT frameworks and the Hub-Spoke Brand Messaging Methodology. Part of 6+ rebrands. He led two of them: QuantumStreet AI (from Equbot, with Digitas) and Airtel B2B (with Wolff Olins). Results: VP Marketing, Happay: 161% ARR growth. 2x exit: to CRED ($180M), then MakeMyTrip. VP Global Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025. Fractional CMO, FieldAssist: 2.25x growth in mid-market and enterprise qualified leads. Advisor, QuantumStreet AI: rebranded a $7Bn AUM AI investment fund, with Digitas and IBM. 4x business growth, Airtel Data Centers and Managed Services. Rs 2.35 Cr TCV in 6 months with ABM at Seclore, and 225+ sales meetings across Seclore's target accounts.",
-      "worksFor": {
-        "@id": "https://gtmhelix.com/#org"
-      },
+      "description": "Co-Founder and Fractional CMO of Helix GTM Consulting, founded in 2022 in Bengaluru. 24+ years in B2B and 10+ years of fractional experience. He created the EPIC, IMPACT and CRAFT frameworks and the Hub-Spoke Brand Messaging Methodology. Part of 6+ rebrands. He led two of them: QuantumStreet AI (from Equbot, with Digitas) and Airtel B2B (with Wolff Olins). The agencies on those rebrands were Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra and Grey. Results: VP Marketing, Happay: 161% ARR growth. 2x exit: to CRED ($180M), then MakeMyTrip. VP Global Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025. Fractional CMO, FieldAssist: 2.25x growth in mid-market and enterprise qualified leads. Advisor, QuantumStreet AI: rebranded a $7Bn AUM AI investment fund, with Digitas and IBM. 4x business growth, Airtel Data Centers and Managed Services. Rs 2.35 Cr TCV in 6 months with ABM at Seclore, and 225+ sales meetings across Seclore's target accounts.",
       "email": "shashwat@gtmhelix.com",
+      "telephone": "+919810603649",
+      "image": "https://gtmhelix.com/assets/shashwat-ghosh-560.jpg",
       "address": {
         "@type": "PostalAddress",
         "addressLocality": "Bengaluru"
@@ -35,15 +34,98 @@
         "https://github.com/shashwatgtm",
         "https://gtmexpert.substack.com/",
         "https://x.com/Shashwat_Ghosh",
-        "https://apify.com/shashghosh"
+        "https://apify.com/shashghosh",
+        "https://www.google.com/search?kgmid=/g/11k58ncv_x"
       ],
       "contactPoint": {
         "@type": "ContactPoint",
         "contactType": "booking",
         "name": "Book 45 minutes with Shashwat",
         "url": "https://calendly.com/shashwat-gtmhelix/45min",
-        "email": "shashwat@gtmhelix.com"
-      }
+        "email": "shashwat@gtmhelix.com",
+        "telephone": "+919810603649"
+      },
+      "worksFor": [
+        {
+          "@id": "https://www.gtmexpert.com/#role-helix-co-founder"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-discovery-outcomes-gtm-advisor"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-fractional-frontiers-partner"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-quantumstreet-advisor"
+        }
+      ],
+      "alumniOf": [
+        {
+          "@id": "https://www.gtmexpert.com/#role-fieldassist-cmo"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-locus-vp"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-happay-vp"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-happay-consultant"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-seclore-director"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-hcl-head-customer-insights"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-hcl-head-strategy-marketing"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-airtel-senior-brand-media"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-airtel-senior-product-marketing"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-airtel-regional-marketing-head"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-reliance-national-marketing-manager"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-wunderman-account-manager"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#education-nit-rourkela"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#education-enpc"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#education-xlri"
+        }
+      ],
+      "hasCredential": [
+        {
+          "@id": "https://www.gtmexpert.com/#credential-claude-agent-skills"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#credential-bhaskar-mentor"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#credential-coursera-marketing-digital-world"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#credential-coursera-digital-analytics"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#credential-coursera-digital-channels"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#credential-iab-foundations"
+        }
+      ]
     },
     {
       "@type": "WebPage",
@@ -53,6 +135,83 @@
       "mainEntity": {
         "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
       }
+    },
+    {
+      "@type": "EducationalOrganization",
+      "@id": "https://www.gtmexpert.com/#education-nit-rourkela",
+      "name": "National Institute of Technology Rourkela",
+      "description": "Bachelor of Engineering, Metallurgy, 1990 to 1994."
+    },
+    {
+      "@type": "EducationalOrganization",
+      "@id": "https://www.gtmexpert.com/#education-enpc",
+      "name": "École nationale des ponts et chaussées",
+      "description": "Master of Business Administration, Marketing, 1997 to 1999."
+    },
+    {
+      "@type": "EducationalOrganization",
+      "@id": "https://www.gtmexpert.com/#education-xlri",
+      "name": "XLRI Jamshedpur",
+      "description": "Postgraduate Certificate in Business Management, Working Managers Program, 2002 to 2004."
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "@id": "https://www.gtmexpert.com/#credential-claude-agent-skills",
+      "name": "Claude agent skills",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Anthropic"
+      },
+      "dateCreated": "2026-04"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "@id": "https://www.gtmexpert.com/#credential-bhaskar-mentor",
+      "name": "Verified BHASKAR Mentor (BHASKAR ID)",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Startup India"
+      }
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "@id": "https://www.gtmexpert.com/#credential-coursera-marketing-digital-world",
+      "name": "Marketing in a Digital World",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Coursera"
+      },
+      "dateCreated": "2017-10"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "@id": "https://www.gtmexpert.com/#credential-coursera-digital-analytics",
+      "name": "Digital Analytics for Marketing Professionals: Marketing Analytics in Theory",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Coursera"
+      },
+      "dateCreated": "2017-10"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "@id": "https://www.gtmexpert.com/#credential-coursera-digital-channels",
+      "name": "Digital Marketing Channels: The Landscape",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Coursera"
+      },
+      "dateCreated": "2017-10"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "@id": "https://www.gtmexpert.com/#credential-iab-foundations",
+      "name": "IAB Digital Marketing and Media Foundations Certification",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Google"
+      },
+      "dateCreated": "2017-11"
     }
   ]
 }

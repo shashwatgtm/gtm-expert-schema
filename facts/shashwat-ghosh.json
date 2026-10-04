@@ -20,17 +20,22 @@
         "https://github.com/shashwatgtm",
         "https://gtmexpert.substack.com/",
         "https://x.com/Shashwat_Ghosh",
-        "https://apify.com/shashghosh"
+        "https://apify.com/shashghosh",
+        "https://www.google.com/search?kgmid=/g/11k58ncv_x"
       ],
       "contactPoint": {
         "contactType": "booking",
         "name": "Book 45 minutes with Shashwat",
         "url": "https://calendly.com/shashwat-gtmhelix/45min",
-        "email": "shashwat@gtmhelix.com"
+        "email": "shashwat@gtmhelix.com",
+        "telephone": "+919810603649"
       },
       "aboutPage": "https://gtmhelix.com/about/",
       "source": "owner-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "telephone": "+919810603649",
+      "image": "https://gtmhelix.com/assets/shashwat-ghosh-560.jpg",
+      "sameAsNote": "The Google Business Profile link resolved to the knowledge id /g/11k58ncv_x with the query Shashwat Ghosh, so it is a Person address. The company LinkedIn page is the only Organization sameAs: GitHub is the owner's personal profile and stays on the Person. agent.ai/human/Shashwat_Ghosh was not added: it answers 200 but redirects to builderpack.com and does not name the owner."
     },
     "organization": {
       "id": "https://gtmhelix.com/#org",
@@ -44,8 +49,7 @@
       "city": "Bengaluru",
       "country": "India",
       "sameAs": [
-        "https://www.linkedin.com/company/helixgtmconsulting",
-        "https://github.com/shashwatgtm"
+        "https://www.linkedin.com/company/helixgtmconsulting"
       ],
       "areaServed": [
         "India",
@@ -57,7 +61,11 @@
       ],
       "email": "shashwat@gtmhelix.com",
       "source": "owner-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "telephone": "+919810603649",
+      "logo": "https://gtmhelix.com/apple-touch-icon.png",
+      "imageNote": "The photo is the one gtmhelix.com/about/ shows; the logo is the Helix apple-touch-icon that the page links (the page header mark is text). The GTM Expert logo is never used.",
+      "description": "Helix GTM Consulting is a B2B go-to-market consulting firm, founded in 2022 in Bengaluru, India, that builds GTM tools (six connectors and four Claude plugins) and provides Fractional CMO services."
     },
     "hyperplays": {
       "id": "https://www.hyper-plays.com/#org",
@@ -75,6 +83,13 @@
       "website": null,
       "checked": "2026-10-04",
       "note": "A plain HTTP request follows the short link to a Google Search page (knowledge id /g/11k58ncv_x, query Shashwat Ghosh) that is a script redirect with no business name, category or website in its text; the Maps address for the same id shows only the title Google Maps. Nothing was added to sameAs."
+    },
+    "optise": {
+      "id": "https://tools.gtmhelix.com/#optise",
+      "name": "Optise",
+      "url": "https://optise.com",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
     }
   },
   "headline": [
@@ -137,6 +152,18 @@
       "id": "seclore",
       "text": "Rs 2.35 Cr TCV in 6 months with ABM at Seclore, and 225+ sales meetings across Seclore's target accounts.",
       "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "rebrand-agencies",
+      "text": "The agencies on those rebrands were Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra and Grey.",
+      "source": "owner-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "happay-exit-dates",
+      "text": "Happay's 2x exit: to CRED ($180M) in Dec 2021, then MakeMyTrip in Nov 2024.",
+      "source": "owner-2026-10-04",
       "captured": "2026-10-04"
     }
   ],
@@ -271,7 +298,11 @@
       "tools": 3,
       "description": "Scores the four EPIC go-to-market motions from 1 to 10 with Shashwat Ghosh's documented rubric and names the one to lead with. The web app gives a 180 day plan; in Claude you choose 30, 60 or 90 days.",
       "source": "live-about-page",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "nodeId": "https://gtmalpha.gtmhelix.com/#app",
+      "sameAs": [
+        "https://www.producthunt.com/products/gtm-alpha-consultation"
+      ]
     },
     {
       "id": "craft-gtm",
@@ -281,7 +312,8 @@
       "tools": 8,
       "description": "Eight planning tools: a product-market fit scorecard, launch plans, interview guides, retention, partner and crisis playbooks, battle cards and a CRAFT review of GTM documents.",
       "source": "live-about-page",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "nodeId": "https://craft-gtm.gtmhelix.com/#app"
     },
     {
       "id": "craft-content",
@@ -291,7 +323,8 @@
       "tools": 8,
       "description": "Eight content tools: case studies, newsletters, webinar scripts, repurposed posts, thought leadership series, testimonial requests, sales content and a CRAFT review of drafts.",
       "source": "live-about-page",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "nodeId": "https://craft-content.gtmhelix.com/#app"
     },
     {
       "id": "impact",
@@ -301,7 +334,8 @@
       "tools": 8,
       "description": "Eight positioning tools on the IMPACT framework: champions, alternatives, value, market anchor, message and execution, plus a full audit and the framework guide.",
       "source": "live-about-page",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "nodeId": "https://impact.gtmhelix.com/#app"
     },
     {
       "id": "icp",
@@ -311,7 +345,8 @@
       "tools": 9,
       "description": "Nine ideal customer profile tools: deep dive, scoring model, buying group, TAM, SAM and SOM, lookalikes, account priorities, gaps, changes over time and interview themes.",
       "source": "live-about-page",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "nodeId": "https://icp-intelligence.gtmhelix.com/#app"
     },
     {
       "id": "revenue",
@@ -321,7 +356,8 @@
       "tools": 12,
       "description": "Twelve sales tools: account plans, deal strategy, discovery questions, ROI cases, mutual action plans, win and loss reviews, proposals, emails, demos, pricing, champions and competitive traps.",
       "source": "live-about-page",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "nodeId": "https://revenue-enablement.gtmhelix.com/#app"
     }
   ],
   "plugins": [
@@ -331,9 +367,10 @@
       "url": "https://tools.gtmhelix.com/plugins/gtm-skills/",
       "repo": "https://github.com/shashwatgtm/gtm-claude-skills",
       "licence": "MIT",
-      "description": "Positioning and GTM Strategy is a free Claude plugin with three skills built on Shashwat Ghosh's own frameworks.",
+      "description": "Positioning and GTM Strategy is a Claude plugin with three skills built on Shashwat Ghosh's own frameworks.",
       "source": "live-about-page",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "nodeId": "https://tools.gtmhelix.com/plugins/gtm-skills/#plugin"
     },
     {
       "id": "b2b-sales-enablement",
@@ -341,9 +378,10 @@
       "url": "https://tools.gtmhelix.com/plugins/b2b-sales-enablement/",
       "repo": "https://github.com/shashwatgtm/b2b-sales-enablement",
       "licence": "MIT",
-      "description": "B2B Sales Enablement is a free Claude plugin with three skills for sellers.",
+      "description": "B2B Sales Enablement is a Claude plugin with three skills for sellers.",
       "source": "live-about-page",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "nodeId": "https://tools.gtmhelix.com/plugins/b2b-sales-enablement/#plugin"
     },
     {
       "id": "b2b-customer-success",
@@ -351,19 +389,22 @@
       "url": "https://tools.gtmhelix.com/plugins/b2b-customer-success/",
       "repo": "https://github.com/shashwatgtm/b2b-customer-success",
       "licence": "MIT",
-      "description": "Customer Success: Churn and QBRs is a free Claude plugin with five skills built on the GUARD framework: Gauge account health, Uplift expansion, Activate onboarding, Review with a QBR, and Defend the renewal.",
+      "description": "Customer Success: Churn and QBRs is a Claude plugin with five skills built on the GUARD framework: Gauge account health, Uplift expansion, Activate onboarding, Review with a QBR, and Defend the renewal.",
       "source": "live-about-page",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "nodeId": "https://tools.gtmhelix.com/plugins/b2b-customer-success/#plugin"
     },
     {
       "id": "optise-helix-aeo-toolkit",
-      "name": "AI Search Visibility (AEO/GEO), partner",
+      "name": "AI Search Visibility (AEO/GEO)",
       "url": "https://tools.gtmhelix.com/plugins/optise-helix-aeo-toolkit/",
       "repo": "https://github.com/shashwatgtm/optise-helix-aeo-skills",
-      "licence": "Optise and Helix licence (free to use; the shared operating principles file is MIT)",
-      "description": "AI Search Visibility (AEO/GEO) is a free partner plugin with six skills, built with Optise on its FITq and RACE frameworks.",
+      "licence": "Optise and Helix licence (the shared operating principles file is MIT)",
+      "description": "AI Search Visibility (AEO/GEO) is a partner plugin with six skills, built with Optise on its FITq and RACE frameworks.",
       "source": "live-about-page",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "nodeId": "https://tools.gtmhelix.com/plugins/optise-helix-aeo-toolkit/#plugin",
+      "partner": true
     }
   ],
   "roles": [
@@ -378,7 +419,9 @@
       "employmentType": null,
       "bullets": [],
       "source": "linkedin-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "employer": "helix",
+      "current": true
     },
     {
       "id": "discovery-outcomes-gtm-advisor",
@@ -397,7 +440,9 @@
         "Market Positioning: positioning the platform as \"first GTM platform delivering qualified sales-ready leads on autopilot\"."
       ],
       "source": "linkedin-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "employer": "discovery-outcomes",
+      "current": true
     },
     {
       "id": "fractional-frontiers-partner",
@@ -410,7 +455,9 @@
       "employmentType": "Part-time",
       "bullets": [],
       "source": "linkedin-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "employer": "fractional-frontiers",
+      "current": true
     },
     {
       "id": "quantumstreet-advisor",
@@ -429,7 +476,9 @@
         "$7B AUM Fund Marketing: GTM advisory for an AI-powered investment platform."
       ],
       "source": "linkedin-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "employer": "quantumstreet-ai",
+      "current": true
     },
     {
       "id": "fieldassist-cmo",
@@ -454,7 +503,9 @@
       ],
       "note": "The headline on the sites stays \"Fractional CMO, FieldAssist\"; LinkedIn's title is \"CMO\". Both are correct.",
       "source": "linkedin-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "employer": "fieldassist",
+      "current": false
     },
     {
       "id": "locus-vp",
@@ -479,7 +530,9 @@
         "Locus was acquired by IKEA (Ingka Group) in Oct 2025."
       ],
       "source": "linkedin-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "employer": "locus",
+      "current": false
     },
     {
       "id": "happay-vp",
@@ -496,10 +549,12 @@
         "+178% Enterprise deal size increase.",
         "65-72% Marketing-sourced pipeline.",
         "Happay was named among the fastest growing technology companies in Deloitte Technology Fast 50 India 2020.",
-        "2x exit: to CRED ($180M), then MakeMyTrip."
+        "2x exit: to CRED ($180M) in Dec 2021, then MakeMyTrip in Nov 2024."
       ],
       "source": "linkedin-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "employer": "happay",
+      "current": false
     },
     {
       "id": "happay-consultant",
@@ -515,7 +570,9 @@
         "Happay CFO Benchmark Report 2018."
       ],
       "source": "linkedin-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "employer": "happay",
+      "current": false
     },
     {
       "id": "seclore-director",
@@ -540,7 +597,9 @@
         "Frost & Sullivan award through the analyst relations program."
       ],
       "source": "linkedin-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "employer": "seclore",
+      "current": false
     },
     {
       "id": "hcl-head-customer-insights",
@@ -556,7 +615,9 @@
         "Earlier: strategies to regain distribution and services market share, channel partner prioritization, a margin improvement exercise, a central price committee, and value propositions and GTM plans for OEM sell-through products."
       ],
       "source": "linkedin-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "employer": "hcl-infosystems",
+      "current": false
     },
     {
       "id": "hcl-head-strategy-marketing",
@@ -569,7 +630,9 @@
       "employmentType": null,
       "bullets": [],
       "source": "linkedin-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "employer": "hcl-infosystems",
+      "current": false
     },
     {
       "id": "airtel-senior-brand-media",
@@ -585,7 +648,9 @@
         "4x business growth, Airtel Data Centers and Managed Services (source: Kunwar B. Kishore Arora's recommendation: \"We grew the DC & MS business by 4X in 3 Years\")."
       ],
       "source": "linkedin-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "employer": "airtel",
+      "current": false
     },
     {
       "id": "airtel-senior-product-marketing",
@@ -598,7 +663,9 @@
       "employmentType": null,
       "bullets": [],
       "source": "linkedin-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "employer": "airtel",
+      "current": false
     },
     {
       "id": "airtel-regional-marketing-head",
@@ -611,7 +678,9 @@
       "employmentType": null,
       "bullets": [],
       "source": "linkedin-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "employer": "airtel",
+      "current": false
     },
     {
       "id": "reliance-national-marketing-manager",
@@ -627,7 +696,9 @@
         "Key role in launching Reliance NetConnect for enterprises and broadband for residential customers, and Reliance IndiaCall in the United Kingdom using radio as prime media."
       ],
       "source": "linkedin-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "employer": "reliance-communications",
+      "current": false
     },
     {
       "id": "wunderman-account-manager",
@@ -642,7 +713,9 @@
         "Integrated communication, loyalty programs and strategic alliances; launched the first insurance loyalty program in India and the first B2B loyalty program in India."
       ],
       "source": "linkedin-2026-10-04",
-      "captured": "2026-10-04"
+      "captured": "2026-10-04",
+      "employer": "wunderman",
+      "current": false
     }
   ],
   "testimonials": [
@@ -908,7 +981,7 @@
         "https://gtmhelix.com/ai-trendwatch/"
       ]
     ],
-    "story_narrative": "Shashwat Ghosh has run B2B go-to-market for 24 years: VP Marketing at Happay through a 2x exit (to CRED at $180M, then MakeMyTrip), VP Global Performance Marketing at Locus before IKEA (Ingka Group) acquired it, and Fractional CMO at FieldAssist. As an advisor he rebranded QuantumStreet AI, a $7Bn AUM AI investment fund, with Digitas and IBM. The frameworks he uses with clients, EPIC, IMPACT and CRAFT, now run as tools anyone can use.",
+    "story_narrative": "Shashwat Ghosh has run B2B go-to-market for 24+ years: VP Marketing at Happay through a 2x exit (to CRED at $180M, then MakeMyTrip), VP Global Performance Marketing at Locus before IKEA (Ingka Group) acquired it, and Fractional CMO at FieldAssist. As an advisor he rebranded QuantumStreet AI, a $7Bn AUM AI investment fund, with Digitas and IBM. The frameworks he uses with clients, EPIC, IMPACT and CRAFT, now run as tools anyone can use.",
     "forbidden": [
       "World Leadership Congress",
       "Cofounder",
@@ -980,5 +1053,172 @@
       "forbidden (3 added)": "owner decision 1 October 2026, items 8, 11 and 20 (the old wordings)",
       "facts_file": "gtm-expert-schema facts/shashwat-ghosh.json, owner statements and LinkedIn screenshots of 4 October 2026"
     }
-  }
+  },
+  "employers": [
+    {
+      "id": "discovery-outcomes",
+      "name": "Discovery Outcomes",
+      "url": "https://discoveryoutcomes.com",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "fractional-frontiers",
+      "name": "Fractional Frontiers",
+      "url": null,
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "quantumstreet-ai",
+      "name": "QuantumStreet AI",
+      "url": null,
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "fieldassist",
+      "name": "FieldAssist",
+      "url": "https://www.fieldassist.com",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "locus",
+      "name": "Locus",
+      "url": "https://locus.sh",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "happay",
+      "name": "Happay",
+      "url": "https://happay.com",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "seclore",
+      "name": "Seclore",
+      "url": null,
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "hcl-infosystems",
+      "name": "HCL Infosystems Ltd.",
+      "url": "https://www.hclinfosystems.in",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "airtel",
+      "name": "Airtel",
+      "url": "https://www.airtel.in",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "reliance-communications",
+      "name": "Reliance Communications",
+      "url": null,
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "wunderman",
+      "name": "Wunderman",
+      "url": null,
+      "description": "A Y&R, WPP agency.",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    }
+  ],
+  "employersNote": "An official website is listed only if it answered 200 on 4 October 2026 and its page named the company. QuantumStreet AI and Seclore answered 200 but their pages did not name the company in the fetched text; Fractional Frontiers, Reliance Communications and Wunderman did not answer 200 to a plain request. Those are name only.",
+  "education": [
+    {
+      "id": "nit-rourkela",
+      "name": "National Institute of Technology Rourkela",
+      "degree": "Bachelor of Engineering",
+      "field": "Metallurgy",
+      "start": "1990",
+      "end": "1994",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "enpc",
+      "name": "École nationale des ponts et chaussées",
+      "degree": "Master of Business Administration",
+      "field": "Marketing",
+      "start": "1997",
+      "end": "1999",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "xlri",
+      "name": "XLRI Jamshedpur",
+      "degree": "Postgraduate Certificate in Business Management",
+      "field": "Working Managers Program",
+      "start": "2002",
+      "end": "2004",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    }
+  ],
+  "credentials": [
+    {
+      "id": "claude-agent-skills",
+      "name": "Claude agent skills",
+      "issuer": "Anthropic",
+      "issued": "2026-04",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "bhaskar-mentor",
+      "name": "Verified BHASKAR Mentor (BHASKAR ID)",
+      "issuer": "Startup India",
+      "issued": null,
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "coursera-marketing-digital-world",
+      "name": "Marketing in a Digital World",
+      "issuer": "Coursera",
+      "issued": "2017-10",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "coursera-digital-analytics",
+      "name": "Digital Analytics for Marketing Professionals: Marketing Analytics in Theory",
+      "issuer": "Coursera",
+      "issued": "2017-10",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "coursera-digital-channels",
+      "name": "Digital Marketing Channels: The Landscape",
+      "issuer": "Coursera",
+      "issued": "2017-10",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "iab-foundations",
+      "name": "IAB Digital Marketing and Media Foundations Certification",
+      "issuer": "Google",
+      "issued": "2017-11",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    }
+  ],
+  "credentialsNote": "No credential ID numbers. The issue date of the Startup India BHASKAR credential was not given, so none is written.",
+  "doNotUse": [
+    "$300M valuation for Locus: it reads like the sale price"
+  ]
 }

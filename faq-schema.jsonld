@@ -21,7 +21,7 @@
           "name": "What is Helix GTM Consulting?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Helix GTM Consulting was founded in 2022 in Bengaluru, India. Its Co-Founder and Fractional CMO is Shashwat Ghosh. It offers six free GTM connectors and four plugins, and Fractional CMO work."
+            "text": "Helix GTM Consulting is a B2B go-to-market consulting firm, founded in 2022 in Bengaluru, India, that builds GTM tools (six connectors and four Claude plugins) and provides Fractional CMO services."
           }
         },
         {
@@ -29,7 +29,7 @@
           "name": "What results has Shashwat Ghosh delivered?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "VP Marketing, Happay: 161% ARR growth. 2x exit: to CRED ($180M), then MakeMyTrip. VP Global Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025. Fractional CMO, FieldAssist: 2.25x growth in mid-market and enterprise qualified leads. Advisor, QuantumStreet AI: rebranded a $7Bn AUM AI investment fund, with Digitas and IBM. 4x business growth, Airtel Data Centers and Managed Services. Rs 2.35 Cr TCV in 6 months with ABM at Seclore, and 225+ sales meetings across Seclore's target accounts."
+            "text": "VP Marketing, Happay: 161% ARR growth. 2x exit: to CRED ($180M), then MakeMyTrip. VP Global Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025. Fractional CMO, FieldAssist: 2.25x growth in mid-market and enterprise qualified leads. Advisor, QuantumStreet AI: rebranded a $7Bn AUM AI investment fund, with Digitas and IBM. 4x business growth, Airtel Data Centers and Managed Services. Rs 2.35 Cr TCV in 6 months with ABM at Seclore, and 225+ sales meetings across Seclore's target accounts. Happay's 2x exit: to CRED ($180M) in Dec 2021, then MakeMyTrip in Nov 2024."
           }
         },
         {
@@ -45,7 +45,7 @@
           "name": "How many rebrands has Shashwat Ghosh been part of?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Part of 6+ rebrands. He led two of them: QuantumStreet AI (from Equbot, with Digitas) and Airtel B2B (with Wolff Olins)."
+            "text": "Part of 6+ rebrands. He led two of them: QuantumStreet AI (from Equbot, with Digitas) and Airtel B2B (with Wolff Olins). The agencies on those rebrands were Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra and Grey."
           }
         },
         {
@@ -54,6 +54,14 @@
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "LinkedIn Top Product Marketing Voice: #10 India, #52 worldwide (Favikon verified). Top 15 AI Research and Innovation (India). Top 30 PLG creators worldwide. Most Admired Marketing Leaders 2025 (CMO Asia). B2B Marketer of the Year 2020, Fintech (CMO Asia)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where did Shashwat Ghosh study?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "National Institute of Technology Rourkela: Bachelor of Engineering, Metallurgy, 1990 to 1994. École nationale des ponts et chaussées: Master of Business Administration, Marketing, 1997 to 1999. XLRI Jamshedpur: Postgraduate Certificate in Business Management, Working Managers Program, 2002 to 2004."
           }
         },
         {
@@ -74,7 +82,7 @@
         },
         {
           "@type": "Question",
-          "name": "Which free GTM connectors does Helix GTM Consulting offer?",
+          "name": "Which GTM connectors does Helix GTM Consulting offer?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "GTM Alpha: https://gtmalpha.gtmhelix.com; CRAFT GTM: https://craft-gtm.gtmhelix.com; CRAFT Content: https://craft-content.gtmhelix.com; IMPACT: https://impact.gtmhelix.com; ICP Intelligence: https://icp-intelligence.gtmhelix.com; Revenue Enablement: https://revenue-enablement.gtmhelix.com."
@@ -85,7 +93,7 @@
           "name": "Which plugins does Helix GTM Consulting offer?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Positioning and GTM Strategy: https://tools.gtmhelix.com/plugins/gtm-skills/; B2B Sales Enablement: https://tools.gtmhelix.com/plugins/b2b-sales-enablement/; Customer Success: Churn and QBRs: https://tools.gtmhelix.com/plugins/b2b-customer-success/; AI Search Visibility (AEO/GEO), partner: https://tools.gtmhelix.com/plugins/optise-helix-aeo-toolkit/."
+            "text": "Positioning and GTM Strategy: https://tools.gtmhelix.com/plugins/gtm-skills/; B2B Sales Enablement: https://tools.gtmhelix.com/plugins/b2b-sales-enablement/; Customer Success: Churn and QBRs: https://tools.gtmhelix.com/plugins/b2b-customer-success/; AI Search Visibility (AEO/GEO): https://tools.gtmhelix.com/plugins/optise-helix-aeo-toolkit/."
           }
         },
         {
@@ -101,7 +109,7 @@
           "name": "What do people say about working with Shashwat Ghosh?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Recommendations from colleagues and clients are on his LinkedIn profile, and Helix GTM Consulting has 9 Google reviews, all 5 stars."
+            "text": "Recommendations from colleagues and clients are on his LinkedIn profile, and his Google Business Profile has 9 reviews, all 5 stars."
           }
         }
       ]

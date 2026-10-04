@@ -2,14 +2,14 @@
 
 Structured data for Shashwat Ghosh and Helix GTM Consulting. One facts file is the single source of truth; every other file here is generated from it.
 
-**Facts captured:** 2026-10-04. **Licence:** UNLICENSED, private repository, all rights reserved (as in package.json).
+**Facts captured:** 2026-10-04. **Licence:** UNLICENSED. All rights reserved, no open licence.
 
 ## Profile
 
 **Shashwat Ghosh**, Co-Founder and Fractional CMO, Helix GTM Consulting (founded 2022, Bengaluru, India).
 
 - 24+ years in B2B; 10+ years of fractional experience
-- Part of 6+ rebrands. He led two of them: QuantumStreet AI (from Equbot, with Digitas) and Airtel B2B (with Wolff Olins).
+- Part of 6+ rebrands. He led two of them: QuantumStreet AI (from Equbot, with Digitas) and Airtel B2B (with Wolff Olins). The agencies on those rebrands were Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra and Grey.
 - He created the EPIC, IMPACT and CRAFT frameworks and the Hub-Spoke Brand Messaging Methodology.
 - VP Marketing, Happay: 161% ARR growth. 2x exit: to CRED ($180M), then MakeMyTrip.
 - VP Global Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025.
@@ -17,6 +17,7 @@ Structured data for Shashwat Ghosh and Helix GTM Consulting. One facts file is t
 - Advisor, QuantumStreet AI: rebranded a $7Bn AUM AI investment fund, with Digitas and IBM.
 - 4x business growth, Airtel Data Centers and Managed Services.
 - Rs 2.35 Cr TCV in 6 months with ABM at Seclore, and 225+ sales meetings across Seclore's target accounts.
+- Happay's 2x exit: to CRED ($180M) in Dec 2021, then MakeMyTrip in Nov 2024.
 
 ## Recognition
 
@@ -34,7 +35,7 @@ Structured data for Shashwat Ghosh and Helix GTM Consulting. One facts file is t
 | Helix GTM Consulting (Organization) | https://gtmhelix.com/#org | https://gtmhelix.com |
 | HyperPlays (Organization, parent: Helix GTM Consulting) | https://www.hyper-plays.com/#org | https://www.hyper-plays.com/ |
 
-The About page, https://gtmhelix.com/about/, is a WebPage whose mainEntity is the Person @id.
+The About page, https://gtmhelix.com/about/, is a WebPage whose mainEntity is the Person @id. Connector and plugin nodes use the @id their own live page uses.
 
 ## Work history (LinkedIn wording)
 
@@ -54,6 +55,21 @@ The About page, https://gtmhelix.com/about/, is a WebPage whose mainEntity is th
 - Regional Marketing Head, West, Airtel: 2007-06 to 2008-03
 - National Marketing Manager, Broadband, Reliance Communications: 2004-01 to 2007-05
 - Account Manager, Wunderman (a Y&R, WPP agency): 2000-04 to 2004-01
+
+## Education
+
+- National Institute of Technology Rourkela: Bachelor of Engineering, Metallurgy, 1990 to 1994
+- École nationale des ponts et chaussées: Master of Business Administration, Marketing, 1997 to 1999
+- XLRI Jamshedpur: Postgraduate Certificate in Business Management, Working Managers Program, 2002 to 2004
+
+## Credentials
+
+- Claude agent skills, Anthropic, 2026-04
+- Verified BHASKAR Mentor (BHASKAR ID), Startup India
+- Marketing in a Digital World, Coursera, 2017-10
+- Digital Analytics for Marketing Professionals: Marketing Analytics in Theory, Coursera, 2017-10
+- Digital Marketing Channels: The Landscape, Coursera, 2017-10
+- IAB Digital Marketing and Media Foundations Certification, Google, 2017-11
 
 ## Frameworks
 
@@ -75,7 +91,7 @@ CRAFT templates: [CRAFT: 50 AI Context Engineering for Business](https://www.not
 - Positioning and GTM Strategy: https://tools.gtmhelix.com/plugins/gtm-skills/
 - B2B Sales Enablement: https://tools.gtmhelix.com/plugins/b2b-sales-enablement/
 - Customer Success: Churn and QBRs: https://tools.gtmhelix.com/plugins/b2b-customer-success/
-- AI Search Visibility (AEO/GEO), partner: https://tools.gtmhelix.com/plugins/optise-helix-aeo-toolkit/
+- AI Search Visibility (AEO/GEO): https://tools.gtmhelix.com/plugins/optise-helix-aeo-toolkit/
 
 ## Newsletters
 
@@ -87,12 +103,12 @@ CRAFT templates: [CRAFT: 50 AI Context Engineering for Business](https://www.not
 | File | What it is |
 |---|---|
 | facts/shashwat-ghosh.json | The facts, each with a source and the date captured. Edit this file only. |
-| person-schema.jsonld | Person and the About WebPage |
-| organization-schema.jsonld | Helix GTM Consulting, HyperPlays and the services on the live /services/ page |
-| work-experience-schema.jsonld | One Role node per job, linked from the Person |
+| person-schema.jsonld | Person, the About WebPage, education and credentials |
+| organization-schema.jsonld | Helix GTM Consulting, HyperPlays, Optise and the services on the live /services/ page |
+| work-experience-schema.jsonld | One OrganizationRole per job, with its employer, linked from the Person |
 | faq-schema.jsonld | Questions answered only from the facts |
 | gnn-graph-schema.jsonld | One plain schema.org @graph linking every entity by @id |
-| testimonials.json | Plain data with a source link. No Review or AggregateRating markup anywhere. |
+| testimonials.json | Plain data with a source link. No review markup anywhere. |
 | build-from-facts.js | Generates all of the above and this README |
 | validate-schemas.js | Checks the files against the facts and the wording rules |
 

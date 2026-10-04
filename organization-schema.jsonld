@@ -10,9 +10,11 @@
         "GTM Helix"
       ],
       "url": "https://gtmhelix.com",
+      "description": "Helix GTM Consulting is a B2B go-to-market consulting firm, founded in 2022 in Bengaluru, India, that builds GTM tools (six connectors and four Claude plugins) and provides Fractional CMO services.",
       "email": "shashwat@gtmhelix.com",
+      "telephone": "+919810603649",
+      "logo": "https://gtmhelix.com/apple-touch-icon.png",
       "foundingDate": "2022",
-      "description": "Founded in 2022 in Bengaluru, India.",
       "foundingLocation": {
         "@type": "Place",
         "name": "Bengaluru"
@@ -49,8 +51,7 @@
         }
       ],
       "sameAs": [
-        "https://www.linkedin.com/company/helixgtmconsulting",
-        "https://github.com/shashwatgtm"
+        "https://www.linkedin.com/company/helixgtmconsulting"
       ],
       "founder": {
         "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
@@ -88,6 +89,12 @@
       "parentOrganization": {
         "@id": "https://gtmhelix.com/#org"
       }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://tools.gtmhelix.com/#optise",
+      "name": "Optise",
+      "url": "https://optise.com"
     },
     {
       "@type": "Service",
