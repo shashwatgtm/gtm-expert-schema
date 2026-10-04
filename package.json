@@ -1,32 +1,29 @@
 {
   "name": "gtm-expert-schema",
-  "version": "2.0.0",
-  "description": "JSON-LD Schema files for GTMExpert.com - B2B GTM Consulting by Shashwat Ghosh. Includes HyperPlays as subOrganization.",
-  "author": "Shashwat Ghosh <shashwat@gtmexpert.com>",
+  "version": "3.0.0",
+  "description": "Schema.org JSON-LD for Shashwat Ghosh and Helix GTM Consulting, generated from one facts file (facts/shashwat-ghosh.json).",
+  "author": "Shashwat Ghosh <shashwat@gtmhelix.com>",
   "license": "UNLICENSED",
   "private": true,
   "keywords": [
     "schema.org",
     "json-ld",
-    "seo",
     "gtm",
     "b2b-marketing",
-    "fractional-cmo",
-    "epic-framework",
-    "hyperplays"
+    "fractional-cmo"
   ],
   "scripts": {
-    "validate": "node validate-schemas.js"
+    "validate": "node validate-schemas.js",
+    "build": "node build-from-facts.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/shashwatgtm/gtm-expert-schema"
   },
-  "homepage": "https://www.gtmexpert.com",
+  "homepage": "https://gtmhelix.com",
   "config": {
-    "canonical_url": "https://www.gtmexpert.com",
-    "child_brand": "https://www.hyper-plays.com",
-    "hub_page": "https://gtmexpert.com/ai-personalised-leadgeneration",
-    "partner": "https://discoveryoutcomes.com"
+    "canonical_url": "https://gtmhelix.com",
+    "person_id": "https://www.gtmexpert.com/#shashwat-ghosh",
+    "organization_id": "https://gtmhelix.com/#org"
   }
 }

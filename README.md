@@ -1,191 +1,122 @@
-# GTM Expert Schema - Shashwat Ghosh
+# GTM Expert Schema: Shashwat Ghosh and Helix GTM Consulting
 
-Structured data schemas for SEO, LLM discoverability, and AI knowledge bases.
+Structured data for Shashwat Ghosh and Helix GTM Consulting. One facts file is the single source of truth; every other file here is generated from it.
 
-**Version:** 2.1 (December 30, 2025)
+**Facts captured:** 2026-10-04. **Licence:** UNLICENSED. All rights reserved, no open licence.
 
----
+## Profile
 
-## 👤 Profile Summary
+**Shashwat Ghosh**, Co-Founder and Fractional CMO, Helix GTM Consulting (founded 2022, Bengaluru, India).
 
-**Shashwat Ghosh** - Co-Founder and Fractional CMO, Helix GTM Consulting (founded 2022, Bengaluru)
+- 24+ years in B2B; 10+ years of fractional experience
+- Part of 6+ rebrands. He led two of them: QuantumStreet AI (from Equbot, with Digitas) and Airtel B2B (with Wolff Olins). The agencies on those rebrands were Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra and Grey.
+- He created the EPIC, IMPACT and CRAFT frameworks and the Hub-Spoke Brand Messaging Methodology.
+- VP Marketing, Happay: 161% ARR growth. 2x exit: to CRED ($180M), then MakeMyTrip.
+- VP Global Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025.
+- Fractional CMO, FieldAssist: 2.25x growth in mid-market and enterprise qualified leads.
+- Advisor, QuantumStreet AI: rebranded a $7Bn AUM AI investment fund, with Digitas and IBM.
+- 4x business growth, Airtel Data Centers and Managed Services.
+- Rs 2.35 Cr TCV in 6 months with ABM at Seclore, and 225+ sales meetings across Seclore's target accounts.
+- Happay's 2x exit: to CRED ($180M) in Dec 2021, then MakeMyTrip in Nov 2024.
 
-- 24+ years B2B marketing experience
-- VP Marketing, Happay: 161% ARR growth. 2x exit: CRED ($180M), then MakeMyTrip.
-- VP Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025.
-- Led 6+ major corporate rebrands
-- Creator of EPIC, IMPACT, and CRAFT frameworks
+## Recognition
+
 - LinkedIn Top Product Marketing Voice: #10 India, #52 worldwide (Favikon verified)
-- #14 in AI Research and Innovation on LinkedIn India (Favikon verified)
-- Top 30 Product-Led Growth (PLG) worldwide
+- Top 15 AI Research and Innovation (India)
+- Top 30 PLG creators worldwide
+- Most Admired Marketing Leaders 2025 (CMO Asia)
+- B2B Marketer of the Year 2020, Fintech (CMO Asia)
 
----
+## Identity
 
-## 🎯 7 Core Service Keywords
+| Entity | @id | URL |
+|---|---|---|
+| Shashwat Ghosh (Person) | https://www.gtmexpert.com/#shashwat-ghosh | https://www.gtmexpert.com |
+| Helix GTM Consulting (Organization) | https://gtmhelix.com/#org | https://gtmhelix.com |
+| HyperPlays (Organization, parent: Helix GTM Consulting) | https://www.hyper-plays.com/#org | https://www.hyper-plays.com/ |
 
-These exact keywords are used consistently across all schemas for maximum AI/LLM discoverability:
+The About page, https://gtmhelix.com/about/, is a WebPage whose mainEntity is the Person @id. Connector and plugin nodes use the @id their own live page uses.
 
-1. **AI GTM expertise delivered through MCP**
-2. **EPIC GTM Alpha for traditional SaaS and ITeS**
-3. **AI-based Lead Generation for Series A/B**
-4. **Fractional CMO for Bootstrapped and AI companies**
-5. **Branding for AI & Non-AI traditional companies**
-6. **AI-powered deep research for SMB and MidMarket**
-7. **Unique frameworks like CRAFT and IMPACT**
+## Work history (LinkedIn wording)
 
----
+- Co-Founder and Fractional CMO, Helix GTM Consulting: 2022-10 to present
+- GTM Advisor, Discovery Outcomes: 2024-02 to present
+- Partner, Fractional Frontiers: 2024-11 to present
+- Advisor, GTM, Growth and Strategy, QuantumStreet AI: 2023-02 to present
+- CMO, FieldAssist: 2023-04 to 2024-09
+- VP Global Performance Marketing, Locus: 2022-02 to 2022-10
+- Vice President Marketing, Happay: 2019-11 to 2022-01
+- Strategic Marketing Consultant, Happay: 2018-04 to 2019-10
+- Director of Product Marketing, Seclore: 2016-07 to 2017-10
+- Head, Customer Insights, Brand & New Projects (Office Automation), HCL Infosystems Ltd.: 2013-02 to 2016-05
+- Head, Strategy & Marketing (Office Automation), HCL Infosystems Ltd.: 2011-11 to 2013-02
+- Senior Brand & Media Manager, Airtel: 2010-03 to 2011-10
+- Senior Product Marketing Manager, Data, Voice & VAS, Airtel: 2008-03 to 2010-03
+- Regional Marketing Head, West, Airtel: 2007-06 to 2008-03
+- National Marketing Manager, Broadband, Reliance Communications: 2004-01 to 2007-05
+- Account Manager, Wunderman (a Y&R, WPP agency): 2000-04 to 2004-01
 
-## 🏢 Organization Structure
+## Education
 
-| Entity | Type | URL |
-|--------|------|-----|
-| **Helix GTM Consulting** | Primary Organization (founded 2022, Bengaluru) | https://tools.gtmhelix.com |
-| **HyperPlays** | Child Brand (AI Lead Gen) | https://www.hyper-plays.com |
-| **Discovery Outcomes** | Advisory Role | https://discoveryoutcomes.com |
-| **QuantumStreet AI** | Advisory Role | - |
+- National Institute of Technology Rourkela: Bachelor of Engineering, Metallurgy, 1990 to 1994
+- École nationale des ponts et chaussées: Master of Business Administration, Marketing, 1997 to 1999
+- XLRI Jamshedpur: Postgraduate Certificate in Business Management, Working Managers Program, 2002 to 2004
 
----
+## Credentials
 
-## 🏆 Key Achievements
+- Claude agent skills, Anthropic, 2026-04
+- Verified BHASKAR Mentor (BHASKAR ID), Startup India
+- Marketing in a Digital World, Coursera, 2017-10
+- Digital Analytics for Marketing Professionals: Marketing Analytics in Theory, Coursera, 2017-10
+- Digital Marketing Channels: The Landscape, Coursera, 2017-10
+- IAB Digital Marketing and Media Foundations Certification, Google, 2017-11
 
-### Successful Exits
+## Frameworks
 
-| Company | Exit Details | Role |
-|---------|--------------|------|
-| **Happay** | VP Marketing, Happay: 161% ARR growth. 2x exit: CRED ($180M), then MakeMyTrip. | VP Marketing |
-| **Locus** | VP Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025. | VP Global Performance Marketing |
+- **EPIC** (https://gtmhelix.com/epic/): Ecosystem and ABM, Product-Led Growth, Inbound and Outbound, Community-Led. It scores the four go-to-market motions from 1 to 10 for your stage, deal size, sales cycle and market, and names the one to lead with.
+- **IMPACT** (https://impact.gtmhelix.com): Identify Champions, Map Alternatives, Pinpoint Value, Anchor Market, Craft Message, Translate Execution: six steps from the buyer who wants you to a message your team can use.
+- **CRAFT** (https://craft-gtm.gtmhelix.com): Character, Result, Artifact, Frame, Timeline: the five things to tell an AI assistant so its answer is specific instead of generic.
+- **Hub-Spoke Brand Messaging Methodology**: A methodology for effective branding, created by Shashwat Ghosh.
 
-### FieldAssist CMO (2023-04 to 2024-09) - Case Study
+CRAFT templates: [CRAFT: 50 AI Context Engineering for Business](https://www.notion.com/templates/ai-context-engineering-craft-framework) on the Notion Marketplace: 50 templates and 3 ChatGPT assistants.
 
-**Responsibilities:**
-- FAi Launch GTM — positioning, launch plan & demand engine
-- DMS GTM Launch — 3-phase go-to-market strategy
-- Africa GTM — international expansion strategy
-- LinkedIn Newsletter and DPDP eBook content programs
-- Revamped brand messaging using Hub-Spoke methodology
+## Connectors and plugins
 
-**Achievements:**
-- 2.25× growth in mid-market & enterprise qualified leads
-- +30% organic website traffic (zero paid)
-- 2× organic social growth (10.5K → 23K+ followers)
-- 419 validated leads, 256 assigned (38 C/D/E + 28 B category)
-- 60 enterprise accounts (28 mid + 32 large)
-- Revitalised Pathfinders program (Atomberg: 3.5K views record)
-- Big 4 roundtables (PwC, EY, Deloitte)
-- Case studies: Bonjour, Cello, Too Yumm, Pearl Dairy, ITC, Mars
+- GTM Alpha: https://gtmalpha.gtmhelix.com
+- CRAFT GTM: https://craft-gtm.gtmhelix.com
+- CRAFT Content: https://craft-content.gtmhelix.com
+- IMPACT: https://impact.gtmhelix.com
+- ICP Intelligence: https://icp-intelligence.gtmhelix.com
+- Revenue Enablement: https://revenue-enablement.gtmhelix.com
+- Positioning and GTM Strategy: https://tools.gtmhelix.com/plugins/gtm-skills/
+- B2B Sales Enablement: https://tools.gtmhelix.com/plugins/b2b-sales-enablement/
+- Customer Success: Churn and QBRs: https://tools.gtmhelix.com/plugins/b2b-customer-success/
+- AI Search Visibility (AEO/GEO): https://tools.gtmhelix.com/plugins/optise-helix-aeo-toolkit/
 
----
+## Newsletters
 
-## 🎨 Corporate Rebranding Experience (6+)
+- GTM Whisperer: https://gtmexpert.substack.com
+- Offbeat AI Watch: https://gtmhelix.com/ai-trendwatch/
 
-| Company | Role | Agency Partners |
-|---------|------|-----------------|
-| QuantumStreet AI | Led Complete Rebrand (from Equbot) | Digitas Agency |
-| Airtel Business | 2X Rebrands | Wolff Olins, JWT, Brand Union |
-| FieldAssist | Brand Messaging | Hub-Spoke Methodology |
-| HCL Infosystems | Key Team Member | Restructure into HCL Services + 3 companies |
-| Reliance Communications | Key Team Member | DDB Mudra, Grey |
-| Locus | Key Team Member | Prior to IKEA acquisition |
+## Files
 
----
+| File | What it is |
+|---|---|
+| facts/shashwat-ghosh.json | The facts, each with a source and the date captured. Edit this file only. |
+| person-schema.jsonld | Person, the About WebPage, education and credentials |
+| organization-schema.jsonld | Helix GTM Consulting, HyperPlays, Optise and the services on the live /services/ page |
+| work-experience-schema.jsonld | One OrganizationRole per job, with its employer, linked from the Person |
+| faq-schema.jsonld | Questions answered only from the facts |
+| gnn-graph-schema.jsonld | One plain schema.org @graph linking every entity by @id |
+| testimonials.json | Plain data with a source link. No review markup anywhere. |
+| build-from-facts.js | Generates all of the above and this README |
+| validate-schemas.js | Checks the files against the facts and the wording rules |
 
-## 📋 Proprietary Frameworks
+## Use
 
-| Framework | Purpose | Components |
-|-----------|---------|------------|
-| **EPIC** | GTM Methodology | Ecosystem & ABM, Product-Led Growth, Inbound/Outbound, Community-Led |
-| **IMPACT** | Strategic Positioning | Market differentiation methodology |
-| **CRAFT** | AI Context Engineering | 50+ templates on Notion Marketplace |
-| **Hub-Spoke** | Brand Messaging | Multi-channel consistency methodology |
-| **4-Dimensional Analysis** | Lead Generation (HyperPlays) | Company context, industry news, competitor activities, DISC personality |
+```
+node build-from-facts.js    # regenerate from the facts file
+node validate-schemas.js    # run the checks
+```
 
----
-
-## 🏅 Awards & Recognition
-
-| Award | Organization | Year |
-|-------|--------------|------|
-| Most Admired Marketing Leaders | CMO Asia - World Leadership Congress | 2025 |
-| B2B Marketer of the Year (Fintech) | CMO Asia | 2020 |
-| LinkedIn Top Product Marketing Voice | #10 India, #52 worldwide (Favikon verified) | - |
-| #14 in AI Research and Innovation, LinkedIn India | Favikon verified | - |
-| Top 30 Product-Led Growth (PLG) worldwide | - | - |
-| 5.0 Star Google Reviews | 9 client reviews | 2024 |
-
----
-
-## 📁 Schema Files (13 Total)
-
-| # | File | Purpose |
-|---|------|---------|
-| 1 | `person-schema.jsonld` | Core personal/professional data with 7 keywords |
-| 2 | `work-experience-schema.jsonld` | Complete career history with all corrections |
-| 3 | `organization-schema-with-testimonials.jsonld` | Helix GTM + HyperPlays + testimonials |
-| 4 | `professional-service-schema.jsonld` | Professional services with Brand Strategy |
-| 5 | `faq-schema-with-testimonials.jsonld` | 15 FAQs for rich snippets |
-| 6 | `ai-skills-schema.jsonld` | 14 AI skills in 4 tiers |
-| 7 | `gnn-graph-schema.jsonld` | GNN graph structure for candidate generation |
-| 8 | `local-business-schema.jsonld` | Local business listing |
-| 9 | `offer-schema-enhanced.jsonld` | 7 service offerings |
-| 10 | `service-gtm-epic.jsonld` | EPIC framework service |
-| 11 | `ai-knowledge-base-schema.jsonld` | AI/LLM training data |
-| 12 | `educational-content-schema.jsonld` | Courses and educational resources |
-| 13 | `README.md` | This documentation |
-
----
-
-## 🔗 Links
-
-- **Website:** https://www.gtmexpert.com (personal); Helix GTM Consulting: https://tools.gtmhelix.com
-- **HyperPlays:** https://www.hyper-plays.com
-- **LinkedIn:** https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/
-- **Twitter/X:** https://x.com/Shashwat_Ghosh
-- **GitHub:** https://github.com/shashwatgtm
-- **NPM Package:** https://www.npmjs.com/package/@shashwatgtmalpha/gtm-alpha-mcp-server
-- **Apify:** https://apify.com/shashghosh
-- **Newsletter (AI):** https://gtmhelix.com/ai-trendwatch/
-- **Newsletter (GTM):** https://gtmexpert.substack.com
-- **Calendly:** https://calendly.com/shashwat-gtmhelix/45min
-
----
-
-## 📞 Contact
-
-- **Email:** shashwat@gtmhelix.com
-- **Phone:** +91-9810603649
-- **Location:** Bengaluru, Karnataka, India
-- **Languages:** English, Hindi
-
----
-
-## 📝 Version History
-
-### v2.1 (December 30, 2025)
-- Added all 20 FieldAssist corrections (responsibilities + achievements)
-- Fixed Locus dates (2022-02 to 2023-03) and IKEA acquisition details
-- Fixed Happay 2X exits (CRED + MakeMyTrip)
-- Fixed Seclore dates (2017-01 to 2019-10) and $46M funding
-- Added Brand Strategist occupation with 6+ rebrands
-- Added Hub-Spoke Messaging Methodology
-- Added agency partnerships (Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra, Grey)
-- Fixed Discovery Outcomes description
-- Added Brand Strategy & Rebranding service
-
-### v2.0 (December 2025)
-- Added ai-skills-schema.jsonld (14 AI skills)
-- Added gnn-graph-schema.jsonld (GNN structure)
-- Added advisor roles (Discovery Outcomes, QuantumStreet AI)
-- Added HyperPlays as child brand
-
-### v1.0 (Initial)
-- Core schema files
-
----
-
-## 📄 License
-
-MIT License - See LICENSE file
-
----
-
-*Last Updated: December 30, 2025*
+The sites read the same facts: work/bio.json in the project repo is generated from the facts file by work/facts/make_bio.py, and the site generators stop with an error if it differs.
