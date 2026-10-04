@@ -1,298 +1,58 @@
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
-  "name": "Shashwat Ghosh",
-  "url": "https://www.gtmexpert.com",
-  "email": "shashwat@gtmhelix.com",
-  "telephone": "+919810603649",
-  "jobTitle": "Co-Founder and Fractional CMO",
-  "description": "Shashwat Ghosh is Co-Founder and Fractional CMO of Helix GTM Consulting (founded 2022, Bengaluru), with 24+ years of B2B marketing experience. Creator of EPIC, IMPACT, and CRAFT frameworks. Founder of HyperPlays (AI lead generation services) and Advisor at Discovery Outcomes (AI-powered GTM platform). Led 6+ major corporate rebrands. LinkedIn Top Product Marketing Voice, #10 India and #52 worldwide (Favikon verified); #14 in AI Research and Innovation on LinkedIn India (Favikon verified); Top 30 Product-Led Growth (PLG) worldwide. Winner of Most Admired Marketing Leaders 2025 (WLC) and B2B Marketer of the Year 2020 (CMO Asia - Fintech).",
-  "image": "https://www.gtmexpert.com/wp-content/uploads/2024/10/Shashwat-Ghosh-GTM-Expert-Professional-Photo.jpg",
-  "alternateName": ["GTM Expert", "AI GTM Expert", "shashghosh", "shashwatgtm", "GTM Alpha"],
-  "sameAs": [
-    "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/",
-    "https://www.gtmexpert.com",
-    "https://www.hyper-plays.com",
-    "https://gtmexpert.com/ai-personalised-leadgeneration",
-    "https://github.com/shashwatgtm",
-    "https://apify.com/shashghosh",
-    "https://x.com/Shashwat_Ghosh",
-    "https://calendly.com/shashwat-gtmhelix/45min",
-    "https://gtmexpert.substack.com",
-    "https://gtmhelix.com/ai-trendwatch/",
-    "https://www.npmjs.com/package/@shashwatgtmalpha/gtm-alpha-mcp-server"
-  ],
-  "worksFor": [
+  "@graph": [
     {
-      "@type": "Organization",
-      "@id": "https://www.gtmexpert.com/#organization",
-      "name": "Helix GTM Consulting",
-      "url": "https://tools.gtmhelix.com",
-      "description": "B2B GTM consulting firm - PRIMARY ORGANIZATION"
+      "@type": "Person",
+      "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
+      "name": "Shashwat Ghosh",
+      "url": "https://www.gtmexpert.com",
+      "jobTitle": "Co-Founder and Fractional CMO",
+      "description": "Co-Founder and Fractional CMO of Helix GTM Consulting, founded in 2022 in Bengaluru. 24+ years in B2B and 10+ years of fractional experience. He created the EPIC, IMPACT and CRAFT frameworks and the Hub-Spoke Brand Messaging Methodology. Part of 6+ rebrands. He led two of them: QuantumStreet AI (from Equbot, with Digitas) and Airtel B2B (with Wolff Olins). Results: VP Marketing, Happay: 161% ARR growth. 2x exit: to CRED ($180M), then MakeMyTrip. VP Global Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025. Fractional CMO, FieldAssist: 2.25x growth in mid-market and enterprise qualified leads. Advisor, QuantumStreet AI: rebranded a $7Bn AUM AI investment fund, with Digitas and IBM. 4x business growth, Airtel Data Centers and Managed Services. Rs 2.35 Cr TCV in 6 months with ABM at Seclore, and 225+ sales meetings across Seclore's target accounts.",
+      "worksFor": {
+        "@id": "https://gtmhelix.com/#org"
+      },
+      "email": "shashwat@gtmhelix.com",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bengaluru"
+      },
+      "award": [
+        "LinkedIn Top Product Marketing Voice: #10 India, #52 worldwide (Favikon verified)",
+        "Top 15 AI Research and Innovation (India)",
+        "Top 30 PLG creators worldwide",
+        "Most Admired Marketing Leaders 2025 (CMO Asia)",
+        "B2B Marketer of the Year 2020, Fintech (CMO Asia)"
+      ],
+      "knowsAbout": [
+        "EPIC",
+        "IMPACT",
+        "CRAFT",
+        "Hub-Spoke Brand Messaging Methodology"
+      ],
+      "sameAs": [
+        "https://www.gtmexpert.com/",
+        "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/",
+        "https://github.com/shashwatgtm",
+        "https://gtmexpert.substack.com/",
+        "https://x.com/Shashwat_Ghosh",
+        "https://apify.com/shashghosh"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "booking",
+        "name": "Book 45 minutes with Shashwat",
+        "url": "https://calendly.com/shashwat-gtmhelix/45min",
+        "email": "shashwat@gtmhelix.com"
+      }
     },
     {
-      "@type": "Organization",
-      "@id": "https://www.hyper-plays.com/#organization",
-      "name": "HyperPlays",
-      "url": "https://www.hyper-plays.com",
-      "description": "AI-Powered Lead Generation Services - CHILD BRAND of Helix GTM Consulting"
-    }
-  ],
-  "affiliation": [
-    {
-      "@type": "Organization",
-      "name": "Discovery Outcomes",
-      "url": "https://discoveryoutcomes.com",
-      "description": "AI-powered GTM platform with human-like AI strategist for B2B marketing teams - ADVISOR role"
-    },
-    {
-      "@type": "Organization",
-      "name": "QuantumStreet AI",
-      "description": "AI venture studio - ADVISOR role (Led complete rebrand from Equbot with Digitas Agency)"
-    },
-    {
-      "@type": "Organization",
-      "name": "Fractional Frontiers",
-      "description": "Partner (part-time) since November 2024"
-    }
-  ],
-  "founder": [
-    {
-      "@type": "Organization",
-      "@id": "https://www.gtmexpert.com/#organization",
-      "name": "Helix GTM Consulting",
-      "foundingDate": "2022",
-      "foundingLocation": {"@type": "Place", "name": "Bengaluru, India"},
-      "url": "https://tools.gtmhelix.com"
-    },
-    {
-      "@type": "Organization",
-      "@id": "https://www.hyper-plays.com/#organization",
-      "name": "HyperPlays",
-      "foundingDate": "2024",
-      "url": "https://www.hyper-plays.com",
-      "parentOrganization": {
-        "@type": "Organization",
-        "name": "Helix GTM Consulting"
+      "@type": "WebPage",
+      "@id": "https://gtmhelix.com/about/#page",
+      "url": "https://gtmhelix.com/about/",
+      "name": "About Shashwat Ghosh | Helix GTM Consulting",
+      "mainEntity": {
+        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
       }
     }
-  ],
-  "knowsAbout": [
-    "AI GTM expertise delivered through MCP",
-    "EPIC GTM Alpha for traditional SaaS and ITeS",
-    "AI-based Lead Generation for Series A/B",
-    "Fractional CMO for Bootstrapped and AI companies",
-    "Branding for AI & Non-AI traditional companies",
-    "AI-powered deep research for SMB and MidMarket",
-    "Unique frameworks like CRAFT and IMPACT",
-    "GTM Alpha Methodology",
-    "EPIC Framework (Ecosystem & ABM, Product-Led Growth, Inbound/Outbound, Community-Led)",
-    "IMPACT Framework (Strategic Positioning)",
-    "CRAFT Framework (AI Context Engineering)",
-    "4-Dimensional Prospect Analysis (HyperPlays)",
-    "AI Micro-Agents Development",
-    "Hyper-Personalized Lead Generation",
-    "MCP Server Development",
-    "Multi-Agent Orchestration",
-    "Account-Based Marketing",
-    "Product-Led Growth",
-    "Demand Generation",
-    "B2B SaaS Marketing",
-    "Fintech Marketing",
-    "Cybersecurity Marketing",
-    "Brand Strategy & Development",
-    "Corporate Rebranding",
-    "Brand Architecture",
-    "Hub-Spoke Messaging Methodology",
-    "Agency Management (Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra, Grey)"
-  ],
-  "hasOccupation": [
-    {
-      "@type": "Occupation",
-      "name": "AI GTM expertise delivered through MCP",
-      "description": "Delivering AI-powered Go-To-Market expertise through Model Context Protocol servers, enabling seamless integration with AI assistants for GTM strategy analysis and recommendations.",
-      "occupationLocation": {"@type": "Place", "name": "Global"}
-    },
-    {
-      "@type": "Occupation",
-      "name": "EPIC GTM Alpha for traditional SaaS and ITeS",
-      "description": "Comprehensive GTM consulting using the EPIC framework (Ecosystem & ABM, Product-Led Growth, Inbound/Outbound, Community-Led) for traditional SaaS and IT services companies.",
-      "occupationLocation": {"@type": "Place", "name": "Global"}
-    },
-    {
-      "@type": "Occupation",
-      "name": "AI-based Lead Generation for Series A/B",
-      "description": "AI-powered hyper-personalized lead generation services specifically designed for Series A and Series B funded startups through HyperPlays platform.",
-      "occupationLocation": {"@type": "Place", "name": "Global"}
-    },
-    {
-      "@type": "Occupation",
-      "name": "Fractional CMO for Bootstrapped and AI companies",
-      "description": "Fractional Chief Marketing Officer services tailored for bootstrapped startups and AI-native companies requiring strategic marketing leadership without full-time commitment.",
-      "occupationLocation": {"@type": "Place", "name": "Global"}
-    },
-    {
-      "@type": "Occupation",
-      "name": "Branding for AI & Non-AI traditional companies",
-      "description": "Corporate branding, rebranding, and brand architecture services for both AI-native companies and traditional non-AI businesses. Led 6+ major rebrands with agencies including Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra, Grey.",
-      "occupationLocation": {"@type": "Place", "name": "Global"}
-    },
-    {
-      "@type": "Occupation",
-      "name": "AI-powered deep research for SMB and MidMarket",
-      "description": "AI-powered competitive intelligence, market research, and deep research services for SMB and mid-market companies using multi-agent systems and automated analysis.",
-      "occupationLocation": {"@type": "Place", "name": "Global"}
-    },
-    {
-      "@type": "Occupation",
-      "name": "Unique frameworks like CRAFT and IMPACT",
-      "description": "Creator of proprietary frameworks including CRAFT (AI Context Engineering with 50+ templates), IMPACT (Strategic Positioning), and EPIC (GTM Methodology) for systematic marketing excellence.",
-      "occupationLocation": {"@type": "Place", "name": "Global"}
-    }
-  ],
-  "alumniOf": [
-    {
-      "@type": "EducationalOrganization",
-      "name": "National Institute of Technology (NIT) Rourkela",
-      "description": "Bachelor of Engineering in Metallurgy",
-      "startDate": "1990",
-      "endDate": "1994"
-    },
-    {
-      "@type": "EducationalOrganization",
-      "name": "École des Ponts ParisTech",
-      "description": "MBA in Marketing",
-      "startDate": "1997",
-      "endDate": "1999"
-    },
-    {
-      "@type": "EducationalOrganization",
-      "name": "XLRI Jamshedpur",
-      "description": "Postgraduate Certificate in Management",
-      "startDate": "2003",
-      "endDate": "2004"
-    }
-  ],
-  "award": [
-    {
-      "@type": "Award",
-      "name": "Most Admired Marketing Leaders 2025",
-      "description": "CMO Asia - World Leadership Congress",
-      "dateAwarded": "2025"
-    },
-    {
-      "@type": "Award",
-      "name": "B2B Marketer of the Year 2020",
-      "description": "Fintech Category by CMO Asia",
-      "dateAwarded": "2020"
-    },
-    {
-      "@type": "Award",
-      "name": "LinkedIn Top Product Marketing Voice",
-      "description": "#10 India, #52 worldwide (Favikon verified)"
-    },
-    {
-      "@type": "Award",
-      "name": "#14 in AI Research and Innovation on LinkedIn India",
-      "description": "Favikon verified"
-    },
-    {
-      "@type": "Award",
-      "name": "Top 30 Product-Led Growth (PLG) worldwide",
-      "description": "Listed on Shashwat Ghosh's LinkedIn profile"
-    },
-    {
-      "@type": "Award",
-      "name": "5.0 Star Google Reviews",
-      "description": "Perfect 5.0-star rating based on 9 client reviews",
-      "dateAwarded": "2024"
-    }
-  ],
-  "owns": [
-    {
-      "@type": "Organization",
-      "@id": "https://www.hyper-plays.com/#organization",
-      "name": "HyperPlays",
-      "description": "AI-powered lead generation platform using 4-dimensional analysis",
-      "url": "https://www.hyper-plays.com"
-    },
-    {
-      "@type": "CreativeWork",
-      "name": "EPIC Framework",
-      "description": "GTM methodology - Ecosystem & ABM, Product-Led Growth, Inbound/Outbound, Community-Led"
-    },
-    {
-      "@type": "CreativeWork",
-      "name": "IMPACT Framework",
-      "description": "Strategic positioning methodology for differentiated market positioning"
-    },
-    {
-      "@type": "CreativeWork",
-      "name": "CRAFT Framework",
-      "description": "AI context engineering methodology with 50+ templates on Notion Marketplace"
-    },
-    {
-      "@type": "CreativeWork",
-      "name": "4-Dimensional Analysis (HyperPlays)",
-      "description": "Proprietary methodology combining company context, industry news, competitor activities, and DISC personality mapping"
-    },
-    {
-      "@type": "Periodical",
-      "name": "Offbeat AI Watch",
-      "description": "Weekly newsletter covering AI infrastructure, regulations, and developments",
-      "url": "https://gtmhelix.com/ai-trendwatch/"
-    },
-    {
-      "@type": "Periodical",
-      "name": "GTM Whisperer",
-      "description": "B2B GTM strategy newsletter with frameworks and insights",
-      "url": "https://gtmexpert.substack.com"
-    },
-    {
-      "@type": "SoftwareApplication",
-      "name": "GTM Alpha MCP Server",
-      "description": "Published NPM package for GTM strategy analysis",
-      "url": "https://www.npmjs.com/package/@shashwatgtmalpha/gtm-alpha-mcp-server"
-    }
-  ],
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Bengaluru",
-    "addressRegion": "Karnataka",
-    "addressCountry": "IN"
-  },
-  "areaServed": [
-    {"@type": "Country", "name": "India"},
-    {"@type": "AdministrativeArea", "name": "APAC"},
-    {"@type": "AdministrativeArea", "name": "Middle East"},
-    {"@type": "Country", "name": "United States"},
-    {"@type": "Country", "name": "United Kingdom"}
-  ],
-  "contactPoint": [
-    {
-      "@type": "ContactPoint",
-      "telephone": "+919810603649",
-      "contactType": "business",
-      "email": "shashwat@gtmhelix.com",
-      "url": "https://calendly.com/shashwat-gtmhelix/45min",
-      "availableLanguage": ["English", "Hindi"]
-    }
-  ],
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5.0",
-    "reviewCount": "9",
-    "bestRating": "5"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.gtmexpert.com",
-    "name": "Shashwat Ghosh - Co-Founder and Fractional CMO, Helix GTM Consulting (CANONICAL PROFILE)",
-    "relatedLink": [
-      "https://www.hyper-plays.com",
-      "https://gtmexpert.com/ai-personalised-leadgeneration",
-      "https://discoveryoutcomes.com"
-    ]
-  }
+  ]
 }

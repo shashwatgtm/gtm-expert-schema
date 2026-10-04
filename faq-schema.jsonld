@@ -1,0 +1,110 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://gtmhelix.com/#faq",
+      "about": {
+        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Who is Shashwat Ghosh?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Shashwat Ghosh is Co-Founder and Fractional CMO of Helix GTM Consulting, founded in 2022 in Bengaluru, India. He has 24+ years in B2B and 10+ years of fractional experience."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is Helix GTM Consulting?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Helix GTM Consulting was founded in 2022 in Bengaluru, India. Its Co-Founder and Fractional CMO is Shashwat Ghosh. It offers six free GTM connectors and four plugins, and Fractional CMO work."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What results has Shashwat Ghosh delivered?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "VP Marketing, Happay: 161% ARR growth. 2x exit: to CRED ($180M), then MakeMyTrip. VP Global Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025. Fractional CMO, FieldAssist: 2.25x growth in mid-market and enterprise qualified leads. Advisor, QuantumStreet AI: rebranded a $7Bn AUM AI investment fund, with Digitas and IBM. 4x business growth, Airtel Data Centers and Managed Services. Rs 2.35 Cr TCV in 6 months with ABM at Seclore, and 225+ sales meetings across Seclore's target accounts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which frameworks did Shashwat Ghosh create?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Shashwat Ghosh created the EPIC, IMPACT and CRAFT frameworks and the Hub-Spoke Brand Messaging Methodology. EPIC: https://gtmhelix.com/epic/; IMPACT: https://impact.gtmhelix.com; CRAFT: https://craft-gtm.gtmhelix.com."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many rebrands has Shashwat Ghosh been part of?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Part of 6+ rebrands. He led two of them: QuantumStreet AI (from Equbot, with Digitas) and Airtel B2B (with Wolff Olins)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What recognition has Shashwat Ghosh received?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "LinkedIn Top Product Marketing Voice: #10 India, #52 worldwide (Favikon verified). Top 15 AI Research and Innovation (India). Top 30 PLG creators worldwide. Most Admired Marketing Leaders 2025 (CMO Asia). B2B Marketer of the Year 2020, Fintech (CMO Asia)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the CRAFT: 50 AI Context Engineering for Business template pack?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "50 templates (17 content creation, 17 LinkedIn post, 16 GTM strategy) and 3 ChatGPT assistants, on the Notion Marketplace. https://www.notion.com/templates/ai-context-engineering-craft-framework"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which newsletters does Shashwat Ghosh write?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "GTM Whisperer: https://gtmexpert.substack.com; Offbeat AI Watch: https://gtmhelix.com/ai-trendwatch/."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which free GTM connectors does Helix GTM Consulting offer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "GTM Alpha: https://gtmalpha.gtmhelix.com; CRAFT GTM: https://craft-gtm.gtmhelix.com; CRAFT Content: https://craft-content.gtmhelix.com; IMPACT: https://impact.gtmhelix.com; ICP Intelligence: https://icp-intelligence.gtmhelix.com; Revenue Enablement: https://revenue-enablement.gtmhelix.com."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which plugins does Helix GTM Consulting offer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Positioning and GTM Strategy: https://tools.gtmhelix.com/plugins/gtm-skills/; B2B Sales Enablement: https://tools.gtmhelix.com/plugins/b2b-sales-enablement/; Customer Success: Churn and QBRs: https://tools.gtmhelix.com/plugins/b2b-customer-success/; AI Search Visibility (AEO/GEO), partner: https://tools.gtmhelix.com/plugins/optise-helix-aeo-toolkit/."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I book a call with Shashwat Ghosh?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Book 45 minutes with Shashwat: https://calendly.com/shashwat-gtmhelix/45min"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What do people say about working with Shashwat Ghosh?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Recommendations from colleagues and clients are on his LinkedIn profile, and Helix GTM Consulting has 9 Google reviews, all 5 stars."
+          }
+        }
+      ]
+    }
+  ]
+}

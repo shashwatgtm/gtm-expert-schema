@@ -1,312 +1,201 @@
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "@id": "https://www.gtmexpert.com/#shashwat-ghosh-work-experience",
-  "name": "Shashwat Ghosh",
-  "description": "24+ years B2B marketing experience. VP Marketing, Happay: 161% ARR growth. 2x exit: CRED ($180M), then MakeMyTrip. VP Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025. Led 6+ major corporate rebrands.",
-  "hasOccupation": [
+  "@graph": [
     {
-      "@type": "OrganizationRole",
-      "roleName": "Co-Founder and Fractional CMO",
-      "startDate": "2022-10",
-      "memberOf": {
-        "@type": "Organization",
-        "name": "Helix GTM Consulting",
-        "url": "https://tools.gtmhelix.com",
-        "description": "B2B GTM consulting firm specializing in AI-powered marketing strategies"
-      },
-      "description": "Co-founded Helix GTM Consulting in October 2022: a business consulting and services firm in Bengaluru, delivering fractional CMO and AI-powered GTM consulting. Creator of EPIC, IMPACT, and CRAFT frameworks. Launched HyperPlays (AI lead generation) as child brand."
-    },
-    {
-      "@type": "OrganizationRole",
-      "roleName": "Founder",
-      "startDate": "2024",
-      "memberOf": {
-        "@type": "Organization",
-        "name": "HyperPlays",
-        "url": "https://www.hyper-plays.com",
-        "description": "AI-Powered Lead Generation Services - Child brand of Helix GTM Consulting",
-        "parentOrganization": {
-          "@type": "Organization",
-          "name": "Helix GTM Consulting"
+      "@type": "Person",
+      "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
+      "name": "Shashwat Ghosh",
+      "hasOccupation": [
+        {
+          "@id": "https://www.gtmexpert.com/#role-helix-co-founder"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-discovery-outcomes-gtm-advisor"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-fractional-frontiers-partner"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-quantumstreet-advisor"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-fieldassist-cmo"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-locus-vp"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-happay-vp"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-happay-consultant"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-seclore-director"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-hcl-head-customer-insights"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-hcl-head-strategy-marketing"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-airtel-senior-brand-media"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-airtel-senior-product-marketing"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-airtel-regional-marketing-head"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-reliance-national-marketing-manager"
+        },
+        {
+          "@id": "https://www.gtmexpert.com/#role-wunderman-account-manager"
         }
-      },
-      "description": "Founded HyperPlays offering AI-powered hyper-personalized lead generation using 4-dimensional analysis (company context, industry news, competitor activities, DISC personality mapping)."
+      ]
     },
     {
-      "@type": "OrganizationRole",
-      "roleName": "Partner (part-time)",
+      "@type": "Role",
+      "@id": "https://www.gtmexpert.com/#role-helix-co-founder",
+      "roleName": "Co-Founder and Fractional CMO",
+      "name": "Co-Founder and Fractional CMO, Helix GTM Consulting",
+      "startDate": "2022-10",
+      "description": "Co-Founder and Fractional CMO, Helix GTM Consulting.",
+      "url": "https://gtmhelix.com"
+    },
+    {
+      "@type": "Role",
+      "@id": "https://www.gtmexpert.com/#role-discovery-outcomes-gtm-advisor",
+      "roleName": "GTM Advisor",
+      "name": "GTM Advisor, Discovery Outcomes",
+      "startDate": "2024-02",
+      "description": "GTM Advisor, Discovery Outcomes. 0 to 1 GTM Strategy: building go-to-market for an AI-powered GTM platform from scratch. Product Positioning Advisory: helping position \"human-like AI strategist\" for B2B marketing teams. Calibrated Product Launch Strategy: guiding AI-native GTM approach for market entry. Customer Acquisition Framework: designing acquisition strategy for an AI-driven lead nurturing solution. Market Positioning: positioning the platform as \"first GTM platform delivering qualified sales-ready leads on autopilot\"."
+    },
+    {
+      "@type": "Role",
+      "@id": "https://www.gtmexpert.com/#role-fractional-frontiers-partner",
+      "roleName": "Partner",
+      "name": "Partner, Fractional Frontiers",
       "startDate": "2024-11",
-      "memberOf": {
-        "@type": "Organization",
-        "name": "Fractional Frontiers"
-      },
-      "description": "Part-time partner at Fractional Frontiers (LinkedIn: Nov 2024 - Present)."
+      "description": "Partner, Fractional Frontiers."
     },
     {
-      "@type": "OrganizationRole",
-      "roleName": "Advisor",
-      "startDate": "2024",
-      "memberOf": {
-        "@type": "Organization",
-        "name": "Discovery Outcomes",
-        "url": "https://discoveryoutcomes.com",
-        "description": "AI-powered GTM platform with human-like AI strategist for B2B marketing teams, delivering qualified sales-ready leads on autopilot"
-      },
-      "description": "Strategic advisor for AI-powered GTM platform. Discovery Outcomes delivers qualified sales-ready leads on autopilot using human-like AI strategist technology."
+      "@type": "Role",
+      "@id": "https://www.gtmexpert.com/#role-quantumstreet-advisor",
+      "roleName": "Advisor, GTM, Growth and Strategy",
+      "name": "Advisor, GTM, Growth and Strategy, QuantumStreet AI",
+      "startDate": "2023-02",
+      "description": "Advisor, GTM, Growth and Strategy, QuantumStreet AI. QuantumStreet AI is EquBot's institutional business, powering $7 billion in global assets; a Silicon Valley fintech applying AI to investment strategies; offerings Portfolio as a Service and SaaS. Led Complete Rebrand: from Equbot to QuantumStreet AI with Digitas Agency. Brand Architecture Development: created new brand positioning and messaging framework. 0 to 1 GTM Strategy: advisory for one of the world's first AI funds. $7B AUM Fund Marketing: GTM advisory for an AI-powered investment platform."
     },
     {
-      "@type": "OrganizationRole",
-      "roleName": "Advisor",
-      "startDate": "2023",
-      "memberOf": {
-        "@type": "Organization",
-        "name": "QuantumStreet AI",
-        "description": "AI venture studio focused on AI-powered investment and financial technology solutions"
-      },
-      "description": "Strategic advisor for AI venture studio. LED COMPLETE REBRAND from Equbot - developed new brand architecture, positioning, and entire messaging framework with Digitas Agency."
-    },
-    {
-      "@type": "OrganizationRole",
-      "roleName": "Fractional CMO",
+      "@type": "Role",
+      "@id": "https://www.gtmexpert.com/#role-fieldassist-cmo",
+      "roleName": "CMO",
+      "name": "CMO, FieldAssist",
       "startDate": "2023-04",
       "endDate": "2024-09",
-      "memberOf": {
-        "@type": "Organization",
-        "name": "FieldAssist",
-        "url": "https://www.fieldassist.com",
-        "description": "Leading Sales Force Automation (SFA) & Distribution Management platform. Bootstrapped, profitable with $5M+ revenue.",
-        "numberOfEmployees": {
-          "@type": "QuantitativeValue",
-          "value": "200-500"
-        }
-      },
-      "description": "Fractional CMO leading comprehensive GTM transformation.",
-      "responsibilities": [
-        "FAi Launch GTM — positioning, launch plan & demand engine",
-        "DMS GTM Launch — 3-phase go-to-market strategy",
-        "Africa GTM — international expansion strategy",
-        "IST SOW, Lead Qualification, SDR process frameworks",
-        "LinkedIn Newsletter and DPDP eBook content programs",
-        "Revamped brand messaging using Hub-Spoke methodology"
-      ],
-      "achievements": [
-        "2.25× growth in mid-market & enterprise qualified leads",
-        "+30% organic website traffic (zero paid)",
-        "2× organic social growth (10.5K → 23K+ followers)",
-        "419 validated leads, 256 assigned (38 C/D/E + 28 B category)",
-        "60 enterprise accounts (28 mid + 32 large) — transformed broken processes",
-        "Revitalised Pathfinders program (Atomberg: 3.5K views record)",
-        "Uplifted 'What the F...MCG?' podcast",
-        "Big 4 roundtables (PwC, EY, Deloitte)",
-        "10+ events (Anufood, Gulfood, FA Elevate, 5 Webinars)",
-        "Case studies: Bonjour, Cello, Too Yumm, Pearl Dairy, ITC, Mars"
-      ]
+      "description": "CMO, FieldAssist. 2.25x growth in mid-market and enterprise qualified leads. +30% organic website traffic with zero paid activity. 2x organic social growth: LinkedIn followers from 10.5K to 23K+. 419 validated leads: built pipeline with 256 assigned leads (38 C/D/E + 28 B category accounts). 60 enterprise accounts in opportunity stage: 28 mid-market + 32 large company leads. FAi Launch GTM: led positioning, launch plan and demand engine for the FieldAssist AI product. DMS GTM Launch: executed a 3-phase go-to-market for the Distribution Management System. Africa GTM: concluded international GTM strategy for African markets. Big 4 Roundtables: initiated partnerships with PwC, EY and Deloitte for enterprise RTM discussions. Pathfinders Video Series: revitalized series featuring CPG founders; Atomberg episode hit 3.5K views (series record)."
     },
     {
-      "@type": "OrganizationRole",
+      "@type": "Role",
+      "@id": "https://www.gtmexpert.com/#role-locus-vp",
       "roleName": "VP Global Performance Marketing",
+      "name": "VP Global Performance Marketing, Locus",
       "startDate": "2022-02",
-      "endDate": "2023-03",
-      "memberOf": {
-        "@type": "Organization",
-        "name": "Locus",
-        "url": "https://locus.sh",
-        "description": "AI-powered logistics optimization platform. ACQUIRED by Ingka Group (largest IKEA retailer, ~90% of IKEA retail sales) in October 2025. Previously valued at $300M (2021 funding round). Remains operationally independent.",
-        "funding": "Series C - $50M total raised",
-        "parentOrganization": {
-          "@type": "Organization",
-          "name": "Ingka Group",
-          "description": "Largest IKEA retailer, ~90% of IKEA retail sales"
-        }
-      },
-      "description": "Led global performance marketing for AI logistics platform. Key team member in Locus corporate rebrand (prior to IKEA acquisition).",
-      "achievements": [
-        "$4.2M pipeline generated",
-        "203% SEA achievement",
-        "Key team member in Locus corporate rebrand (prior to IKEA acquisition)"
-      ]
+      "endDate": "2022-10",
+      "description": "VP Global Performance Marketing, Locus. $4.2M pipeline generated in H1 CY22. 79% SAO achievement: 108 sales accepted opportunities worldwide. 203% SEA region achievement: exceeded targets in Southeast Asia. $1.9M North America pipeline: 64% achievement in NA region. Managed team of 12 with $1.6M marketing budget. Built best-in-class ABM programs. Expanded marketing technology infrastructure. 99 priority keywords improved in Q2. Two Gartner mentions. Inbound SDR process streamlined with ICP activity-based lead scoring. Locus was acquired by IKEA (Ingka Group) in Oct 2025."
     },
     {
-      "@type": "OrganizationRole",
-      "roleName": "VP Marketing",
-      "startDate": "2019-10",
-      "endDate": "2021-12",
-      "memberOf": {
-        "@type": "Organization",
-        "name": "Happay",
-        "url": "https://happay.com",
-        "description": "Expense management platform. 2X EXITS: First acquired by CRED for $180M (cash and stock) in December 2021. Then expense management brand, business and team acquired by MakeMyTrip in November 2024. Serves 59,000+ SMB clients and 450+ large enterprises.",
-        "funding": "Series B - $17M raised"
-      },
-      "description": "VP Marketing, Happay: 161% ARR growth. 2x exit: CRED ($180M), then MakeMyTrip.",
-      "achievements": [
-        "161% ARR growth",
-        "+178% Enterprise deal size increase",
-        "65-72% Marketing-sourced pipeline",
-        "VP Marketing, Happay: 161% ARR growth. 2x exit: CRED ($180M), then MakeMyTrip.",
-        "B2B Marketer of the Year 2020 (CMO Asia - Fintech)"
-      ]
+      "@type": "Role",
+      "@id": "https://www.gtmexpert.com/#role-happay-vp",
+      "roleName": "Vice President Marketing",
+      "name": "Vice President Marketing, Happay",
+      "startDate": "2019-11",
+      "endDate": "2022-01",
+      "description": "Vice President Marketing, Happay. Responsible for twin growth engines of Inbound and Outbound Marketing, ABM, Sales enablement and Inside Sales function. 161% ARR growth. +178% Enterprise deal size increase. 65-72% Marketing-sourced pipeline. Happay was named among the fastest growing technology companies in Deloitte Technology Fast 50 India 2020. 2x exit: to CRED ($180M), then MakeMyTrip."
     },
     {
-      "@type": "OrganizationRole",
-      "roleName": "Director Product Marketing",
-      "startDate": "2017-01",
+      "@type": "Role",
+      "@id": "https://www.gtmexpert.com/#role-happay-consultant",
+      "roleName": "Strategic Marketing Consultant",
+      "name": "Strategic Marketing Consultant, Happay",
+      "startDate": "2018-04",
       "endDate": "2019-10",
-      "memberOf": {
-        "@type": "Organization",
-        "name": "Seclore",
-        "url": "https://seclore.com",
-        "description": "Enterprise data security platform. Series C funded: $27M (May 2022), bringing total raised to $46M. Led by Origami Capital Partners and Oquirrh Ventures. Serves 2,000+ companies and government organizations in 29 countries. Notable customers: American Express, Applied Materials, ADM, Saudi Telecom, ICICI Group, Ford. Previous investors: Helion Venture Partners, VenturEast (achieved 17.5X return on seed investment).",
-        "funding": "Series C - $46M total raised"
-      },
-      "description": "Director Product Marketing for enterprise cybersecurity company.",
-      "achievements": [
-        "165% Revenue growth",
-        "Global product marketing strategy",
-        "Enterprise sales enablement"
-      ]
+      "description": "Strategic Marketing Consultant, Happay. 2019 CIO Choice award for Happay (best Travel and Expense Management Cloud Solution 2019). Happay CFO Benchmark Report 2018."
     },
     {
-      "@type": "OrganizationRole",
-      "roleName": "Head of Marketing",
-      "startDate": "2011",
-      "endDate": "2016",
-      "memberOf": {
-        "@type": "Organization",
-        "name": "Airtel Business",
-        "description": "Enterprise division of Bharti Airtel, India's largest telecom company",
-        "parentOrganization": {
-          "@type": "Organization",
-          "name": "Bharti Airtel"
-        }
-      },
-      "description": "Head of Marketing for enterprise telecom division. Instrumental in 2X Airtel Business rebrands: First rebrand with Wolff Olins, second rebrand with JWT and Brand Union.",
-      "achievements": [
-        "4× Business growth",
-        "Instrumental in 2X Airtel Business rebrands: First rebrand with Wolff Olins, second rebrand with JWT and Brand Union"
-      ]
+      "@type": "Role",
+      "@id": "https://www.gtmexpert.com/#role-seclore-director",
+      "roleName": "Director of Product Marketing",
+      "name": "Director of Product Marketing, Seclore",
+      "startDate": "2016-07",
+      "endDate": "2017-10",
+      "description": "Director of Product Marketing, Seclore. Overall marketing strategy including messaging, positioning, definition and execution of product marketing programs, and PR for the Middle East and India. 165% revenue growth. Rs 2.35 Cr TCV in 6 months through Account-Based Marketing. 85%+ of regional sales pipeline and revenue. 225+ sales meetings for target accounts. ABM model for 70+ enterprises. Built and managed a marketing team of 7 with a Rs 1.5 Cr annual budget. 74+ content pieces. Gartner Market Guide coverage through an analyst program. 5 additional analyst mentions. Frost & Sullivan award through the analyst relations program."
     },
     {
-      "@type": "OrganizationRole",
-      "roleName": "Marketing Manager",
-      "startDate": "2006",
-      "endDate": "2011",
-      "memberOf": {
-        "@type": "Organization",
-        "name": "HCL Infosystems",
-        "description": "IT services and distribution company. Restructured into multiple entities."
-      },
-      "description": "Marketing Manager at HCL Infosystems. Key team member in major corporate rebrand - HCL Infosystems restructured into HCL Services and 3 other companies.",
-      "achievements": [
-        "Key team member in major corporate rebrand - HCL Infosystems restructured into HCL Services and 3 other companies"
-      ]
+      "@type": "Role",
+      "@id": "https://www.gtmexpert.com/#role-hcl-head-customer-insights",
+      "roleName": "Head, Customer Insights, Brand & New Projects (Office Automation)",
+      "name": "Head, Customer Insights, Brand & New Projects (Office Automation), HCL Infosystems Ltd.",
+      "startDate": "2013-02",
+      "endDate": "2016-05",
+      "description": "Head, Customer Insights, Brand & New Projects (Office Automation), HCL Infosystems Ltd.. Started the marketing department in HCL Office Automation; new business strategy, marketing campaigns and inside sales operations for the Office Automation Division; entry strategy for Africa, CIS and MEA. Earlier: strategies to regain distribution and services market share, channel partner prioritization, a margin improvement exercise, a central price committee, and value propositions and GTM plans for OEM sell-through products."
     },
     {
-      "@type": "OrganizationRole",
-      "roleName": "Senior Marketing Manager",
-      "startDate": "2004",
-      "endDate": "2006",
-      "memberOf": {
-        "@type": "Organization",
-        "name": "Reliance Communications",
-        "description": "Major Indian telecommunications company"
-      },
-      "description": "Senior Marketing Manager for enterprise business. Key team member in Reliance Communications Enterprise rebrand executed with DDB Mudra and Grey agencies.",
-      "achievements": [
-        "Key team member in Reliance Communications Enterprise rebrand executed with DDB Mudra and Grey agencies"
-      ]
+      "@type": "Role",
+      "@id": "https://www.gtmexpert.com/#role-hcl-head-strategy-marketing",
+      "roleName": "Head, Strategy & Marketing (Office Automation)",
+      "name": "Head, Strategy & Marketing (Office Automation), HCL Infosystems Ltd.",
+      "startDate": "2011-11",
+      "endDate": "2013-02",
+      "description": "Head, Strategy & Marketing (Office Automation), HCL Infosystems Ltd.."
     },
     {
-      "@type": "OrganizationRole",
+      "@type": "Role",
+      "@id": "https://www.gtmexpert.com/#role-airtel-senior-brand-media",
+      "roleName": "Senior Brand & Media Manager",
+      "name": "Senior Brand & Media Manager, Airtel",
+      "startDate": "2010-03",
+      "endDate": "2011-10",
+      "description": "Senior Brand & Media Manager, Airtel. Brand ATL and BTL, communication and social media plans; worked with brand consultants Wolff Olins on the value proposition, new brand identity and tools to transform the B2B business; GTM plans for new products. 4x business growth, Airtel Data Centers and Managed Services (source: Kunwar B. Kishore Arora's recommendation: \"We grew the DC & MS business by 4X in 3 Years\")."
+    },
+    {
+      "@type": "Role",
+      "@id": "https://www.gtmexpert.com/#role-airtel-senior-product-marketing",
+      "roleName": "Senior Product Marketing Manager, Data, Voice & VAS",
+      "name": "Senior Product Marketing Manager, Data, Voice & VAS, Airtel",
+      "startDate": "2008-03",
+      "endDate": "2010-03",
+      "description": "Senior Product Marketing Manager, Data, Voice & VAS, Airtel."
+    },
+    {
+      "@type": "Role",
+      "@id": "https://www.gtmexpert.com/#role-airtel-regional-marketing-head",
+      "roleName": "Regional Marketing Head, West",
+      "name": "Regional Marketing Head, West, Airtel",
+      "startDate": "2007-06",
+      "endDate": "2008-03",
+      "description": "Regional Marketing Head, West, Airtel."
+    },
+    {
+      "@type": "Role",
+      "@id": "https://www.gtmexpert.com/#role-reliance-national-marketing-manager",
+      "roleName": "National Marketing Manager, Broadband",
+      "name": "National Marketing Manager, Broadband, Reliance Communications",
+      "startDate": "2004-01",
+      "endDate": "2007-05",
+      "description": "National Marketing Manager, Broadband, Reliance Communications. Marketing and media strategy to roll out broadband; launched Centrex, Business Internet, VPN and Audio & Video Conferencing for large and SME segments. Key role in launching Reliance NetConnect for enterprises and broadband for residential customers, and Reliance IndiaCall in the United Kingdom using radio as prime media."
+    },
+    {
+      "@type": "Role",
+      "@id": "https://www.gtmexpert.com/#role-wunderman-account-manager",
       "roleName": "Account Manager",
-      "startDate": "1999",
-      "endDate": "2003",
-      "memberOf": {
-        "@type": "Organization",
-        "name": "Wunderman",
-        "description": "Global advertising agency (WPP network)"
-      },
-      "description": "Started career in advertising at Wunderman managing B2B accounts."
+      "name": "Account Manager, Wunderman (a Y&R, WPP agency)",
+      "startDate": "2000-04",
+      "endDate": "2004-01",
+      "description": "Account Manager, Wunderman (a Y&R, WPP agency). Integrated communication, loyalty programs and strategic alliances; launched the first insurance loyalty program in India and the first B2B loyalty program in India."
     }
-  ],
-  "careerHighlights": {
-    "@type": "ItemList",
-    "name": "Career Highlights",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "3 Successful Exits",
-        "description": "VP Marketing, Happay: 161% ARR growth. 2x exit: CRED ($180M), then MakeMyTrip. VP Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025."
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "6+ Corporate Rebrands",
-        "description": "Led/participated in major rebrands: QuantumStreet AI (Digitas), Airtel Business 2X (Wolff Olins, JWT, Brand Union), FieldAssist (Hub-Spoke), HCL Infosystems (restructure), Reliance Communications (DDB Mudra, Grey), Locus (pre-IKEA)"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "24+ Years Experience",
-        "description": "B2B marketing leadership across SaaS, Fintech, Telecom, IT Services"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Award-Winning Performance",
-        "description": "B2B Marketer of Year 2020 (CMO Asia), Most Admired Marketing Leaders 2025 (WLC)"
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Framework Creator",
-        "description": "Created EPIC, IMPACT, CRAFT frameworks and Hub-Spoke Messaging Methodology"
-      }
-    ]
-  },
-  "brandingExpertise": {
-    "@type": "ItemList",
-    "name": "Corporate Rebranding Experience",
-    "description": "Led 6+ major corporate rebrands across telecom, technology, and SaaS sectors",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "QuantumStreet AI Rebrand",
-        "description": "Led complete rebrand from Equbot - developed new brand architecture, positioning, and entire messaging framework with Digitas Agency"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Airtel Business 2X Rebrands",
-        "description": "Instrumental in 2X Airtel Business rebrands: First rebrand with Wolff Olins, second rebrand with JWT and Brand Union"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "FieldAssist Brand Messaging",
-        "description": "Revamped brand messaging using Hub-Spoke methodology"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "HCL Infosystems Restructure",
-        "description": "Key team member in major corporate rebrand - HCL Infosystems restructured into HCL Services and 3 other companies"
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Reliance Communications Enterprise",
-        "description": "Key team member in rebrand executed with DDB Mudra and Grey agencies"
-      },
-      {
-        "@type": "ListItem",
-        "position": 6,
-        "name": "Locus Corporate Rebrand",
-        "description": "Key team member in Locus corporate rebrand (prior to IKEA acquisition)"
-      }
-    ]
-  }
+  ]
 }

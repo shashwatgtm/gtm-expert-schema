@@ -1,0 +1,984 @@
+{
+  "_about": "Single source of truth for Shashwat Ghosh and Helix GTM Consulting. Every public schema file, the README and the site bio (work/bio.json in the project repo) are generated from this file. Sources: linkedin-2026-10-04 (owner's LinkedIn screenshots), owner-2026-10-04 (owner statements), live-about-page (https://gtmhelix.com/about/ text kept as is). Where they differ, the owner's facts win.",
+  "capturedAt": "2026-10-04",
+  "sources": {
+    "linkedin-2026-10-04": "Owner's LinkedIn screenshots, 4 October 2026",
+    "owner-2026-10-04": "Owner's statements, 4 October 2026",
+    "live-about-page": "Text already on https://gtmhelix.com/about/ and https://gtmhelix.com/services/ before this run"
+  },
+  "identity": {
+    "person": {
+      "id": "https://www.gtmexpert.com/#shashwat-ghosh",
+      "url": "https://www.gtmexpert.com",
+      "name": "Shashwat Ghosh",
+      "jobTitle": "Co-Founder and Fractional CMO",
+      "email": "shashwat@gtmhelix.com",
+      "city": "Bengaluru",
+      "sameAs": [
+        "https://www.gtmexpert.com/",
+        "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/",
+        "https://github.com/shashwatgtm",
+        "https://gtmexpert.substack.com/",
+        "https://x.com/Shashwat_Ghosh",
+        "https://apify.com/shashghosh"
+      ],
+      "contactPoint": {
+        "contactType": "booking",
+        "name": "Book 45 minutes with Shashwat",
+        "url": "https://calendly.com/shashwat-gtmhelix/45min",
+        "email": "shashwat@gtmhelix.com"
+      },
+      "aboutPage": "https://gtmhelix.com/about/",
+      "source": "owner-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    "organization": {
+      "id": "https://gtmhelix.com/#org",
+      "url": "https://gtmhelix.com",
+      "name": "Helix GTM Consulting",
+      "alternateName": [
+        "Helix GTM",
+        "GTM Helix"
+      ],
+      "foundingDate": "2022",
+      "city": "Bengaluru",
+      "country": "India",
+      "sameAs": [
+        "https://www.linkedin.com/company/helixgtmconsulting",
+        "https://github.com/shashwatgtm"
+      ],
+      "areaServed": [
+        "India",
+        "Middle East and Africa",
+        "Southeast Asia",
+        "United Kingdom",
+        "United States",
+        "Western Europe"
+      ],
+      "email": "shashwat@gtmhelix.com",
+      "source": "owner-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    "hyperplays": {
+      "id": "https://www.hyper-plays.com/#org",
+      "name": "HyperPlays",
+      "url": "https://www.hyper-plays.com/",
+      "parentOrganization": "https://gtmhelix.com/#org",
+      "source": "owner-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    "googleBusinessProfile": {
+      "shortLink": "https://share.google/CJTplvMddZexaE163",
+      "resolvedTo": "https://www.google.com/search?kgmid=/g/11k58ncv_x&q=Shashwat+Ghosh",
+      "businessName": null,
+      "category": null,
+      "website": null,
+      "checked": "2026-10-04",
+      "note": "A plain HTTP request follows the short link to a Google Search page (knowledge id /g/11k58ncv_x, query Shashwat Ghosh) that is a script redirect with no business name, category or website in its text; the Maps address for the same id shows only the title Google Maps. Nothing was added to sameAs."
+    }
+  },
+  "headline": [
+    {
+      "id": "years-b2b",
+      "text": "24+ years in B2B",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "years-fractional",
+      "text": "10+ years of fractional experience",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "rebrands",
+      "text": "Part of 6+ rebrands. He led two of them: QuantumStreet AI (from Equbot, with Digitas) and Airtel B2B (with Wolff Olins).",
+      "source": "owner-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "frameworks",
+      "text": "He created the EPIC, IMPACT and CRAFT frameworks and the Hub-Spoke Brand Messaging Methodology.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "happay",
+      "text": "VP Marketing, Happay: 161% ARR growth. 2x exit: to CRED ($180M), then MakeMyTrip.",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "locus",
+      "text": "VP Global Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025.",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "fieldassist",
+      "text": "Fractional CMO, FieldAssist: 2.25x growth in mid-market and enterprise qualified leads.",
+      "source": "owner-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "quantumstreet",
+      "text": "Advisor, QuantumStreet AI: rebranded a $7Bn AUM AI investment fund, with Digitas and IBM.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "airtel",
+      "text": "4x business growth, Airtel Data Centers and Managed Services.",
+      "evidence": "Kunwar B. Kishore Arora's recommendation: \"We grew the DC & MS business by 4X in 3 Years\"",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "seclore",
+      "text": "Rs 2.35 Cr TCV in 6 months with ABM at Seclore, and 225+ sales meetings across Seclore's target accounts.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    }
+  ],
+  "awards": [
+    {
+      "id": "top-product-marketing-voice",
+      "text": "LinkedIn Top Product Marketing Voice: #10 India, #52 worldwide (Favikon verified)",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "ai-research-innovation",
+      "text": "Top 15 AI Research and Innovation (India)",
+      "source": "owner-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "plg-creators",
+      "text": "Top 30 PLG creators worldwide",
+      "source": "owner-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "most-admired",
+      "text": "Most Admired Marketing Leaders 2025 (CMO Asia)",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "marketer-of-year",
+      "text": "B2B Marketer of the Year 2020, Fintech (CMO Asia)",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    }
+  ],
+  "frameworks": [
+    {
+      "id": "epic",
+      "name": "EPIC",
+      "url": "https://gtmhelix.com/epic/",
+      "description": "Ecosystem and ABM, Product-Led Growth, Inbound and Outbound, Community-Led. It scores the four go-to-market motions from 1 to 10 for your stage, deal size, sales cycle and market, and names the one to lead with.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "impact",
+      "name": "IMPACT",
+      "url": "https://impact.gtmhelix.com",
+      "description": "Identify Champions, Map Alternatives, Pinpoint Value, Anchor Market, Craft Message, Translate Execution: six steps from the buyer who wants you to a message your team can use.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "craft",
+      "name": "CRAFT",
+      "url": "https://craft-gtm.gtmhelix.com",
+      "description": "Character, Result, Artifact, Frame, Timeline: the five things to tell an AI assistant so its answer is specific instead of generic.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "hub-spoke",
+      "name": "Hub-Spoke Brand Messaging Methodology",
+      "url": null,
+      "description": "A methodology for effective branding, created by Shashwat Ghosh.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    }
+  ],
+  "craftTemplates": {
+    "name": "CRAFT: 50 AI Context Engineering for Business",
+    "platform": "Notion Marketplace",
+    "url": "https://www.notion.com/templates/ai-context-engineering-craft-framework",
+    "templates": 50,
+    "breakdown": {
+      "content creation": 17,
+      "LinkedIn post": 17,
+      "GTM strategy": 16
+    },
+    "chatgptAssistants": 3,
+    "source": "owner-2026-10-04",
+    "captured": "2026-10-04"
+  },
+  "services": [
+    {
+      "id": "fractional-cmo",
+      "name": "Fractional CMO",
+      "url": "https://gtmhelix.com/services/",
+      "description": "Shashwat leads marketing inside the company as your Fractional CMO. He owns the marketing and demand generation plans, builds and mentors the team, sets up processes and spend, tracks the few results that matter each quarter, and is a sounding board for the executive team.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "epic-motion-choice",
+      "name": "EPIC motion choice",
+      "url": "https://gtmhelix.com/epic/",
+      "description": "Scores the four go-to-market motions for your stage, deal size, sales cycle and market, and names the one to lead with.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "positioning",
+      "name": "Positioning",
+      "url": "https://impact.gtmhelix.com",
+      "description": "The IMPACT framework finds the market you can own and the message to win it.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    }
+  ],
+  "newsletters": [
+    {
+      "id": "gtm-whisperer",
+      "name": "GTM Whisperer",
+      "url": "https://gtmexpert.substack.com",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "offbeat-ai-watch",
+      "name": "Offbeat AI Watch",
+      "url": "https://gtmhelix.com/ai-trendwatch/",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    }
+  ],
+  "connectors": [
+    {
+      "id": "gtm-alpha",
+      "name": "GTM Alpha",
+      "url": "https://gtmalpha.gtmhelix.com",
+      "mcp": "https://gtmalpha.gtmhelix.com/mcp",
+      "tools": 3,
+      "description": "Scores the four EPIC go-to-market motions from 1 to 10 with Shashwat Ghosh's documented rubric and names the one to lead with. The web app gives a 180 day plan; in Claude you choose 30, 60 or 90 days.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "craft-gtm",
+      "name": "CRAFT GTM",
+      "url": "https://craft-gtm.gtmhelix.com",
+      "mcp": "https://craft-gtm.gtmhelix.com/mcp",
+      "tools": 8,
+      "description": "Eight planning tools: a product-market fit scorecard, launch plans, interview guides, retention, partner and crisis playbooks, battle cards and a CRAFT review of GTM documents.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "craft-content",
+      "name": "CRAFT Content",
+      "url": "https://craft-content.gtmhelix.com",
+      "mcp": "https://craft-content.gtmhelix.com/mcp",
+      "tools": 8,
+      "description": "Eight content tools: case studies, newsletters, webinar scripts, repurposed posts, thought leadership series, testimonial requests, sales content and a CRAFT review of drafts.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "impact",
+      "name": "IMPACT",
+      "url": "https://impact.gtmhelix.com",
+      "mcp": "https://impact.gtmhelix.com/mcp",
+      "tools": 8,
+      "description": "Eight positioning tools on the IMPACT framework: champions, alternatives, value, market anchor, message and execution, plus a full audit and the framework guide.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "icp",
+      "name": "ICP Intelligence",
+      "url": "https://icp-intelligence.gtmhelix.com",
+      "mcp": "https://icp-intelligence.gtmhelix.com/mcp",
+      "tools": 9,
+      "description": "Nine ideal customer profile tools: deep dive, scoring model, buying group, TAM, SAM and SOM, lookalikes, account priorities, gaps, changes over time and interview themes.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "revenue",
+      "name": "Revenue Enablement",
+      "url": "https://revenue-enablement.gtmhelix.com",
+      "mcp": "https://revenue-enablement.gtmhelix.com/mcp",
+      "tools": 12,
+      "description": "Twelve sales tools: account plans, deal strategy, discovery questions, ROI cases, mutual action plans, win and loss reviews, proposals, emails, demos, pricing, champions and competitive traps.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    }
+  ],
+  "plugins": [
+    {
+      "id": "gtm-skills",
+      "name": "Positioning and GTM Strategy",
+      "url": "https://tools.gtmhelix.com/plugins/gtm-skills/",
+      "repo": "https://github.com/shashwatgtm/gtm-claude-skills",
+      "licence": "MIT",
+      "description": "Positioning and GTM Strategy is a free Claude plugin with three skills built on Shashwat Ghosh's own frameworks.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "b2b-sales-enablement",
+      "name": "B2B Sales Enablement",
+      "url": "https://tools.gtmhelix.com/plugins/b2b-sales-enablement/",
+      "repo": "https://github.com/shashwatgtm/b2b-sales-enablement",
+      "licence": "MIT",
+      "description": "B2B Sales Enablement is a free Claude plugin with three skills for sellers.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "b2b-customer-success",
+      "name": "Customer Success: Churn and QBRs",
+      "url": "https://tools.gtmhelix.com/plugins/b2b-customer-success/",
+      "repo": "https://github.com/shashwatgtm/b2b-customer-success",
+      "licence": "MIT",
+      "description": "Customer Success: Churn and QBRs is a free Claude plugin with five skills built on the GUARD framework: Gauge account health, Uplift expansion, Activate onboarding, Review with a QBR, and Defend the renewal.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "optise-helix-aeo-toolkit",
+      "name": "AI Search Visibility (AEO/GEO), partner",
+      "url": "https://tools.gtmhelix.com/plugins/optise-helix-aeo-toolkit/",
+      "repo": "https://github.com/shashwatgtm/optise-helix-aeo-skills",
+      "licence": "Optise and Helix licence (free to use; the shared operating principles file is MIT)",
+      "description": "AI Search Visibility (AEO/GEO) is a free partner plugin with six skills, built with Optise on its FITq and RACE frameworks.",
+      "source": "live-about-page",
+      "captured": "2026-10-04"
+    }
+  ],
+  "roles": [
+    {
+      "id": "helix-co-founder",
+      "title": "Co-Founder and Fractional CMO",
+      "organization": "Helix GTM Consulting",
+      "start": "2022-10",
+      "end": null,
+      "location": "Bengaluru, Karnataka, India",
+      "mode": "Hybrid",
+      "employmentType": null,
+      "bullets": [],
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "discovery-outcomes-gtm-advisor",
+      "title": "GTM Advisor",
+      "organization": "Discovery Outcomes",
+      "start": "2024-02",
+      "end": null,
+      "location": "Noida, Uttar Pradesh, India",
+      "mode": "Remote",
+      "employmentType": null,
+      "bullets": [
+        "0 to 1 GTM Strategy: building go-to-market for an AI-powered GTM platform from scratch.",
+        "Product Positioning Advisory: helping position \"human-like AI strategist\" for B2B marketing teams.",
+        "Calibrated Product Launch Strategy: guiding AI-native GTM approach for market entry.",
+        "Customer Acquisition Framework: designing acquisition strategy for an AI-driven lead nurturing solution.",
+        "Market Positioning: positioning the platform as \"first GTM platform delivering qualified sales-ready leads on autopilot\"."
+      ],
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "fractional-frontiers-partner",
+      "title": "Partner",
+      "organization": "Fractional Frontiers",
+      "start": "2024-11",
+      "end": null,
+      "location": null,
+      "mode": "Hybrid",
+      "employmentType": "Part-time",
+      "bullets": [],
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "quantumstreet-advisor",
+      "title": "Advisor, GTM, Growth and Strategy",
+      "organization": "QuantumStreet AI",
+      "start": "2023-02",
+      "end": null,
+      "location": "Bengaluru",
+      "mode": "Hybrid",
+      "employmentType": null,
+      "bullets": [
+        "QuantumStreet AI is EquBot's institutional business, powering $7 billion in global assets; a Silicon Valley fintech applying AI to investment strategies; offerings Portfolio as a Service and SaaS.",
+        "Led Complete Rebrand: from Equbot to QuantumStreet AI with Digitas Agency.",
+        "Brand Architecture Development: created new brand positioning and messaging framework.",
+        "0 to 1 GTM Strategy: advisory for one of the world's first AI funds.",
+        "$7B AUM Fund Marketing: GTM advisory for an AI-powered investment platform."
+      ],
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "fieldassist-cmo",
+      "title": "CMO",
+      "organization": "FieldAssist",
+      "start": "2023-04",
+      "end": "2024-09",
+      "location": null,
+      "mode": null,
+      "employmentType": null,
+      "bullets": [
+        "2.25x growth in mid-market and enterprise qualified leads.",
+        "+30% organic website traffic with zero paid activity.",
+        "2x organic social growth: LinkedIn followers from 10.5K to 23K+.",
+        "419 validated leads: built pipeline with 256 assigned leads (38 C/D/E + 28 B category accounts).",
+        "60 enterprise accounts in opportunity stage: 28 mid-market + 32 large company leads.",
+        "FAi Launch GTM: led positioning, launch plan and demand engine for the FieldAssist AI product.",
+        "DMS GTM Launch: executed a 3-phase go-to-market for the Distribution Management System.",
+        "Africa GTM: concluded international GTM strategy for African markets.",
+        "Big 4 Roundtables: initiated partnerships with PwC, EY and Deloitte for enterprise RTM discussions.",
+        "Pathfinders Video Series: revitalized series featuring CPG founders; Atomberg episode hit 3.5K views (series record)."
+      ],
+      "note": "The headline on the sites stays \"Fractional CMO, FieldAssist\"; LinkedIn's title is \"CMO\". Both are correct.",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "locus-vp",
+      "title": "VP Global Performance Marketing",
+      "organization": "Locus",
+      "start": "2022-02",
+      "end": "2022-10",
+      "location": "Bengaluru",
+      "mode": "Hybrid",
+      "employmentType": null,
+      "bullets": [
+        "$4.2M pipeline generated in H1 CY22.",
+        "79% SAO achievement: 108 sales accepted opportunities worldwide.",
+        "203% SEA region achievement: exceeded targets in Southeast Asia.",
+        "$1.9M North America pipeline: 64% achievement in NA region.",
+        "Managed team of 12 with $1.6M marketing budget.",
+        "Built best-in-class ABM programs.",
+        "Expanded marketing technology infrastructure.",
+        "99 priority keywords improved in Q2.",
+        "Two Gartner mentions.",
+        "Inbound SDR process streamlined with ICP activity-based lead scoring.",
+        "Locus was acquired by IKEA (Ingka Group) in Oct 2025."
+      ],
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "happay-vp",
+      "title": "Vice President Marketing",
+      "organization": "Happay",
+      "start": "2019-11",
+      "end": "2022-01",
+      "location": "Bengaluru",
+      "mode": null,
+      "employmentType": null,
+      "bullets": [
+        "Responsible for twin growth engines of Inbound and Outbound Marketing, ABM, Sales enablement and Inside Sales function.",
+        "161% ARR growth.",
+        "+178% Enterprise deal size increase.",
+        "65-72% Marketing-sourced pipeline.",
+        "Happay was named among the fastest growing technology companies in Deloitte Technology Fast 50 India 2020.",
+        "2x exit: to CRED ($180M), then MakeMyTrip."
+      ],
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "happay-consultant",
+      "title": "Strategic Marketing Consultant",
+      "organization": "Happay",
+      "start": "2018-04",
+      "end": "2019-10",
+      "location": null,
+      "mode": null,
+      "employmentType": "Contract",
+      "bullets": [
+        "2019 CIO Choice award for Happay (best Travel and Expense Management Cloud Solution 2019).",
+        "Happay CFO Benchmark Report 2018."
+      ],
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "seclore-director",
+      "title": "Director of Product Marketing",
+      "organization": "Seclore",
+      "start": "2016-07",
+      "end": "2017-10",
+      "location": "Mumbai Metropolitan Region",
+      "mode": null,
+      "employmentType": null,
+      "bullets": [
+        "Overall marketing strategy including messaging, positioning, definition and execution of product marketing programs, and PR for the Middle East and India.",
+        "165% revenue growth.",
+        "Rs 2.35 Cr TCV in 6 months through Account-Based Marketing.",
+        "85%+ of regional sales pipeline and revenue.",
+        "225+ sales meetings for target accounts.",
+        "ABM model for 70+ enterprises.",
+        "Built and managed a marketing team of 7 with a Rs 1.5 Cr annual budget.",
+        "74+ content pieces.",
+        "Gartner Market Guide coverage through an analyst program.",
+        "5 additional analyst mentions.",
+        "Frost & Sullivan award through the analyst relations program."
+      ],
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "hcl-head-customer-insights",
+      "title": "Head, Customer Insights, Brand & New Projects (Office Automation)",
+      "organization": "HCL Infosystems Ltd.",
+      "start": "2013-02",
+      "end": "2016-05",
+      "location": "Noida Area, India",
+      "mode": null,
+      "employmentType": null,
+      "bullets": [
+        "Started the marketing department in HCL Office Automation; new business strategy, marketing campaigns and inside sales operations for the Office Automation Division; entry strategy for Africa, CIS and MEA.",
+        "Earlier: strategies to regain distribution and services market share, channel partner prioritization, a margin improvement exercise, a central price committee, and value propositions and GTM plans for OEM sell-through products."
+      ],
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "hcl-head-strategy-marketing",
+      "title": "Head, Strategy & Marketing (Office Automation)",
+      "organization": "HCL Infosystems Ltd.",
+      "start": "2011-11",
+      "end": "2013-02",
+      "location": "Noida Area, India",
+      "mode": null,
+      "employmentType": null,
+      "bullets": [],
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "airtel-senior-brand-media",
+      "title": "Senior Brand & Media Manager",
+      "organization": "Airtel",
+      "start": "2010-03",
+      "end": "2011-10",
+      "location": null,
+      "mode": null,
+      "employmentType": null,
+      "bullets": [
+        "Brand ATL and BTL, communication and social media plans; worked with brand consultants Wolff Olins on the value proposition, new brand identity and tools to transform the B2B business; GTM plans for new products.",
+        "4x business growth, Airtel Data Centers and Managed Services (source: Kunwar B. Kishore Arora's recommendation: \"We grew the DC & MS business by 4X in 3 Years\")."
+      ],
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "airtel-senior-product-marketing",
+      "title": "Senior Product Marketing Manager, Data, Voice & VAS",
+      "organization": "Airtel",
+      "start": "2008-03",
+      "end": "2010-03",
+      "location": null,
+      "mode": null,
+      "employmentType": null,
+      "bullets": [],
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "airtel-regional-marketing-head",
+      "title": "Regional Marketing Head, West",
+      "organization": "Airtel",
+      "start": "2007-06",
+      "end": "2008-03",
+      "location": null,
+      "mode": null,
+      "employmentType": null,
+      "bullets": [],
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "reliance-national-marketing-manager",
+      "title": "National Marketing Manager, Broadband",
+      "organization": "Reliance Communications",
+      "start": "2004-01",
+      "end": "2007-05",
+      "location": null,
+      "mode": null,
+      "employmentType": null,
+      "bullets": [
+        "Marketing and media strategy to roll out broadband; launched Centrex, Business Internet, VPN and Audio & Video Conferencing for large and SME segments.",
+        "Key role in launching Reliance NetConnect for enterprises and broadband for residential customers, and Reliance IndiaCall in the United Kingdom using radio as prime media."
+      ],
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "id": "wunderman-account-manager",
+      "title": "Account Manager",
+      "organization": "Wunderman (a Y&R, WPP agency)",
+      "start": "2000-04",
+      "end": "2004-01",
+      "location": null,
+      "mode": null,
+      "employmentType": null,
+      "bullets": [
+        "Integrated communication, loyalty programs and strategic alliances; launched the first insurance loyalty program in India and the first B2B loyalty program in India."
+      ],
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    }
+  ],
+  "testimonials": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/details/recommendations/",
+      "author": "Suryadeep Verma",
+      "headline": "Chief Marketing Officer at Comviva Technologies",
+      "date": "2017-10-09",
+      "relationship": "managed Shashwat directly",
+      "text": "Shashwat is an extremely astute and intelligent marketing professional. One of the rare breed to marketers that are able to strategically plan and execute programs with equal diligence. Has an extremely balanced and well-rounded perspective on any initiative. Always a great team person and colleague to depend on.",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/details/recommendations/",
+      "author": "Naveen Surapaneni",
+      "headline": "Strategy | Business Development | Marketing | B2B Sales | Sales Operations",
+      "date": "2017-09-25",
+      "relationship": "managed Shashwat directly",
+      "text": "Shashwat is a passionate marketing professional with a successful track record of nurturing and building strong B2B brands. His sharp insights, strong creative flair and understanding of technology landscape, has enabled him to conceptualize and launch impactful marketing programmes and campaigns. Shaswat displayed tremendous collaborative skills to build robust marketing ecosystem including diverse internal and external stakeholders. With his rounded experience of working both on agency as well as client side, he was able to get the best out of the agency partners. It was a pleasure working with Shaswat. Wishing him all the very best for his future endeavors.",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/details/recommendations/",
+      "author": "Debashish Duttagupta",
+      "headline": "Business Head, Strategic Partner Acquisition and Growth at Ageas Federal Life Insurance",
+      "date": "2017-09-17",
+      "relationship": "managed Shashwat directly",
+      "text": "@Shashwat is Sharp, Analytical, Tenacious, Resilient, Confident, Intelligent, Creative and has tremendous amount of Common Sense to lead & manage People and Business !",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/details/recommendations/",
+      "author": "Rajendra Gupta",
+      "headline": "Marketing & Communications Professional",
+      "date": "2017-09-17",
+      "relationship": "managed Shashwat directly",
+      "text": "Shashwat and I worked together during the initial phase of Reliance Infocom. He is not only strategically strong, but also a very hard working guy. I wish him all the very best in his future endeavours",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/details/recommendations/",
+      "author": "Kunwar B. Kishore Arora",
+      "headline": "CEO | MD | COO",
+      "date": "2016-05-23",
+      "relationship": "senior to Shashwat",
+      "text": "When I was building the Data Center and Managed Services business from inception, Shashwat and his team did an exceptional job in brand building and communication. He worked closely with my team and successfully executed the marketing plans. For existing Airtel Customers they launched account based marketing and for new customers it was through leading technology events and IT magazines. We grew the DC & MS business by 4X in 3 Years.",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/details/recommendations/",
+      "author": "Ravindra Pamadi",
+      "headline": "Sr GM-Finance at Wunderman",
+      "date": "2013-11-06",
+      "relationship": null,
+      "text": "Shashwat is an advertising professional with a straight forward approach. He is down to earth simple and friendly. At work, he is confident,reliable,dedicated, meticulous, target oriented and above all patient.He is a lovable person and comes across as a reliable guy.",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/details/recommendations/",
+      "author": "Soumitra Agarwal",
+      "headline": "Managing Partner at Horton International",
+      "date": "2012-09-09",
+      "relationship": null,
+      "text": "Shashwat is a creative and result-oriented professional and I was impressed with the work he is doing at Reliance Infocomm. He has a good understanding of how a message needs to be conveyed via graphical and textual elements and delivers on time.",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/details/recommendations/",
+      "author": "Tuhin Chakraborty",
+      "headline": "Chief Business Officer, POSSIBLE",
+      "date": "2012-09-02",
+      "relationship": "Shashwat was Tuhin's client",
+      "text": "Shashwat is one of those quintessential client, that a agency guy would always look forward to meeting on the other side of the table...basically one who has straddled both the sides. Honest, sincere, hard-working with a never-say-die attitude, always willing to share responsibilities and bring out the best.",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/details/recommendations/",
+      "author": "Vineet Nigam",
+      "headline": "Head, International Business & Strategy at Reliance Jio Infocomm",
+      "date": "2007-03-10",
+      "relationship": "same team",
+      "text": "I have known Shashwat for over 4 years now and have developed a great admiration for his sheer marketing creativity, event management skills, supplier handling and his forever bouyant positive spirit. His positive atitude and delivering under pressure is remarkable. He is a great marketing guy and will give you the comfort levels under the most stressful circumstances. All the best to him!!",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/details/recommendations/",
+      "author": "Shyam Bhethanabotla",
+      "headline": "GTM Engineering, Enterprise Agentic AI platforms and Solutions",
+      "date": "2007-02-28",
+      "relationship": null,
+      "text": "Shaswat is a sharp-shooter and fun to work with.",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/details/recommendations/",
+      "author": "Avinash Mathur",
+      "headline": "Founder at Telco Partners, Founder at Rohavi Technologies",
+      "date": "2007-02-23",
+      "relationship": null,
+      "text": "Shashwat is a dedicated Marketing person brimming with ideas. He can stick to deadlines whilst maintaining excellent quality of work. Very amiable and a thorough team player.",
+      "source": "linkedin-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "platform": "Google",
+      "url": "https://share.google/CJTplvMddZexaE163",
+      "author": "Kiran Prajapati",
+      "date": "2023-01-26",
+      "rating": 5,
+      "text": "I have been consulting Shashwat for B2B demand generation engagement and I found him subject matter expert & best in the business. He has been able to help scale our business in quick time. Worth giving a try with Shashwat to grow your brand",
+      "source": "owner-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "platform": "Google",
+      "url": "https://share.google/CJTplvMddZexaE163",
+      "author": "Priyanka Sawant",
+      "date": "2023-01-26",
+      "rating": 5,
+      "text": "When you have the Marketing Guru here, it has to meet all your marketing goals.",
+      "source": "owner-2026-10-04",
+      "captured": "2026-10-04"
+    },
+    {
+      "platform": "Google",
+      "url": "https://share.google/CJTplvMddZexaE163",
+      "author": "Tuhin Chakraborty",
+      "date": "2023-01-26",
+      "rating": 5,
+      "text": "Very good & dependable consultation services offered. Years of experience is reflected in the discussions & guidance.",
+      "source": "owner-2026-10-04",
+      "captured": "2026-10-04"
+    }
+  ],
+  "googleReviewsSummary": {
+    "platform": "Google",
+    "reviews": 9,
+    "stars": 5,
+    "withText": 3,
+    "note": "9 reviews, all 5 stars; 3 have text. Plain data, no rating markup.",
+    "source": "owner-2026-10-04",
+    "captured": "2026-10-04"
+  },
+  "siteBio": {
+    "_about": "Generated from gtm-expert-schema facts/shashwat-ghosh.json by work/facts/make_bio.py. Do not edit by hand: edit the facts file and run the script. The generators stop with an error if this file differs from the facts file.",
+    "name": "Shashwat Ghosh",
+    "role": "Co-Founder and Fractional CMO",
+    "company": "Helix GTM Consulting",
+    "role_at": "Co-Founder and Fractional CMO, Helix GTM Consulting",
+    "company_founded": "2022",
+    "company_city": "Bengaluru",
+    "since": "October 2022",
+    "years_b2b": "24+",
+    "years_fractional": "10+",
+    "rebrands": "6+",
+    "frameworks": [
+      "EPIC",
+      "IMPACT",
+      "CRAFT",
+      "Hub-Spoke Brand Messaging Methodology"
+    ],
+    "frameworks_line": "the EPIC, IMPACT and CRAFT frameworks and the Hub-Spoke Brand Messaging Methodology",
+    "results": [
+      {
+        "key": "happay",
+        "tile": "Happay",
+        "figure": "161%",
+        "figure_label": "ARR growth",
+        "line": "VP Marketing, Happay: 161% ARR growth. 2x exit: to CRED ($180M), then MakeMyTrip."
+      },
+      {
+        "key": "locus",
+        "tile": "Locus",
+        "figure": "$4.2M",
+        "figure_label": "pipeline",
+        "line": "VP Global Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025."
+      },
+      {
+        "key": "fieldassist",
+        "tile": "FieldAssist",
+        "figure": "2.25x",
+        "figure_label": "qualified leads",
+        "line": "Fractional CMO, FieldAssist: 2.25x growth in mid-market and enterprise qualified leads."
+      },
+      {
+        "key": "quantumstreet",
+        "tile": "QuantumStreet AI",
+        "figure": "$7Bn",
+        "figure_label": "AUM fund rebranded",
+        "line": "Advisor, QuantumStreet AI: rebranded a $7Bn AUM AI investment fund, with Digitas and IBM."
+      },
+      {
+        "key": "airtel",
+        "tile": "Airtel",
+        "figure": "4x",
+        "figure_label": "business growth",
+        "line": "4x business growth, Airtel Data Centers and Managed Services."
+      },
+      {
+        "key": "seclore",
+        "tile": "Seclore",
+        "figure": "Rs 2.35 Cr",
+        "figure_label": "TCV in 6 months",
+        "line": "Rs 2.35 Cr TCV in 6 months with ABM at Seclore, and 225+ sales meetings across Seclore's target accounts."
+      }
+    ],
+    "band_results": [
+      "happay",
+      "locus",
+      "fieldassist",
+      "quantumstreet"
+    ],
+    "awards": [
+      "LinkedIn Top Product Marketing Voice: #10 India, #52 worldwide (Favikon verified)",
+      "Top 15 AI Research and Innovation (India)",
+      "Top 30 PLG creators worldwide",
+      "Most Admired Marketing Leaders 2025 (CMO Asia)",
+      "B2B Marketer of the Year 2020, Fintech (CMO Asia)"
+    ],
+    "top_awards": [
+      "LinkedIn Top Product Marketing Voice: #10 India, #52 worldwide (Favikon verified)",
+      "Top 30 PLG creators worldwide",
+      "B2B Marketer of the Year 2020, Fintech (CMO Asia)",
+      "Most Admired Marketing Leaders 2025 (CMO Asia)"
+    ],
+    "links": {
+      "gtmexpert": "https://www.gtmexpert.com/",
+      "linkedin": "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/",
+      "x": "https://x.com/Shashwat_Ghosh",
+      "github": "https://github.com/shashwatgtm",
+      "email": "shashwat@gtmhelix.com",
+      "about_story": "https://gtmhelix.com/about/",
+      "about_tools": "https://tools.gtmhelix.com/about/"
+    },
+    "writing": [
+      [
+        "GTM Whisperer newsletter",
+        "https://gtmexpert.substack.com/"
+      ],
+      [
+        "Offbeat AI Watch",
+        "https://gtmhelix.com/ai-trendwatch/"
+      ]
+    ],
+    "story_narrative": "Shashwat Ghosh has run B2B go-to-market for 24 years: VP Marketing at Happay through a 2x exit (to CRED at $180M, then MakeMyTrip), VP Global Performance Marketing at Locus before IKEA (Ingka Group) acquired it, and Fractional CMO at FieldAssist. As an advisor he rebranded QuantumStreet AI, a $7Bn AUM AI investment fund, with Digitas and IBM. The frameworks he uses with clients, EPIC, IMPACT and CRAFT, now run as tools anyone can use.",
+    "forbidden": [
+      "World Leadership Congress",
+      "Cofounder",
+      "Founder of Helix",
+      "founder of Helix",
+      "As founder of",
+      "\"foundingDate\": \"2016\"",
+      "APAC",
+      "Cross-regional",
+      "Education",
+      "since October 2022",
+      "major corporate rebrands",
+      "Has led 6+ rebrands",
+      "has led 6+ rebrands",
+      "Hub-Spoke Messaging Methodology",
+      "#14 in AI Research",
+      "VP Performance Marketing",
+      "CRED ($180M+)",
+      "$180M+",
+      "Led 6+",
+      "led 6+ rebrands"
+    ],
+    "rebrands_line": "Part of 6+ rebrands, and led two of them: QuantumStreet AI and Airtel B2B.",
+    "rebrands_short": "Part of 6+ rebrands",
+    "hub_spoke_line": "He created the Hub-Spoke Brand Messaging Methodology, for effective branding.",
+    "frameworks_created": "Created the EPIC, IMPACT and CRAFT frameworks",
+    "reads_requests": "he reads every request himself",
+    "services_lines": {
+      "owns": "He owns the marketing and demand generation plans, builds and mentors the team, sets up processes and spend, tracks the few results that matter each quarter, and is a sounding board for the executive team.",
+      "first_step": "The first step is a 45-minute call.",
+      "cta_button": "BOOK 45 MINUTES WITH SHASHWAT",
+      "cta_button_source_text": "Book 45 minutes with Shashwat (the button style shows capitals)",
+      "three_ways": "Three ways to start: book a discovery call, ask for a GTM audit, or ask for a custom quote.",
+      "who_for": [
+        "Series A and B startups scaling their marketing function",
+        "Mid-sized IT and ITeS companies that need strategic marketing leadership",
+        "Growing B2B companies without a full-time CMO budget"
+      ]
+    },
+    "area_served": [
+      "India",
+      "Middle East and Africa",
+      "Southeast Asia",
+      "United Kingdom",
+      "United States",
+      "Western Europe"
+    ],
+    "meetings": "always available on Zoom, Microsoft Teams and Google Meet",
+    "workshops": "paid workshops in Bengaluru; in other cities, flights and stay are charged at actuals plus GST",
+    "alternate_names": [
+      "Helix GTM",
+      "GTM Helix"
+    ],
+    "company_linkedin": "https://www.linkedin.com/company/helixgtmconsulting",
+    "sources": {
+      "frameworks": "owner decision 1 October 2026, item 20 (name: Hub-Spoke Brand Messaging Methodology)",
+      "frameworks_line": "owner decision 1 October 2026, item 20",
+      "rebrands_line": "owner decision 1 October 2026, item 8",
+      "rebrands_short": "owner decision 1 October 2026, items 8 and 11",
+      "hub_spoke_line": "owner decision 1 October 2026, item 13 (the line); item 20 (the method's full name, Hub-Spoke Brand Messaging Methodology)",
+      "frameworks_created": "owner decision 1 October 2026, item 10",
+      "reads_requests": "owner decision 1 October 2026, item 4",
+      "services_lines": "owner decision 1 October 2026, item 5 (the owns line with item 13's change)",
+      "area_served": "owner decision 1 October 2026, item 6",
+      "meetings": "owner decision 1 October 2026, item 6",
+      "workshops": "owner decision 1 October 2026, item 6 (no GST rate stated)",
+      "alternate_names": "owner decision 1 October 2026, item 7",
+      "company_linkedin": "owner decision 1 October 2026, item 9",
+      "forbidden (3 added)": "owner decision 1 October 2026, items 8, 11 and 20 (the old wordings)",
+      "facts_file": "gtm-expert-schema facts/shashwat-ghosh.json, owner statements and LinkedIn screenshots of 4 October 2026"
+    }
+  }
+}
