@@ -1,10 +1,11 @@
 {
-  "_about": "Single source of truth for Shashwat Ghosh and Helix GTM Consulting. Every public schema file, the README and the site bio (work/bio.json in the project repo) are generated from this file. Sources: linkedin-2026-10-04 (owner's LinkedIn screenshots), owner-2026-10-04 (owner statements), live-about-page (https://gtmhelix.com/about/ text kept as is). Where they differ, the owner's facts win.",
+  "_about": "Single source of truth for Shashwat Ghosh and Helix GTM Consulting. Every public schema file, the README and the site bio (work/bio.json in the project repo) are generated from this file. Sources: linkedin-2026-10-04 (owner's LinkedIn screenshots), owner-2026-10-04 (owner statements), live-about-page (https://gtmhelix.com/about/ text kept as is). Where they differ, the owner's facts win. From run 23 (11 October 2026) the owner's document Structured Data Reference v3.0 is the source of truth: where it differs from this file, v3.0 wins and this file is changed to match.",
   "capturedAt": "2026-10-04",
   "sources": {
     "linkedin-2026-10-04": "Owner's LinkedIn screenshots, 4 October 2026",
     "owner-2026-10-04": "Owner's statements, 4 October 2026",
-    "live-about-page": "Text already on https://gtmhelix.com/about/ and https://gtmhelix.com/services/ before this run"
+    "live-about-page": "Text already on https://gtmhelix.com/about/ and https://gtmhelix.com/services/ before this run",
+    "structured-data-reference-v3": "Owner's document \"Structured Data Reference: Shashwat Ghosh, GTM Expert (v3.0)\", copied word for word from the owner's Notion page (last edited 4 October 2026, 18:35 UTC) and read on 11 October 2026; saved in the project repo as work/facts/structured-data-reference-v3.md. From run 23 it is the source of truth."
   },
   "identity": {
     "person": {
@@ -21,7 +22,7 @@
         "https://gtmexpert.substack.com/",
         "https://x.com/Shashwat_Ghosh",
         "https://apify.com/shashghosh",
-        "https://www.google.com/search?kgmid=/g/11k58ncv_x"
+        "https://www.google.com/search?kgmid=/g/11k58ncv_x&q=Shashwat+Ghosh"
       ],
       "contactPoint": {
         "contactType": "booking",
@@ -41,10 +42,6 @@
       "id": "https://gtmhelix.com/#org",
       "url": "https://gtmhelix.com",
       "name": "Helix GTM Consulting",
-      "alternateName": [
-        "Helix GTM",
-        "GTM Helix"
-      ],
       "foundingDate": "2022",
       "city": "Bengaluru",
       "country": "India",
@@ -360,6 +357,7 @@
       "nodeId": "https://revenue-enablement.gtmhelix.com/#app"
     }
   ],
+  "connectorsNote": "Each works in Claude and ChatGPT, and as a web app.",
   "plugins": [
     {
       "id": "gtm-skills",
@@ -547,7 +545,7 @@
         "Responsible for twin growth engines of Inbound and Outbound Marketing, ABM, Sales enablement and Inside Sales function.",
         "161% ARR growth.",
         "+178% Enterprise deal size increase.",
-        "65-72% Marketing-sourced pipeline.",
+        "65 to 72% marketing-sourced pipeline.",
         "Happay was named among the fastest growing technology companies in Deloitte Technology Fast 50 India 2020.",
         "2x exit: to CRED ($180M) in Dec 2021, then MakeMyTrip in Nov 2024."
       ],
@@ -603,7 +601,7 @@
     },
     {
       "id": "hcl-head-customer-insights",
-      "title": "Head, Customer Insights, Brand & New Projects (Office Automation)",
+      "title": "Head, Customer Insights, Brand and New Projects (Office Automation)",
       "organization": "HCL Infosystems Ltd.",
       "start": "2013-02",
       "end": "2016-05",
@@ -621,7 +619,7 @@
     },
     {
       "id": "hcl-head-strategy-marketing",
-      "title": "Head, Strategy & Marketing (Office Automation)",
+      "title": "Head, Strategy and Marketing (Office Automation)",
       "organization": "HCL Infosystems Ltd.",
       "start": "2011-11",
       "end": "2013-02",
@@ -636,7 +634,7 @@
     },
     {
       "id": "airtel-senior-brand-media",
-      "title": "Senior Brand & Media Manager",
+      "title": "Senior Brand and Media Manager",
       "organization": "Airtel",
       "start": "2010-03",
       "end": "2011-10",
@@ -654,7 +652,7 @@
     },
     {
       "id": "airtel-senior-product-marketing",
-      "title": "Senior Product Marketing Manager, Data, Voice & VAS",
+      "title": "Senior Product Marketing Manager, Data, Voice and VAS",
       "organization": "Airtel",
       "start": "2008-03",
       "end": "2010-03",
@@ -1031,10 +1029,6 @@
     ],
     "meetings": "always available on Zoom, Microsoft Teams and Google Meet",
     "workshops": "paid workshops in Bengaluru; in other cities, flights and stay are charged at actuals plus GST",
-    "alternate_names": [
-      "Helix GTM",
-      "GTM Helix"
-    ],
     "company_linkedin": "https://www.linkedin.com/company/helixgtmconsulting",
     "sources": {
       "frameworks": "owner decision 1 October 2026, item 20 (name: Hub-Spoke Brand Messaging Methodology)",
@@ -1048,7 +1042,6 @@
       "area_served": "owner decision 1 October 2026, item 6",
       "meetings": "owner decision 1 October 2026, item 6",
       "workshops": "owner decision 1 October 2026, item 6 (no GST rate stated)",
-      "alternate_names": "owner decision 1 October 2026, item 7",
       "company_linkedin": "owner decision 1 October 2026, item 9",
       "forbidden (3 added)": "owner decision 1 October 2026, items 8, 11 and 20 (the old wordings)",
       "facts_file": "gtm-expert-schema facts/shashwat-ghosh.json, owner statements and LinkedIn screenshots of 4 October 2026"
@@ -1178,7 +1171,7 @@
     },
     {
       "id": "bhaskar-mentor",
-      "name": "Verified BHASKAR Mentor (BHASKAR ID)",
+      "name": "Verified BHASKAR Mentor",
       "issuer": "Startup India",
       "issued": null,
       "source": "linkedin-2026-10-04",

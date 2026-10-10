@@ -48,10 +48,10 @@ The About page, https://gtmhelix.com/about/, is a WebPage whose mainEntity is th
 - Vice President Marketing, Happay: 2019-11 to 2022-01
 - Strategic Marketing Consultant, Happay: 2018-04 to 2019-10
 - Director of Product Marketing, Seclore: 2016-07 to 2017-10
-- Head, Customer Insights, Brand & New Projects (Office Automation), HCL Infosystems Ltd.: 2013-02 to 2016-05
-- Head, Strategy & Marketing (Office Automation), HCL Infosystems Ltd.: 2011-11 to 2013-02
-- Senior Brand & Media Manager, Airtel: 2010-03 to 2011-10
-- Senior Product Marketing Manager, Data, Voice & VAS, Airtel: 2008-03 to 2010-03
+- Head, Customer Insights, Brand and New Projects (Office Automation), HCL Infosystems Ltd.: 2013-02 to 2016-05
+- Head, Strategy and Marketing (Office Automation), HCL Infosystems Ltd.: 2011-11 to 2013-02
+- Senior Brand and Media Manager, Airtel: 2010-03 to 2011-10
+- Senior Product Marketing Manager, Data, Voice and VAS, Airtel: 2008-03 to 2010-03
 - Regional Marketing Head, West, Airtel: 2007-06 to 2008-03
 - National Marketing Manager, Broadband, Reliance Communications: 2004-01 to 2007-05
 - Account Manager, Wunderman (a Y&R, WPP agency): 2000-04 to 2004-01
@@ -65,7 +65,7 @@ The About page, https://gtmhelix.com/about/, is a WebPage whose mainEntity is th
 ## Credentials
 
 - Claude agent skills, Anthropic, 2026-04
-- Verified BHASKAR Mentor (BHASKAR ID), Startup India
+- Verified BHASKAR Mentor, Startup India
 - Marketing in a Digital World, Coursera, 2017-10
 - Digital Analytics for Marketing Professionals: Marketing Analytics in Theory, Coursera, 2017-10
 - Digital Marketing Channels: The Landscape, Coursera, 2017-10

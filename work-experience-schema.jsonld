@@ -135,7 +135,7 @@
       "roleName": "Vice President Marketing",
       "startDate": "2019-11",
       "endDate": "2022-01",
-      "description": "Vice President Marketing, Happay. Responsible for twin growth engines of Inbound and Outbound Marketing, ABM, Sales enablement and Inside Sales function. 161% ARR growth. +178% Enterprise deal size increase. 65-72% Marketing-sourced pipeline. Happay was named among the fastest growing technology companies in Deloitte Technology Fast 50 India 2020. 2x exit: to CRED ($180M) in Dec 2021, then MakeMyTrip in Nov 2024.",
+      "description": "Vice President Marketing, Happay. Responsible for twin growth engines of Inbound and Outbound Marketing, ABM, Sales enablement and Inside Sales function. 161% ARR growth. +178% Enterprise deal size increase. 65 to 72% marketing-sourced pipeline. Happay was named among the fastest growing technology companies in Deloitte Technology Fast 50 India 2020. 2x exit: to CRED ($180M) in Dec 2021, then MakeMyTrip in Nov 2024.",
       "alumniOf": {
         "@id": "https://www.gtmexpert.com/#employer-happay"
       }
@@ -165,10 +165,10 @@
     {
       "@type": "OrganizationRole",
       "@id": "https://www.gtmexpert.com/#role-hcl-head-customer-insights",
-      "roleName": "Head, Customer Insights, Brand & New Projects (Office Automation)",
+      "roleName": "Head, Customer Insights, Brand and New Projects (Office Automation)",
       "startDate": "2013-02",
       "endDate": "2016-05",
-      "description": "Head, Customer Insights, Brand & New Projects (Office Automation), HCL Infosystems Ltd. Started the marketing department in HCL Office Automation; new business strategy, marketing campaigns and inside sales operations for the Office Automation Division; entry strategy for Africa, CIS and MEA. Earlier: strategies to regain distribution and services market share, channel partner prioritization, a margin improvement exercise, a central price committee, and value propositions and GTM plans for OEM sell-through products.",
+      "description": "Head, Customer Insights, Brand and New Projects (Office Automation), HCL Infosystems Ltd. Started the marketing department in HCL Office Automation; new business strategy, marketing campaigns and inside sales operations for the Office Automation Division; entry strategy for Africa, CIS and MEA. Earlier: strategies to regain distribution and services market share, channel partner prioritization, a margin improvement exercise, a central price committee, and value propositions and GTM plans for OEM sell-through products.",
       "alumniOf": {
         "@id": "https://www.gtmexpert.com/#employer-hcl-infosystems"
       }
@@ -176,10 +176,10 @@
     {
       "@type": "OrganizationRole",
       "@id": "https://www.gtmexpert.com/#role-hcl-head-strategy-marketing",
-      "roleName": "Head, Strategy & Marketing (Office Automation)",
+      "roleName": "Head, Strategy and Marketing (Office Automation)",
       "startDate": "2011-11",
       "endDate": "2013-02",
-      "description": "Head, Strategy & Marketing (Office Automation), HCL Infosystems Ltd.",
+      "description": "Head, Strategy and Marketing (Office Automation), HCL Infosystems Ltd.",
       "alumniOf": {
         "@id": "https://www.gtmexpert.com/#employer-hcl-infosystems"
       }
@@ -187,10 +187,10 @@
     {
       "@type": "OrganizationRole",
       "@id": "https://www.gtmexpert.com/#role-airtel-senior-brand-media",
-      "roleName": "Senior Brand & Media Manager",
+      "roleName": "Senior Brand and Media Manager",
       "startDate": "2010-03",
       "endDate": "2011-10",
-      "description": "Senior Brand & Media Manager, Airtel. Brand ATL and BTL, communication and social media plans; worked with brand consultants Wolff Olins on the value proposition, new brand identity and tools to transform the B2B business; GTM plans for new products. 4x business growth, Airtel Data Centers and Managed Services (source: Kunwar B. Kishore Arora's recommendation: \"We grew the DC & MS business by 4X in 3 Years\").",
+      "description": "Senior Brand and Media Manager, Airtel. Brand ATL and BTL, communication and social media plans; worked with brand consultants Wolff Olins on the value proposition, new brand identity and tools to transform the B2B business; GTM plans for new products. 4x business growth, Airtel Data Centers and Managed Services (source: Kunwar B. Kishore Arora's recommendation: \"We grew the DC & MS business by 4X in 3 Years\").",
       "alumniOf": {
         "@id": "https://www.gtmexpert.com/#employer-airtel"
       }
@@ -198,10 +198,10 @@
     {
       "@type": "OrganizationRole",
       "@id": "https://www.gtmexpert.com/#role-airtel-senior-product-marketing",
-      "roleName": "Senior Product Marketing Manager, Data, Voice & VAS",
+      "roleName": "Senior Product Marketing Manager, Data, Voice and VAS",
       "startDate": "2008-03",
       "endDate": "2010-03",
-      "description": "Senior Product Marketing Manager, Data, Voice & VAS, Airtel.",
+      "description": "Senior Product Marketing Manager, Data, Voice and VAS, Airtel.",
       "alumniOf": {
         "@id": "https://www.gtmexpert.com/#employer-airtel"
       }
