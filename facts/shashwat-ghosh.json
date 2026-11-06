@@ -206,6 +206,8 @@
    "name": "EPIC",
    "url": "https://gtmhelix.com/epic/",
    "description": "Ecosystem and ABM, Product-Led Growth, Inbound and Outbound, Community-Led. It scores the four go-to-market motions from 1 to 10 for your stage, deal size, sales cycle and market, and names the one to lead with.",
+   "sameAs": ["https://grokipedia.com/page/EPIC_Framework"],
+   "sameAsNote": "Owner request, 6 November 2026. IMPACT, CRAFT and GUARD Grokipedia pages return 404 and are not used.",
    "source": "live-about-page",
    "captured": "2026-10-04"
   },

@@ -99,6 +99,7 @@ function build(facts) {
   const frameworks = facts.frameworks.map((f) => {
     const n = { '@type': 'CreativeWork', '@id': fwId(f), name: f.name, description: f.description, creator: pid(PERSON) };
     if (f.url) n.url = f.url;
+    if (f.sameAs) n.sameAs = f.sameAs;
     return n;
   });
   const connectors = facts.connectors.map((c) => {

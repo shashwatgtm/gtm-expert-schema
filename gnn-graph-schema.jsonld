@@ -580,7 +580,10 @@
       "creator": {
         "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       },
-      "url": "https://gtmhelix.com/epic/"
+      "url": "https://gtmhelix.com/epic/",
+      "sameAs": [
+        "https://grokipedia.com/page/EPIC_Framework"
+      ]
     },
     {
       "@type": "CreativeWork",
