@@ -3,11 +3,11 @@
   "@graph": [
     {
       "@type": "Person",
-      "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
+      "@id": "https://gtmhelix.com/about/#shashwat-ghosh",
       "name": "Shashwat Ghosh",
-      "url": "https://www.gtmexpert.com",
-      "jobTitle": "Co-Founder and Fractional CMO",
-      "description": "Co-Founder and Fractional CMO of Helix GTM Consulting, founded in 2022 in Bengaluru. 24+ years in B2B and 10+ years of fractional experience. He created the EPIC, IMPACT and CRAFT frameworks and the Hub-Spoke Brand Messaging Methodology. Part of 6+ rebrands. He led two of them: QuantumStreet AI (from Equbot, with Digitas) and Airtel B2B (with Wolff Olins). The agencies on those rebrands were Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra and Grey. Results: VP Marketing, Happay: 161% ARR growth. 2x exit: to CRED ($180M), then MakeMyTrip. VP Global Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025. Fractional CMO, FieldAssist: 2.25x growth in mid-market and enterprise qualified leads. Advisor, QuantumStreet AI: rebranded a $7Bn AUM AI investment fund, with Digitas and IBM. 4x business growth, Airtel Data Centers and Managed Services. Rs 2.35 Cr TCV in 6 months with ABM at Seclore, and 225+ sales meetings across Seclore's target accounts.",
+      "url": "https://gtmhelix.com/about/",
+      "jobTitle": "AI native fractional CMO",
+      "description": "AI native fractional CMO of Helix GTM Consulting, founded in 2022 in Bengaluru. 24+ years in B2B and 10+ years of fractional experience. He created the EPIC, IMPACT and CRAFT frameworks and the Hub-Spoke Brand Messaging Methodology. Part of 6+ rebrands. He led two of them: QuantumStreet AI (from Equbot, with Digitas) and Airtel B2B (with Wolff Olins). The agencies on those rebrands were Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra and Grey. Results: VP Marketing, Happay: 161% ARR growth. 2x exit: to CRED ($180M), then MakeMyTrip. VP Global Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025. Fractional CMO, FieldAssist: 2.25x growth in mid-market and enterprise qualified leads. Advisor, QuantumStreet AI: rebranded a $7Bn AUM AI investment fund, with Digitas and IBM. 4x business growth, Airtel Data Centers and Managed Services. Rs 2.35 Cr TCV in 6 months with ABM at Seclore, and 225+ sales meetings across Seclore's target accounts.",
       "email": "shashwat@gtmhelix.com",
       "telephone": "+919810603649",
       "image": "https://gtmhelix.com/assets/shashwat-ghosh-560.jpg",
@@ -29,13 +29,13 @@
         "Hub-Spoke Brand Messaging Methodology"
       ],
       "sameAs": [
-        "https://www.gtmexpert.com/",
         "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/",
         "https://github.com/shashwatgtm",
-        "https://gtmexpert.substack.com/",
-        "https://x.com/Shashwat_Ghosh",
+        "https://www.npmjs.com/org/shashwatgtmalpha",
         "https://apify.com/shashghosh",
-        "https://www.google.com/search?kgmid=/g/11k58ncv_x"
+        "https://x.com/Shashwat_Ghosh",
+        "https://www.skills.sh/shashwatgtm",
+        "https://grokipedia.com/page/Shashwat_Ghosh"
       ],
       "contactPoint": {
         "@type": "ContactPoint",
@@ -133,7 +133,7 @@
       "url": "https://gtmhelix.com/about/",
       "name": "About Shashwat Ghosh | Helix GTM Consulting",
       "mainEntity": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       }
     },
     {

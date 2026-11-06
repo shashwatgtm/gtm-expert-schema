@@ -3,11 +3,11 @@
   "@graph": [
     {
       "@type": "Person",
-      "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
+      "@id": "https://gtmhelix.com/about/#shashwat-ghosh",
       "name": "Shashwat Ghosh",
-      "url": "https://www.gtmexpert.com",
-      "jobTitle": "Co-Founder and Fractional CMO",
-      "description": "Co-Founder and Fractional CMO of Helix GTM Consulting, founded in 2022 in Bengaluru. 24+ years in B2B and 10+ years of fractional experience. He created the EPIC, IMPACT and CRAFT frameworks and the Hub-Spoke Brand Messaging Methodology. Part of 6+ rebrands. He led two of them: QuantumStreet AI (from Equbot, with Digitas) and Airtel B2B (with Wolff Olins). The agencies on those rebrands were Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra and Grey. Results: VP Marketing, Happay: 161% ARR growth. 2x exit: to CRED ($180M), then MakeMyTrip. VP Global Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025. Fractional CMO, FieldAssist: 2.25x growth in mid-market and enterprise qualified leads. Advisor, QuantumStreet AI: rebranded a $7Bn AUM AI investment fund, with Digitas and IBM. 4x business growth, Airtel Data Centers and Managed Services. Rs 2.35 Cr TCV in 6 months with ABM at Seclore, and 225+ sales meetings across Seclore's target accounts.",
+      "url": "https://gtmhelix.com/about/",
+      "jobTitle": "AI native fractional CMO",
+      "description": "AI native fractional CMO of Helix GTM Consulting, founded in 2022 in Bengaluru. 24+ years in B2B and 10+ years of fractional experience. He created the EPIC, IMPACT and CRAFT frameworks and the Hub-Spoke Brand Messaging Methodology. Part of 6+ rebrands. He led two of them: QuantumStreet AI (from Equbot, with Digitas) and Airtel B2B (with Wolff Olins). The agencies on those rebrands were Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra and Grey. Results: VP Marketing, Happay: 161% ARR growth. 2x exit: to CRED ($180M), then MakeMyTrip. VP Global Performance Marketing, Locus: $4.2M pipeline. Acquired by IKEA (Ingka Group) in Oct 2025. Fractional CMO, FieldAssist: 2.25x growth in mid-market and enterprise qualified leads. Advisor, QuantumStreet AI: rebranded a $7Bn AUM AI investment fund, with Digitas and IBM. 4x business growth, Airtel Data Centers and Managed Services. Rs 2.35 Cr TCV in 6 months with ABM at Seclore, and 225+ sales meetings across Seclore's target accounts.",
       "email": "shashwat@gtmhelix.com",
       "telephone": "+919810603649",
       "image": "https://gtmhelix.com/assets/shashwat-ghosh-560.jpg",
@@ -29,13 +29,13 @@
         "Hub-Spoke Brand Messaging Methodology"
       ],
       "sameAs": [
-        "https://www.gtmexpert.com/",
         "https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/",
         "https://github.com/shashwatgtm",
-        "https://gtmexpert.substack.com/",
-        "https://x.com/Shashwat_Ghosh",
+        "https://www.npmjs.com/org/shashwatgtmalpha",
         "https://apify.com/shashghosh",
-        "https://www.google.com/search?kgmid=/g/11k58ncv_x"
+        "https://x.com/Shashwat_Ghosh",
+        "https://www.skills.sh/shashwatgtm",
+        "https://grokipedia.com/page/Shashwat_Ghosh"
       ],
       "contactPoint": {
         "@type": "ContactPoint",
@@ -133,7 +133,7 @@
       "url": "https://gtmhelix.com/about/",
       "name": "About Shashwat Ghosh | Helix GTM Consulting",
       "mainEntity": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       }
     },
     {
@@ -222,7 +222,7 @@
         "GTM Helix"
       ],
       "url": "https://gtmhelix.com",
-      "description": "Helix GTM Consulting is a B2B go-to-market consulting firm, founded in 2022 in Bengaluru, India, that builds GTM tools (six connectors and four Claude plugins) and provides Fractional CMO services.",
+      "description": "Helix GTM Consulting is a B2B go-to-market consulting firm, founded in 2022 in Bengaluru, India, that builds GTM tools (85 tools and skills: 48 tools in six connectors and 37 skills in nine Claude plugins) and provides Fractional CMO services.",
       "email": "shashwat@gtmhelix.com",
       "telephone": "+919810603649",
       "logo": "https://gtmhelix.com/apple-touch-icon.png",
@@ -266,7 +266,7 @@
         "https://www.linkedin.com/company/helixgtmconsulting"
       ],
       "founder": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       },
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
@@ -578,7 +578,7 @@
       "name": "EPIC",
       "description": "Ecosystem and ABM, Product-Led Growth, Inbound and Outbound, Community-Led. It scores the four go-to-market motions from 1 to 10 for your stage, deal size, sales cycle and market, and names the one to lead with.",
       "creator": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       },
       "url": "https://gtmhelix.com/epic/"
     },
@@ -588,7 +588,7 @@
       "name": "IMPACT",
       "description": "Identify Champions, Map Alternatives, Pinpoint Value, Anchor Market, Craft Message, Translate Execution: six steps from the buyer who wants you to a message your team can use.",
       "creator": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       },
       "url": "https://impact.gtmhelix.com"
     },
@@ -598,7 +598,7 @@
       "name": "CRAFT",
       "description": "Character, Result, Artifact, Frame, Timeline: the five things to tell an AI assistant so its answer is specific instead of generic.",
       "creator": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       },
       "url": "https://craft-gtm.gtmhelix.com"
     },
@@ -608,7 +608,7 @@
       "name": "Hub-Spoke Brand Messaging Methodology",
       "description": "A methodology for effective branding, created by Shashwat Ghosh.",
       "creator": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       }
     },
     {
@@ -619,7 +619,7 @@
       "description": "Scores the four EPIC go-to-market motions from 1 to 10 with Shashwat Ghosh's documented rubric and names the one to lead with. The web app gives a 180 day plan; in Claude you choose 30, 60 or 90 days.",
       "applicationCategory": "BusinessApplication",
       "author": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       },
       "publisher": {
         "@id": "https://gtmhelix.com/#org"
@@ -639,7 +639,7 @@
       "description": "Eight planning tools: a product-market fit scorecard, launch plans, interview guides, retention, partner and crisis playbooks, battle cards and a CRAFT review of GTM documents.",
       "applicationCategory": "BusinessApplication",
       "author": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       },
       "publisher": {
         "@id": "https://gtmhelix.com/#org"
@@ -656,7 +656,7 @@
       "description": "Eight content tools: case studies, newsletters, webinar scripts, repurposed posts, thought leadership series, testimonial requests, sales content and a CRAFT review of drafts.",
       "applicationCategory": "BusinessApplication",
       "author": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       },
       "publisher": {
         "@id": "https://gtmhelix.com/#org"
@@ -673,7 +673,7 @@
       "description": "Eight positioning tools on the IMPACT framework: champions, alternatives, value, market anchor, message and execution, plus a full audit and the framework guide.",
       "applicationCategory": "BusinessApplication",
       "author": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       },
       "publisher": {
         "@id": "https://gtmhelix.com/#org"
@@ -690,7 +690,7 @@
       "description": "Nine ideal customer profile tools: deep dive, scoring model, buying group, TAM, SAM and SOM, lookalikes, account priorities, gaps, changes over time and interview themes.",
       "applicationCategory": "BusinessApplication",
       "author": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       },
       "publisher": {
         "@id": "https://gtmhelix.com/#org"
@@ -704,7 +704,7 @@
       "description": "Twelve sales tools: account plans, deal strategy, discovery questions, ROI cases, mutual action plans, win and loss reviews, proposals, emails, demos, pricing, champions and competitive traps.",
       "applicationCategory": "BusinessApplication",
       "author": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       },
       "publisher": {
         "@id": "https://gtmhelix.com/#org"
@@ -723,10 +723,10 @@
         "@id": "https://gtmhelix.com/#org"
       },
       "author": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       },
       "creator": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       }
     },
     {
@@ -742,10 +742,10 @@
         "@id": "https://gtmhelix.com/#org"
       },
       "author": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       },
       "creator": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       }
     },
     {
@@ -761,10 +761,10 @@
         "@id": "https://gtmhelix.com/#org"
       },
       "author": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       },
       "creator": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       }
     },
     {
@@ -797,12 +797,107 @@
       ]
     },
     {
+      "@type": "SoftwareApplication",
+      "@id": "https://tools.gtmhelix.com/plugins/b2b-deal-execution/#plugin",
+      "name": "B2B Deal Execution",
+      "url": "https://tools.gtmhelix.com/plugins/b2b-deal-execution/",
+      "sameAs": [
+        "https://github.com/shashwatgtm/b2b-deal-execution"
+      ],
+      "description": "B2B Deal Execution is a Claude plugin with four skills for winning the deal in front of you: deal review and close plan, discovery and buying group, negotiation and champion, and sales sequences.",
+      "publisher": {
+        "@id": "https://gtmhelix.com/#org"
+      },
+      "author": {
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
+      },
+      "creator": {
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
+      }
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://tools.gtmhelix.com/plugins/b2b-events-pr-and-launches/#plugin",
+      "name": "B2B Events, PR and Launches",
+      "url": "https://tools.gtmhelix.com/plugins/b2b-events-pr-and-launches/",
+      "sameAs": [
+        "https://github.com/shashwatgtm/b2b-events-pr-and-launches"
+      ],
+      "description": "B2B Events, PR and Launches is a Claude plugin with four skills to plan B2B events, press releases and product launches.",
+      "publisher": {
+        "@id": "https://gtmhelix.com/#org"
+      },
+      "author": {
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
+      },
+      "creator": {
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
+      }
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://tools.gtmhelix.com/plugins/b2b-icp-and-customer-insight/#plugin",
+      "name": "B2B ICP and Customer Insight",
+      "url": "https://tools.gtmhelix.com/plugins/b2b-icp-and-customer-insight/",
+      "sameAs": [
+        "https://github.com/shashwatgtm/b2b-icp-and-customer-insight"
+      ],
+      "description": "B2B ICP and Customer Insight is a Claude plugin with five skills to review the ICP you have, plan customer interviews, build a fit scoring model, set buying role hypotheses and check product market fit.",
+      "publisher": {
+        "@id": "https://gtmhelix.com/#org"
+      },
+      "author": {
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
+      },
+      "creator": {
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
+      }
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://tools.gtmhelix.com/plugins/b2b-personal-branding/#plugin",
+      "name": "B2B Personal Branding",
+      "url": "https://tools.gtmhelix.com/plugins/b2b-personal-branding/",
+      "sameAs": [
+        "https://github.com/shashwatgtm/b2b-personal-branding"
+      ],
+      "description": "B2B Personal Branding is a Claude plugin with three skills to write bios and positioning from your own facts, audit drafts for machine sounding text and curate newsletters.",
+      "publisher": {
+        "@id": "https://gtmhelix.com/#org"
+      },
+      "author": {
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
+      },
+      "creator": {
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
+      }
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://tools.gtmhelix.com/plugins/b2b-research-market-and-account/#plugin",
+      "name": "B2B Research: Market and Account",
+      "url": "https://tools.gtmhelix.com/plugins/b2b-research-market-and-account/",
+      "sameAs": [
+        "https://github.com/shashwatgtm/b2b-research-market-and-account"
+      ],
+      "description": "B2B Research: Market and Account is a Claude plugin with four skills to research target accounts, build evidence based research assets, fact check claims and judge a second opinion.",
+      "publisher": {
+        "@id": "https://gtmhelix.com/#org"
+      },
+      "author": {
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
+      },
+      "creator": {
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
+      }
+    },
+    {
       "@type": "CreativeWorkSeries",
       "@id": "https://gtmhelix.com/#newsletter-gtm-whisperer",
       "name": "GTM Whisperer",
       "url": "https://gtmexpert.substack.com",
       "author": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       }
     },
     {
@@ -811,7 +906,7 @@
       "name": "Offbeat AI Watch",
       "url": "https://gtmhelix.com/ai-trendwatch/",
       "author": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       }
     },
     {
@@ -820,7 +915,7 @@
       "name": "CRAFT: 50 AI Context Engineering for Business",
       "url": "https://www.notion.com/templates/ai-context-engineering-craft-framework",
       "creator": {
-        "@id": "https://www.gtmexpert.com/#shashwat-ghosh"
+        "@id": "https://gtmhelix.com/about/#shashwat-ghosh"
       },
       "isBasedOn": {
         "@id": "https://gtmhelix.com/#framework-craft"
