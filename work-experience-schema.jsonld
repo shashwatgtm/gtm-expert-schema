@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Person",
-      "@id": "https://www.gtmexpert.com/#shashwat-ghosh",
+      "@id": "https://gtmhelix.com/about/#shashwat-ghosh",
       "name": "Shashwat Ghosh",
       "worksFor": [
         {

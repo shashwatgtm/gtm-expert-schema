@@ -2,11 +2,11 @@
 
 Structured data for Shashwat Ghosh and Helix GTM Consulting. One facts file is the single source of truth; every other file here is generated from it.
 
-**Facts captured:** 2026-10-04. **Licence:** UNLICENSED. All rights reserved, no open licence.
+**Facts captured:** 2026-11-06. **Licence:** UNLICENSED. All rights reserved, no open licence.
 
 ## Profile
 
-**Shashwat Ghosh**, Co-Founder and Fractional CMO, Helix GTM Consulting (founded 2022, Bengaluru, India).
+**Shashwat Ghosh**, AI native fractional CMO, Helix GTM Consulting (founded 2022, Bengaluru, India).
 
 - 24+ years in B2B; 10+ years of fractional experience
 - Part of 6+ rebrands. He led two of them: QuantumStreet AI (from Equbot, with Digitas) and Airtel B2B (with Wolff Olins). The agencies on those rebrands were Wolff Olins, JWT, Brand Union, Digitas, DDB Mudra and Grey.
@@ -31,7 +31,7 @@ Structured data for Shashwat Ghosh and Helix GTM Consulting. One facts file is t
 
 | Entity | @id | URL |
 |---|---|---|
-| Shashwat Ghosh (Person) | https://www.gtmexpert.com/#shashwat-ghosh | https://www.gtmexpert.com |
+| Shashwat Ghosh (Person) | https://gtmhelix.com/about/#shashwat-ghosh | https://gtmhelix.com/about/ |
 | Helix GTM Consulting (Organization) | https://gtmhelix.com/#org | https://gtmhelix.com |
 | HyperPlays (Organization, parent: Helix GTM Consulting) | https://www.hyper-plays.com/#org | https://www.hyper-plays.com/ |
 
@@ -92,6 +92,11 @@ CRAFT templates: [CRAFT: 50 AI Context Engineering for Business](https://www.not
 - B2B Sales Enablement: https://tools.gtmhelix.com/plugins/b2b-sales-enablement/
 - Customer Success: Churn and QBRs: https://tools.gtmhelix.com/plugins/b2b-customer-success/
 - AI Search Visibility (AEO/GEO): https://tools.gtmhelix.com/plugins/optise-helix-aeo-toolkit/
+- B2B Deal Execution: https://tools.gtmhelix.com/plugins/b2b-deal-execution/
+- B2B Events, PR and Launches: https://tools.gtmhelix.com/plugins/b2b-events-pr-and-launches/
+- B2B ICP and Customer Insight: https://tools.gtmhelix.com/plugins/b2b-icp-and-customer-insight/
+- B2B Personal Branding: https://tools.gtmhelix.com/plugins/b2b-personal-branding/
+- B2B Research: Market and Account: https://tools.gtmhelix.com/plugins/b2b-research-market-and-account/
 
 ## Newsletters
 
