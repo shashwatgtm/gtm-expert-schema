@@ -206,7 +206,9 @@
    "name": "EPIC",
    "url": "https://gtmhelix.com/epic/",
    "description": "Ecosystem and ABM, Product-Led Growth, Inbound and Outbound, Community-Led. It scores the four go-to-market motions from 1 to 10 for your stage, deal size, sales cycle and market, and names the one to lead with.",
-   "sameAs": ["https://grokipedia.com/page/EPIC_Framework"],
+   "sameAs": [
+    "https://grokipedia.com/page/EPIC_Framework"
+   ],
    "sameAsNote": "Owner request, 6 November 2026. IMPACT, CRAFT and GUARD Grokipedia pages return 404 and are not used.",
    "source": "live-about-page",
    "captured": "2026-10-04"
@@ -1312,5 +1314,51 @@
   },
   "source": "owner-2026-11-06",
   "captured": "2026-11-06"
- }
+ },
+ "careerPath": {
+  "_about": "How the career built the judgement. Plain English lines for the About page; no arrows or dashes.",
+  "lines": [
+   "From hardware to services to product marketing.",
+   "From horizontal SaaS to vertical SaaS to AI driven marketing.",
+   "From agency work to B2C storytelling to B2B strategy.",
+   "From brand builder to revenue marketing architect."
+  ],
+  "source": "owner-2026-11-06",
+  "captured": "2026-11-06"
+ },
+ "knowsAbout": {
+  "_about": "Added to the Person knowsAbout list after the frameworks.",
+  "sectors": [
+   "Fintech",
+   "BFSI",
+   "Logistics tech",
+   "Cybersecurity",
+   "Telecommunications",
+   "IT services and ITeS",
+   "Retail",
+   "Consumer packaged goods"
+  ],
+  "disciplines": [
+   "GTM strategy",
+   "Product marketing",
+   "Enterprise brand building",
+   "Demand generation",
+   "Account based marketing (ABM)",
+   "Product led growth (PLG)",
+   "Sales enablement: ROI calculators and battle cards",
+   "Ecosystem partnerships with ITeS, BPO, payment gateway and ERP vendors"
+  ],
+  "source": "owner-2026-11-06",
+  "captured": "2026-11-06"
+ },
+ "quotes": [
+  {
+   "id": "context-drives-strategy",
+   "text": "Context drives strategy. Playbooks merely execute it. But the right AI tool is the real judgement.",
+   "author": "Shashwat Ghosh",
+   "note": "Verbatim from the owner, with \"the\" added before \"real judgement\".",
+   "source": "owner-2026-11-06",
+   "captured": "2026-11-06"
+  }
+ ]
 }

@@ -71,7 +71,7 @@ function build(facts) {
     '@type': 'Person', '@id': PERSON, name: id.person.name, url: id.person.url, jobTitle: id.person.jobTitle,
     description: personDescription, email: id.person.email, telephone: id.person.telephone, image: id.person.image,
     address: { '@type': 'PostalAddress', addressLocality: id.person.city },
-    award: facts.awards.map((a) => a.text), knowsAbout: facts.frameworks.map((f) => f.name),
+    award: facts.awards.map((a) => a.text), knowsAbout: [...facts.frameworks.map((f) => f.name), ...((facts.knowsAbout || {}).sectors || []), ...((facts.knowsAbout || {}).disciplines || [])],
     sameAs: id.person.sameAs,
     contactPoint: { '@type': 'ContactPoint', contactType: id.person.contactPoint.contactType, name: id.person.contactPoint.name, url: id.person.contactPoint.url, email: id.person.contactPoint.email, telephone: id.person.contactPoint.telephone },
     ...links,
