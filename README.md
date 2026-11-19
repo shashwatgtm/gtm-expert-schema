@@ -1,5 +1,7 @@
 # GTM Expert Schema: Shashwat Ghosh and Helix GTM Consulting
 
+By Helix GTM Consulting (https://gtmhelix.com), built by Shashwat Ghosh, Co-Founder and Fractional CMO.
+
 Structured data for Shashwat Ghosh and Helix GTM Consulting. One facts file is the single source of truth; every other file here is generated from it.
 
 **Facts captured:** 2026-11-06. **Licence:** UNLICENSED. All rights reserved, no open licence.
